@@ -37,6 +37,49 @@
             "link": "",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "Melody",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "RoboBear04",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Brachiozaur",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Big",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "sunshineburnsmyeyes",
+            "link": "",
+            "percent": 100,
+            "hz": ?
+        },
+        
     ]
 }

@@ -1,0 +1,18 @@
+{
+    "id": 51338339,
+    "name": "Intensa Emozione",
+    "author": "iIsane",
+    "creators": [iIsane],
+    "verifier": "iIsane",
+    "verification": "https://youtu.be/GMqU5maRfXg?si=OMCv1fCITatQsYC4",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

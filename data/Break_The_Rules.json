@@ -61,6 +61,36 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Electro325",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "luczha003",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Supris",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Dissmo",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "1kb",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

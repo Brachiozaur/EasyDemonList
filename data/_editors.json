@@ -1,27 +1,47 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Heater123",
+        "link": "https://www.youtube.com/@heater1237"
     },
     {
         "role": "owner",
-        "name": "List Owner",
+        "name": "Brachiozaur",
         "link": "https://www.youtube.com/@brachiozaur6745"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "owner",
+        "name": "DIUS3D",
+        "link": "https://www.youtube.com/@dius3d"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "helper",
+        "name": "Big",
+        "link": "https://www.youtube.com/@bird_obsession"
+    },
+    {
+        "role": "helper",
+        "name": "l1ghtning",
+        "link": "https://www.youtube.com/@l1ghtning791"
+    },
+    {
+        "role": "helper",
+        "name": "AwesomeStyles",
+        "link": "https://www.youtube.com/@awesomestyles"
+    },
+    {
+        "role": "helper",
+        "name": "Redcat",
+        "link": "https://www.youtube.com/channel/UCvmBs4YmO944xT-UoqajcHw"
+    },
+    {
+        "role": "helper",
+        "name": "bula",
+        "link": "https://www.youtube.com/@xBula"
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "Also Brachiozaur ahahahahhahahahahahaha",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]

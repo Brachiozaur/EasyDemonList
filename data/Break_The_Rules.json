@@ -172,7 +172,7 @@
         },
         {
             "user": "bula",
-            "link": "",
+            "link": "https://youtu.be/X1nsQAQ2AU0",
             "percent": 100,
             "hz": "- "
         },
@@ -199,12 +199,6 @@
             "link": "",
             "percent": 100,
             "hz": "- "
-        },
-        {
-            "user": "Kwail",
-            "link": "https://www.youtube.com/watch?v=7qwltnqc8zQ",
-            "percent": 100,
-            "hz": 144
         },
         {
             "user": "Kwail",
@@ -303,8 +297,8 @@
             "hz": 120
         },
         {
-            "user": "aerialshard",
-            "link": "",
+            "user": "AerialShard",
+            "link": "https://youtu.be/VztbrqBR8DQ",
             "percent": 100,
             "hz": 60
         },
@@ -355,6 +349,120 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "yzae",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Truebolt",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "bladey",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Cosmo",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Blaster",
+            "link": "https://cdn.discordapp.com/attachments/1042663641708769280/1118910920949768303/breakdemrules.mp4?ex=673366ff&is=6732157f&hm=573e524052baed395dbb06f0496f4e2b7b6f73aca355f3ac3910677b48321a9e&",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Killer",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ydanx",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "swetrsi",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "zekek",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Yasmir",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "aidannnnnnnnnnn",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "bob",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "holycannol",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Ocide",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "playittilitshot",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "nukakulah",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sharko",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "GTA6racer",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

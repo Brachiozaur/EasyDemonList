@@ -57,10 +57,130 @@
             "hz": 60
         },
         {
-            "user": "kuba",
+            "user": "SkyHigh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Subperfect",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "RoboBear04",
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Redcat",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Kuzdavo",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DenyZr",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "cripencio99crip",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "TrueJumpy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Ireane",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "gusta",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "The_AztraL",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "oxymane",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "yzae",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Brachiozaur",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "swetrsi",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "zekek",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "secret444",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "jaynt",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MeowMasterer",
+            "link": "",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Truebolt",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

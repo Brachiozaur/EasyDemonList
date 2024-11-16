@@ -193,6 +193,42 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Sharko",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "jaynt",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MeowMasterer",
+            "link": "",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Zorktron",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "nukakulah",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

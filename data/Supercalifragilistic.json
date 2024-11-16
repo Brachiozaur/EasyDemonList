@@ -75,12 +75,6 @@
             "hz": 120
         },
         {
-            "user": "yDanx",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
             "user": "Brachiozaur",
             "link": "",
             "percent": 100,
@@ -109,12 +103,6 @@
             "link": "",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "yDanx",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
         },
         {
             "user": "Redcat",
@@ -181,6 +169,30 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Tupyton",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "yzae",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "swetrsi",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "zekek",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

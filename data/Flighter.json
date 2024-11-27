@@ -8,5 +8,96 @@
     "percentToQualify": "100",
     "password": "2371",
     "records": [
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "jkrt2",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Abeginner",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "mera",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Redcat",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Brachiozaur",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "nukakulah",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Big",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Anomaly",
+            "link": "https://cdn.discordapp.com/attachments/935751594836901899/1193391196941320342/RPReplay_Final1704596726.mov?ex=674887e9&is=67473669&hm=0862f4ae3c13a2e3280c37ee653ceb6afa121c85f33db0139f09e1a7e0827e10&",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "stickch",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Scary",
+            "link": "https://youtu.be/XSqO8PwwNyk?si=ddLXmyz8P-fmvuHg",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Melody",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+            "mobile": true
+        }
     ]
 }

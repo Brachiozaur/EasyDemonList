@@ -97,7 +97,36 @@
             "link": "",
             "percent": 100,
             "hz": 144
-            mobile: true
+        },
+        {
+            "user": "cupcake",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "AerialShard",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Ireane",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "rommydash",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "DamoonX",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

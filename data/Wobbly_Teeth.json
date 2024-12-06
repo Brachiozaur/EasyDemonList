@@ -8,5 +8,35 @@
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "FlamingPhoenix",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Spike Mike",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Melody",
+            "link": "https://youtu.be/yxR_Spys4CY?si=7KUW0rN5r4QSv4bH",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "daxylitz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }

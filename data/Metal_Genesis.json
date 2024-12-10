@@ -4,21 +4,51 @@
     "author": "CairoX",
     "creators": [],
     "verifier": "CairoX",
-    "verification": "https://youtu.be/KHK8-vV7fm4?si=f1c5lnYpJDuIY_Qy",
+    "verification": "https://youtu.be/2rrT475Qan0?si=pga0HKcvKRw_HQUf",
     "percentToQualify": "100",
-    "password": "Not Copyable",
+    "password": "123456",
     "records": [
         {
-            "user": "Ireane",
+            "user": "Sohrao",
             "link": "",
             "percent": 100,
             "hz": "- "
         },
         {
-            "user": "Big",
+            "user": "FlamingPhoenix",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Spike Mike",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Melody",
+            "link": "https://youtu.be/yxR_Spys4CY?si=Poj9fYqhE6r7cRsn",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "daxylitz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Galaxy4567",
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         },
         {
             "user": "l1ghtning",
@@ -27,82 +57,166 @@
             "hz": 360
         },
         {
-            "user": "Abeginner",
-            "link": "",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "shenanigans",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "nukakulah",
-            "link": "",
-            "percent": 100,
-            "hz": 60
-        },
-        {
             "user": "DIUS3D",
             "link": "",
             "percent": 100,
             "hz": 120
         },
         {
-            "user": "stickch",
-            "link": "",
+            "user": "SmileBullet",
+            "link": "https://youtu.be/4f0JVGbps1g",
             "percent": 100,
-            "hz": "- "
+            "hz": 60
         },
         {
-            "user": "WKGames",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
-            "user": "Melody",
+            "user": "Big",
             "link": "",
             "percent": 100,
             "hz": 144
         },
         {
-            "user": "Scary",
-            "link": "https://youtu.be/mrW36avJARc?si=JzNIiCkUfN36dTFA",
+            "user": "vova98",
+            "link": "",
             "percent": 100,
-            "hz": "- "
+            "hz": 60
         },
         {
-            "user": "cupcake",
+            "user": "infsprk",
             "link": "",
             "percent": 100,
             "hz": "- "
         },
-        {
-            "user": "rommydash",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
-            "user": "FBITB",
+         {
+            "user": "TMG",
             "link": "",
             "percent": 100,
             "hz": 360
         },
+         {
+            "user": "Hidbid",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
         {
-            "user": "goody",
+            "user": "agentgiscool",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "cripencio99crip",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Electro325",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Supris",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "1kb",
             "link": "",
             "percent": 100,
             "hz": "- "
         },
         {
-            "user": "jkrt2",
+            "user": "Redcat",
             "link": "",
             "percent": 100,
-            "hz": 360
+            "hz": 120
+        },
+        {
+            "user": "Brachiozaur",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "TheRealFrank",
+            "link": "https://youtu.be/iibpcEQgzyk",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Subperfect",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "RoboBear04",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Kuzdavo",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SkyHigh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "makak",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "DenyZr",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Progamerchair",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Cnek",
+            "link": "https://youtu.be/lVpQH5qpz4w",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "JustSupport",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sunshineburnsmyeyes",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "TrueJumpy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "secret444",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

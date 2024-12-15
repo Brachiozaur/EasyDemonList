@@ -343,6 +343,36 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Scary",
+            "link": "https://youtu.be/mrW36avJARc?si=JzNIiCkUfN36dTFA",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "jkrt2",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Abeginner",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "cupcake",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "rommydash",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

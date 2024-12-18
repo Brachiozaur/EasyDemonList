@@ -31,6 +31,30 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Cyclo",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "stickch",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Weenside",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CoolVlad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

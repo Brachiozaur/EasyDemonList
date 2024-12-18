@@ -1,0 +1,36 @@
+{
+    "id": 48149517,
+    "name": "Red",
+    "author": "Pauze",
+    "creators": [],
+    "verifier": "Pauze",
+    "verification": "https://youtu.be/fXRcVc0zhro",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Wolvyy",
+            "link": "",
+            "percent": 100,
+            "hz": 280
+        },
+        {
+            "user": "Melody",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Redcat",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

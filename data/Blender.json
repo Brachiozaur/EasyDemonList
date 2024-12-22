@@ -1,0 +1,18 @@
+{
+    "id": 11724995,
+    "name": "Blender",
+    "author": "Codex",
+    "creators": [],
+    "verifier": "Codex",
+    "verification": "https://youtu.be/WJ9gz4X4mM0?si=cLmSEzSK6XieUT7s",
+    "percentToQualify": "100",
+    "password": "80085",
+    "records": [
+        {
+            "user": "Andorra",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

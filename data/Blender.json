@@ -115,6 +115,24 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "infsprk",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

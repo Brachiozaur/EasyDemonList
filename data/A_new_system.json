@@ -8,3 +8,33 @@
     "percentToQualify": "100",
     "password": "691022",
     "records": [
+        {
+            "user": "Flourish",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Karma335",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "SmileBullet",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Cyclo",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Cmu",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        }

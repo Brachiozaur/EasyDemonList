@@ -1,0 +1,24 @@
+{
+    "id": 58878696,
+    "name": "NeXender Game",
+    "author": "Nexender",
+    "creators": [],
+    "verifier": "Nexender",
+    "verification": "https://www.youtube.com/watch?v=_eX6LmBU3Es",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Melody",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Jenny",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

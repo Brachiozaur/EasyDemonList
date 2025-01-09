@@ -133,6 +133,66 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "JAYTHEGOAT",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "TrueJumpy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "jaynt",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MeowMasterer",
+            "link": "",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Zorktron",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "nukakulah",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "holycannol",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Anomaly",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "WKGames",
+            "link": ""
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

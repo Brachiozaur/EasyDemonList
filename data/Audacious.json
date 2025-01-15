@@ -1,0 +1,30 @@
+{
+    "id": 84399065,
+    "name": "Audacious",
+    "author": "gluewis",
+    "creators": ["gluewis, PhantomX"],
+    "verifier": "gluewis",
+    "verification": "https://youtu.be/wZNXYpHjMyE?si=eeuV4tNWW2EFCMRu",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Big",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

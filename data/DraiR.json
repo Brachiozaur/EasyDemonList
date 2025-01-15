@@ -135,6 +135,12 @@
             "hz": 60
         },
         {
+            "user": "Brachiozaur",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "JAYTHEGOAT",
             "link": "",
             "percent": 100,
@@ -191,6 +197,42 @@
         {
             "user": "WKGames",
             "link": ""
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "stickch",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Abeginner",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "cupcake",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "rommydash",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "goody",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Scary",
+            "link": "https://youtu.be/WiffVqYg6qA?si=EJ1yqPtJoBQmluzS",
             "percent": 100,
             "hz": "- "
         }

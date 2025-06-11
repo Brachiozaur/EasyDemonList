@@ -174,7 +174,7 @@
             "user": "TrueJumpy",
             "link": "",
             "percent": 100,
-            "hz": "-"
+            "hz": "- "
         },
         {
             "user": "MeowMasterer",
@@ -187,6 +187,11 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Zorktron",
+            "link": "",
+            "percent": 100
         }
     ]
 }

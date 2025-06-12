@@ -156,7 +156,7 @@
             "user": "zekek",
             "link": "",
             "percent": 100,
-            "hz": "-"
+            "hz": "- "
         },
         {
             "user": "JAYTHEGOAT",
@@ -192,6 +192,25 @@
             "user": "Zorktron",
             "link": "",
             "percent": 100
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100
+            "hz": "- "
+        },
+        {
+            "user": "Anomaly",
+            "link": "",
+            "percent": 100
+            "hz": "- "
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100
+            "hz": "- "
         }
     ]
 }

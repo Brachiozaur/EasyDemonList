@@ -8,5 +8,95 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Pizzabote6h",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CoolVlad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Flourish",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "stickch",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Karma335",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Wolvyy",
+            "link": "",
+            "percent": 100,
+            "hz": 280
+        },
+        {
+            "user": "Get_Chris",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Nexo",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "vova98",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Cyclo",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dissmo",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SmileBullet",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "koishimeltdown",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DoritoFan80",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }

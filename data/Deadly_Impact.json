@@ -8,5 +8,35 @@
     "percentToQualify": "100",
     "password": 552269,
     "records": [
+        {
+            "user": "Pizzabote6h",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CoolVlad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "stickch",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Flourish",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Karma335",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        }
     ]
 }

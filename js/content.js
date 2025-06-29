@@ -18,9 +18,9 @@ export async function fetchList() {
                         {
                             ...level,
                             path,
-                            records: level.records.sort(
-                                (a, b) => b.percent - a.percent,
-                            ),
+                            records: level.records
+                                .map(({ hz, ...rest }) => rest)
+                                .sort((a, b) => b.percent - a.percent),
                         },
                         null,
                     ];
@@ -76,7 +76,6 @@ export async function fetchLeaderboard() {
 
         // Records
         level.records.forEach((record) => {
-            delete record.hz;
             const user = Object.keys(scoreMap).find(
                 (u) => u.toLowerCase() === record.user.toLowerCase(),
             ) || record.user;

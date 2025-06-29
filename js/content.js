@@ -76,6 +76,7 @@ export async function fetchLeaderboard() {
 
         // Records
         level.records.forEach((record) => {
+            delete record.hz;
             const user = Object.keys(scoreMap).find(
                 (u) => u.toLowerCase() === record.user.toLowerCase(),
             ) || record.user;

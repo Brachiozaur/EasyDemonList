@@ -9,6 +9,36 @@
     "password": "Not Copyable",
     "records": [
         {
+            "user": "weenside",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "CoolVlad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Wolvyy",
+            "link": "",
+            "percent": 100,
+            "hz": 280
+        },
+        {
+            "user": "Cyclo",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Cmu",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
             "user": "FlamingPhoenix",
             "link": "",
             "percent": 100,

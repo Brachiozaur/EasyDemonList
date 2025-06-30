@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": 363633,
     "records": [
+        {
+            "user": "SmileBullet",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }

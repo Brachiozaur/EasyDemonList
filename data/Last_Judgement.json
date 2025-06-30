@@ -8,5 +8,41 @@
     "percentToQualify": "100",
     "password": 103127,
     "records": [
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Melody",
+            "link": "https://www.youtube.com/watch?v=yxR_Spys4CY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "CoolVlad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Wolvyy",
+            "link": "",
+            "percent": 100,
+            "hz": 280
+        },
+        {
+            "user": "vova98",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }

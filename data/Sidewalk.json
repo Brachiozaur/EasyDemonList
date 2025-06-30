@@ -8,5 +8,29 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Jenny",
+            "link": "https://youtu.be/hP3yBixCbUU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "TMG",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Melody",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Big",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }

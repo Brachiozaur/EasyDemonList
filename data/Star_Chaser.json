@@ -10,7 +10,7 @@
     "records": [
         {
             "user": "Cyclo",
-            "link": "",
+            "link": "https://youtu.be/0OEgENLHUZg?si=iryYV3wQ4bsApCjv",
             "percent": 100,
             "hz": 360
         },
@@ -139,6 +139,18 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Jenny",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "olipanics",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

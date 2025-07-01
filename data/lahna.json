@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": 123457,
     "records": [
+        {
+            "user": "Wolvyy",
+            "link": "",
+            "percent": 100,
+            "hz": 280
+        },
+        {
+            "user": "Cmu",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        }
     ]
 }

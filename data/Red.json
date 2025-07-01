@@ -81,6 +81,12 @@
             "hz": 120
         },
         {
+            "user": "Jenny",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "Big",
             "link": "",
             "percent": 100,

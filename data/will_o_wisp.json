@@ -8,5 +8,47 @@
     "percentToQualify": "100",
     "password": 1996,
     "records": [
+        {
+            "user": "Overgrowth",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TMG",
+            "link": "https://youtu.be/gMEVKlLaexI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Melody",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Cyclo",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "stickch",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }

@@ -73,6 +73,18 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Whacka",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

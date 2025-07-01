@@ -13,6 +13,30 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "FlamingPhoenix",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Cyclo",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "daxylitz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Melody",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

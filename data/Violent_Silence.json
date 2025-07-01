@@ -37,6 +37,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "FlamingPhoenix",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Spike Mike",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

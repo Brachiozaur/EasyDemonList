@@ -8,5 +8,89 @@
     "percentToQualify": "100",
     "password": 108855,
     "records": [
+        {
+            "user": "FlamingPhoenix",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Nexo",
+            "link": "https://youtu.be/bFtxEbAghuA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://www.youtube.com/watch?v=M9KVMxOpD6c&ab_channel=Robaleg9",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SmileBullet",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "omnin",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Cyclo",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Wolvyy",
+            "link": "",
+            "percent": 100,
+            "hz": 280
+        },
+        {
+            "user": "Spike Mike",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "stickch",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "CoolVlad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Melody",
+            "link": "https://www.youtube.com/watch?v=yxR_Spys4CY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "daxylitz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }

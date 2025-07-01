@@ -8,5 +8,65 @@
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Cyclo",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Changeable",
+            "link": "https://www.youtube.com/watch?v=BoTy2qZNPXs",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Dissmo",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Pizzabote6h",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DoritoFan80",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "CoolVlad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Flourish",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Karma335",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "stickch",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        }
     ]
 }

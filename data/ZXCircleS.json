@@ -91,6 +91,18 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Electro325",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "szamle",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

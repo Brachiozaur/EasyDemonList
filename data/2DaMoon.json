@@ -1,24 +1,18 @@
 {
-    "id": 35305816,
-    "name": "Taimiri",
-    "author": "Jayuff",
+    "id": 62711206,
+    "name": "to the moon",
+    "author": "soda2d",
     "creators": [],
-    "verifier": "Jayuff",
-    "verification": "https://youtu.be/kjLQZIhmlOY?si=yy3cz89hi39WIwTy",
+    "verifier": "soda2d",
+    "verification": "https://youtu.be/5fpMKSuEg_0?si=maaZzWtN4540YPCH",
     "percentToQualify": "100",
-    "password": "Not Copyable",
+    "password": "Free to Copy",
     "records": [
         {
-            "user": "Melody",
+            "user": "kuba",
             "link": "",
             "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Jenny",
-            "link": "",
-            "percent": 100,
-            "hz": 60
+            "hz": 120
         },
         {
             "user": "l1ghtning",
@@ -27,16 +21,16 @@
             "hz": 360
         },
         {
-            "user": "Robaleg9",
+            "user": "TMG",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Melody",
             "link": "",
             "percent": 100,
             "hz": 144
-        },
-        {
-            "user": "stickch",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
         },
         {
             "user": "DIUS3D",
@@ -45,10 +39,10 @@
             "hz": 120
         },
         {
-            "user": "Big",
+            "user": "stickch",
             "link": "",
             "percent": 100,
-            "hz": 144
+            "hz": "- "
         }
     ]
 }

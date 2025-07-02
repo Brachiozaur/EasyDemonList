@@ -16,7 +16,7 @@
         },
         {
             "user": "Dissmo",
-            "link": "",
+            "link": "https://m.youtube.com/watch?v=CRB9NMkGc5g",
             "percent": 100,
             "hz": 60
         },
@@ -151,6 +151,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://www.youtube.com/watch?v=2bvpyIXqfpU",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

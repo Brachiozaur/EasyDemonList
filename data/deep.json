@@ -2,7 +2,7 @@
     "id": 61357205,
     "name": "deep",
     "author": "buoGrOsSo777",
-    "creators": ["buoGrOsSo777"],
+    "creators": [],
     "verifier": "buoGrOsSo777",
     "verification": "https://www.youtube.com/watch?v=u5y6ijYbm2o",
     "percentToQualify": "100",
@@ -115,6 +115,30 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "cripencio99crip",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Subperfect",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "wandee",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "RoboBear04",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

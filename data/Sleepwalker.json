@@ -61,6 +61,42 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "cripencio99crip",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Subperfect",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "wandee",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "RoboBear04",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Maverix",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Kuzdavo",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

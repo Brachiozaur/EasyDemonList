@@ -49,6 +49,24 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "cripencio99crip",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Subperfect",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "RoboBear04",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

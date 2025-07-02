@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": 7250,
     "records": [
+        {
+            "user": "1kb",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        }
     ]
 }

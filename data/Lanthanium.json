@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": 148673,
     "records": [
+        {
+            "user": "1kb",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Subspace",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        }
     ]
 }

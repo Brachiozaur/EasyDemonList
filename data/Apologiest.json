@@ -73,6 +73,12 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "1kb",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

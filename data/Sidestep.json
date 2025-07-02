@@ -151,6 +151,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "1kb",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "vova98",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

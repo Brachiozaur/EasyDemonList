@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "idfk man i need to check this",
     "records": [
+        {
+            "user": "1kb",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        }
     ]
 }

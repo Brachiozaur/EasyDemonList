@@ -139,6 +139,36 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "DenyZr",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kuzdavo",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Redcat",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "SpicyDrinkBottle",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "SkyHigh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

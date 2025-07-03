@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "1kb",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "DenyZr",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

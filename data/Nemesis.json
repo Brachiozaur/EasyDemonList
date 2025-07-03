@@ -211,6 +211,36 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "DenyZr",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Electro325",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kuzdavo",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Danii",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "SpicyDrinkBottle",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

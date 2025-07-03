@@ -55,6 +55,24 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "DenyZr",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Cnek",
+            "link": "https://youtu.be/UqRfXR72rIk",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "TrueJumpy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

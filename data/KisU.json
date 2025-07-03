@@ -79,6 +79,30 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "DenyZr",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Progamerchair",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "AerialShard",
+            "link": "https://youtu.be/VztbrqBR8DQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Phenya",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

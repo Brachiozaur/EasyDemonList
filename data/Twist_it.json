@@ -49,6 +49,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "DenyZr",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

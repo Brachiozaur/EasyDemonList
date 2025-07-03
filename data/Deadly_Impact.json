@@ -183,10 +183,46 @@
             "hz": 120
         },
         {
+            "user": "Arcadie",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Kuzdavo",
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "DenyZr",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Cnek",
+            "link": "https://youtu.be/kx8Nm71Os3k",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "JustSupport",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "TrueJumpy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "potzkar",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

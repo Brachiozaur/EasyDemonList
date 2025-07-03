@@ -8,5 +8,53 @@
     "percentToQualify": "100",
     "password": 554477,
     "records": [
+        {
+            "user": "The_AztraL",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "agentgiscool",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "shenanigans",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SkyHigh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Redcat",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "gusta",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Ireane",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        }
     ]
 }

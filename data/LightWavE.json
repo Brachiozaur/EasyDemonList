@@ -8,5 +8,59 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "shenanigans",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Peregrine",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "oxymane",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "The_AztraL",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "gusta",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Big",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }

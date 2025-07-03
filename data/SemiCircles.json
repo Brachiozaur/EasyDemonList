@@ -127,6 +127,42 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "00w",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "7w7y",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Zorktron",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "oxymane",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "The_AztraL",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ArchaneVN",
+            "link": "https://youtu.be/K3BSbx1ZpZE",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

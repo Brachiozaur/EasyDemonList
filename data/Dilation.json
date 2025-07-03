@@ -19,6 +19,42 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "The_AztraL",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "shenanigans",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Melody",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "gusta",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "SkyHigh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -8,5 +8,95 @@
     "percentToQualify": "100",
     "password": 697744,
     "records": [
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Big",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Starfruit",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Electro325",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "AstralNova",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Arcadie",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "luczha003",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "tomm",
+            "link": "https://youtu.be/4-XGSNiUGpI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "AwesomeStyles",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "TMG",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kuzdavo",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/w3vcXMeJu8o",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "The_AztraL",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }

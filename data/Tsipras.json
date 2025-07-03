@@ -8,5 +8,41 @@
     "percentToQualify": "100",
     "password": 2046,
     "records": [
+        {
+            "user": "The_AztraL",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Peregrine",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "gusta",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }

@@ -139,6 +139,18 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "oxymane",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "The_AztraL",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

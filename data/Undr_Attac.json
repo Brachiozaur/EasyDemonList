@@ -91,6 +91,30 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Peregrine",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Maverix",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "The_AztraL",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

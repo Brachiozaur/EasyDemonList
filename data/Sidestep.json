@@ -199,6 +199,18 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Sethdash",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "yzae",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

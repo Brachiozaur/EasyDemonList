@@ -10,7 +10,7 @@
     "records": [
         {
             "user": "Dissmo",
-            "link": "",
+            "link": "https://m.youtube.com/watch?v=_MKKzhLfGOQ",
             "percent": 100,
             "hz": 60
         },
@@ -145,12 +145,6 @@
             "link": "",
             "percent": 100,
             "hz": 144
-        },
-        {
-            "user": "Dissmo",
-            "link": "https://m.youtube.com/watch?v=_MKKzhLfGOQ",
-            "percent": 100,
-            "hz": 60
         },
         {
             "user": "JKBDTS",
@@ -301,6 +295,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "yzae",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -141,12 +141,6 @@
             "hz": 60
         },
         {
-            "user": "oxymane",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
             "user": "The_AztraL",
             "link": "",
             "percent": 100,
@@ -157,6 +151,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "yzae",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

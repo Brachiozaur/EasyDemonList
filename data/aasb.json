@@ -8,5 +8,53 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Azaelff",
+            "link": "",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Redcat",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Truebolt",
+            "link": "https://cdn.discordapp.com/attachments/935751594836901899/1101217746655662110/aeonair_space_battle.mp4?ex=68715bf2&is=68700a72&hm=9b538b107b2ff4d3e98724371b16bd1323493761087a59528d5f70f4ead06640&",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "bula",
+            "link": "https://youtu.be/23pdXZbmwTo",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "secret444",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Arcadie",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

@@ -73,6 +73,12 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Cosmo",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

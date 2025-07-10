@@ -157,6 +157,18 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "twinkx",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Cosmo",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

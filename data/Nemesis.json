@@ -271,6 +271,36 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Redcat",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "StarfruitGamer",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "timmydog",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "zekek",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Ireane",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

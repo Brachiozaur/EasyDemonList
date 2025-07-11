@@ -93,16 +93,16 @@
             "hz": 144
         },
         {
-            "user": "Redcat",
-            "link": "",
-            "percent": 100,
-            "hz": 120
-        },
-        {
             "user": "yzae",
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "zekek",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -277,6 +277,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "swetrsi",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "timmydog",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

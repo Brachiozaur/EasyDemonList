@@ -73,6 +73,30 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "AerialShard",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Ant1023",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "ToastyNugget",
+            "link": "https://youtu.be/OtxKlhEKPh4",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "zekek",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

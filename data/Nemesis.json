@@ -325,6 +325,18 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "randomuser9876",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

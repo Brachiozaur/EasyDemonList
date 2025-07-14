@@ -115,6 +115,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "vageoff",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

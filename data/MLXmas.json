@@ -343,6 +343,36 @@
             "link": "",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "jaynt",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "qwertypo06",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "ydanx",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "jkrt2",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "nukakulah",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

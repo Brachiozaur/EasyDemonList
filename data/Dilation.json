@@ -91,6 +91,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "MeowMasterer",
+            "link": "",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Zorktron",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

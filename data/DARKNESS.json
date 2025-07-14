@@ -211,6 +211,18 @@
             "link": "",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "jaynt",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "AerialShard",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

@@ -211,6 +211,30 @@
             "link": "",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "jaynt",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Truebolt",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ydanx",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Zorktron",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

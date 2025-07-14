@@ -357,10 +357,22 @@
             "hz": 75
         },
         {
-            "user": "MeowMasterer",
+            "user": "qwertypo06",
             "link": "",
             "percent": 100,
-            "hz": 75
+            "hz": "- "
+        },
+        {
+            "user": "Sharko",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "jkrt2",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

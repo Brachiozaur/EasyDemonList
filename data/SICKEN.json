@@ -115,6 +115,30 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "AerialShard",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Maverix",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "SmackinTheKraken",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JAYTHEGOAT",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

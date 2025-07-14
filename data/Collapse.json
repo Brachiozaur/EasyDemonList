@@ -289,6 +289,24 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "SmackinTheKraken",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ocide",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sharko",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

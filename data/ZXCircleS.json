@@ -307,6 +307,30 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "SmackinTheKraken",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ocide",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "orqng3",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "tetrade",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

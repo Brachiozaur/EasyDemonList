@@ -67,6 +67,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "SmackinTheKraken",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

@@ -31,6 +31,36 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "FromZeroEnjoyer",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Abeginner",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "qwertypo06",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

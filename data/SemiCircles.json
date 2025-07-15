@@ -241,6 +241,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "flingus",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Anomaly",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -103,6 +103,12 @@
             "link": "",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "Sharko",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

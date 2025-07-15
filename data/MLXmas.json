@@ -397,6 +397,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "CtrlZ",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Scary",
+            "link": "https://youtu.be/mrW36avJARc?si=bfkhf8CqhkaEmzqK",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -91,6 +91,18 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "jkrt2",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

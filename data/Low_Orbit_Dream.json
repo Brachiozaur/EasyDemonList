@@ -253,6 +253,18 @@
             "link": "",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "Anomaly",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

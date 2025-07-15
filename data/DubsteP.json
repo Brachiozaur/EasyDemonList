@@ -103,6 +103,12 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "FireBird",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

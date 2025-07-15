@@ -127,6 +127,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "xero",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

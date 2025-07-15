@@ -355,6 +355,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "CtrlZ",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

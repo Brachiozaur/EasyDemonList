@@ -291,6 +291,12 @@
             "hz": 240
         },
         {
+            "user": "htf",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
             "user": "Antonella",
             "link": "",
             "percent": 100,

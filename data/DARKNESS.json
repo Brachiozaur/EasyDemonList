@@ -259,6 +259,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Abeginner",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "lolazo",
+            "link": "https://youtu.be/S69ZDMxY6PM?si=CKX9kfK3Z_32HKr8",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

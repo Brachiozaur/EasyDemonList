@@ -289,6 +289,24 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "lolazo",
+            "link": "https://youtu.be/xdu8c4pIh5s?si=y_tfx3mAix0Exu_W",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "RelieV",
+            "link": "",
+            "percent": 100,
+            "hz": 90
+        },
+        {
+            "user": "Abeginner",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

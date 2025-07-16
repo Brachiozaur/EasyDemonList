@@ -1,9 +1,9 @@
 {
     "id": 51338339,
     "name": "Intensa Emozione",
-    "author": "iIsane",
+    "author": "Intensa",
     "creators": [],
-    "verifier": "iIsane",
+    "verifier": "Intensa",
     "verification": "https://youtu.be/GMqU5maRfXg?si=OMCv1fCITatQsYC4",
     "percentToQualify": "100",
     "password": "007793",
@@ -109,12 +109,6 @@
             "link": "",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "bula",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
         },
         {
             "user": "swetrsi",

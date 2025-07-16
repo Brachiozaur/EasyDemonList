@@ -469,6 +469,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "mrjustokay",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

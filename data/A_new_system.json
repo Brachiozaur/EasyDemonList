@@ -343,6 +343,30 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "PsychopathicNathan",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "goody",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "shenanigans",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "jkrt2",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

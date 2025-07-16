@@ -235,6 +235,18 @@
             "link": "https://youtu.be/WiffVqYg6qA?si=EJ1yqPtJoBQmluzS",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "AerialShard",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "shenanigans",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

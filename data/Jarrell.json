@@ -145,6 +145,36 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Subw1",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Arcadie",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "ZircleZ",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Dwibble",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

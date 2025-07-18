@@ -9,12 +9,6 @@
     "password": "Free to Copy",
     "records": [
         {
-            "user": "Sheepyboy",
-            "link": "https://youtu.be/G73RGsToqSk?si=hvCnu-fttUlFmnqF",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
             "user": "l1ghtning",
             "link": "",
             "percent": 100,
@@ -46,6 +40,42 @@
         },
         {
             "user": "TheoSi",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "AerialShard",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "nukakulah",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sheepyboy",
+            "link": "https://youtu.be/G73RGsToqSk?si=hvCnu-fttUlFmnqF",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Subw1",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "ZircleZ",
             "link": "",
             "percent": 100,
             "hz": "- "

@@ -70,7 +70,7 @@
         },
         {
             "user": "goody",
-            "link": "",
+            "link": "https://youtu.be/StdNkoLfs80?si=QNMT9eaz6lvYT6Rj",
             "percent": 100,
             "hz": "- "
         },
@@ -85,6 +85,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Subw1",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

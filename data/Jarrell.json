@@ -94,7 +94,7 @@
         },
         {
             "user": "goody",
-            "link": "",
+            "link": "https://youtu.be/wV1O1kiUB_M?si=sQ3XZ1NBhBj1Dpr9",
             "percent": 100,
             "hz": "- "
         },
@@ -139,6 +139,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "tomm",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

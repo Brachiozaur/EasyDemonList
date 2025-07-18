@@ -190,7 +190,7 @@
         },
         {
             "user": "goody",
-            "link": "",
+            "link": "https://youtu.be/17vTq3PeNJU?si=6M_zUgTDEsyXgDDa",
             "percent": 100,
             "hz": "- "
         },
@@ -217,6 +217,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "BaikalGMD",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

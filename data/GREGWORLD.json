@@ -97,6 +97,18 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Chankeh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "StellarGradient",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

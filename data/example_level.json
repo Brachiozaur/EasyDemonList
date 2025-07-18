@@ -1,0 +1,24 @@
+{
+  "id": 2147692945,
+  "name": "level_name_here",
+  "author": "author_here",
+  "creators": ["author_here", "another one", "and yet another"],
+  "verifier": "verifier_here",
+  "verification: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "percentToQualify": "100",
+  "password": "0012567",
+  "records": [
+    {
+      "user": "level_victor",
+      "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "percent": 100,
+      "hz": "honestly you can put whatever here, they are turned off in the website"
+    },
+    {
+      "user": "level_victor2",
+      "link": "",
+      "percent": 100,
+      "hz": 120
+    }
+  ]
+}

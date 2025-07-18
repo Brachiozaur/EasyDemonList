@@ -75,10 +75,40 @@
             "hz": "- "
         },
         {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
             "user": "Sheepyboy",
             "link": "https://youtu.be/aRlCcDFhRVk?si=hThzhiuR5kxugQA8",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "jkrt2",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "goody",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "bula",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "shenanigans",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

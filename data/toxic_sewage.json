@@ -333,12 +333,6 @@
             "hz": "- "
         },
         {
-            "user": "TheoSi",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
             "user": "Realdufu",
             "link": "",
             "percent": 100,
@@ -355,6 +349,30 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "red",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "nishionary",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "POKEMON GD",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Dwibble",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

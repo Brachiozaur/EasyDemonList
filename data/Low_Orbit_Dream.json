@@ -2,7 +2,7 @@
     "id": 76961255,
     "name": "Low Orbit Dream",
     "author": "Koishite",
-    "creators": ["Koishite", "HotoCot"],
+    "creators": [],
     "verifier": "Koishite",
     "verification": "https://youtu.be/77W4Cz1e3Rs?si=DAwbk57a9HLcW4tT",
     "percentToQualify": "100",
@@ -79,12 +79,6 @@
             "link": "",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "TMG",
-            "link": "",
-            "percent": 100,
-            "hz": 360
         },
         {
             "user": "1kb",

@@ -6,7 +6,7 @@
     "verifier": "Pauze",
     "verification": "https://youtu.be/L2ik_qdhIdk?si=iQMLSPD65uFrPPkf",
     "percentToQualify": "100",
-    "password": "idk check",
+    "password": 81002,
     "records": [
         {
             "user": "Melody",
@@ -85,12 +85,6 @@
             "link": "",
             "percent": 100,
             "hz": 60
-        },
-        {
-            "user": "tomm",
-            "link": "",
-            "percent": 100,
-            "hz": 240
         },
         {
             "user": "tetrade",

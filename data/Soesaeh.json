@@ -1,27 +1,21 @@
 {
-    "id": 47339027,
-    "name": "Dark Star Core",
-    "author": "Nicki1202",
-    "creators": [],
-    "verifier": "Nicki1202",
-    "verification": "https://youtu.be/vHj0pC6ykvU?si=0mMXEp5WIg_1tRRe",
+    "id": 75779429,
+    "name": "Soesaeh",
+    "author": "HadoX",
+    "creators": ["HadoX", "HaryantoGD", "KinoKuni", "Gadri", "Ishigiro"],
+    "verifier": "HadoX",
+    "verification": "https://youtu.be/lvn52wfMlQA?si=v5dZ9yn0oWMSVH6i",
     "percentToQualify": "100",
-    "password": "1202",
+    "password": "idfk check",
     "records": [
         {
-            "user": "JoacoPe",
-            "link": "",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Zorktron",
+            "user": "Sheepyboy",
             "link": "",
             "percent": 100,
             "hz": "- "
         },
         {
-            "user": "tetrade",
+            "user": "Écarlate",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -33,34 +27,40 @@
             "hz": 360
         },
         {
-            "user": "ZircleZ",
+            "user": "Big",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Shiraraxi",
             "link": "",
             "percent": 100,
             "hz": "- "
         },
         {
-            "user": "kuba",
-            "link": "",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Chankeh",
+            "user": "goody",
             "link": "",
             "percent": 100,
             "hz": "- "
         },
         {
-            "user": "Sheepyboy",
+            "user": "shenanigans",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheoSi",
             "link": "",
             "percent": 100,
             "hz": "- "
         },
         {
-            "user": "nukakulah",
+            "user": "tetrade",
             "link": "",
             "percent": 100,
-            "hz": 60
+            "hz": "- "
         },
         {
             "user": "DIUS3D",
@@ -69,13 +69,7 @@
             "hz": 120
         },
         {
-            "user": "goody",
-            "link": "https://youtu.be/MDKrniPBccU?si=vKGQ1x-ZQeqs8PCH",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
-            "user": "SafeSpace",
+            "user": "bula",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -87,22 +81,10 @@
             "hz": "- "
         },
         {
-            "user": "dashy6283",
+            "user": "POKEMON GD",
             "link": "",
             "percent": 100,
             "hz": "- "
-        },
-        {
-            "user": "Arcadie",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "tomm",
-            "link": "",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }

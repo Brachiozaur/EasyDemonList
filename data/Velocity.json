@@ -1,9 +1,9 @@
 {
     "id": 77072447,
     "name": " Velocity",
-    "author": "Horneet",
+    "author": "HRNT",
     "creators": [],
-    "verifier": "Horneet",
+    "verifier": "HRNT",
     "verification": "https://www.youtube.com/watch?v=WNxNMgA-0hM",
     "percentToQualify": "100",
     "password": 727727,
@@ -94,6 +94,36 @@
         },
         {
             "user": "Zorktron",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "ZircleZ",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Kuzdavo",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "rommydash",
             "link": "",
             "percent": 100,
             "hz": "- "

@@ -243,7 +243,7 @@
             "hz": 60
         },
         {
-            "user": "Chankeh",
+            "user": "Chahnkeh",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -253,6 +253,18 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Maverix",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "ZircleZ",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

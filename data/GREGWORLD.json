@@ -99,7 +99,7 @@
             "hz": 360
         },
         {
-            "user": "Chankeh",
+            "user": "Chahnkeh",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -115,6 +115,30 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "POKEMON GD",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "rommydash",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

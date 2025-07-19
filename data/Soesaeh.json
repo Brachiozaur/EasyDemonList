@@ -6,7 +6,7 @@
     "verifier": "HadoX",
     "verification": "https://youtu.be/lvn52wfMlQA?si=v5dZ9yn0oWMSVH6i",
     "percentToQualify": "100",
-    "password": "idfk check",
+    "password": 19734,
     "records": [
         {
             "user": "Sheepyboy",
@@ -82,6 +82,12 @@
         },
         {
             "user": "POKEMON GD",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "rommydash",
             "link": "",
             "percent": 100,
             "hz": "- "

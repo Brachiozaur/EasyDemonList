@@ -34,7 +34,7 @@
         },
         {
             "user": "Sheepyboy",
-            "link": "",
+            "link": "https://youtu.be/83HNZCDZwoI?si=b00nrsYGWgjzwosp",
             "percent": 100,
             "hz": "- "
         },
@@ -121,6 +121,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Starfruit",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

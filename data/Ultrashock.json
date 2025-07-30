@@ -1,8 +1,8 @@
 {
     "id": 71380702,
-    "name": "A Final Memorial",
+    "name": "Ultrashock",
     "author": "FurixGD",
-    "creators": "FurixGD","DangerKat"
+    "creators": ["FurixGD","DangerKat"]
     "verifier": "FurixGD",
     "verification": "https://youtu.be/kBFPfT0nk0U?si=5M386RGN6ejmUuV1",
     "percentToQualify": "100",
@@ -91,6 +91,5 @@
             "link": "",
             "percent": 100,
             "hz": "- "
-        },
     ]
 }

@@ -163,6 +163,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Wide Shady",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -9,6 +9,64 @@
     "password": "Free to Copy",
     "records": [
         {
+            "user": "CoolVlad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pizzabote6h",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sam 741",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Flourish",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "stickch",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Karma335",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "SportsCarz11",
+            "link": "https://youtu.be/8fWVEhaSV98",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Sohrao",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "FlamingPhoenix",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Spike Mike",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

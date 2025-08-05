@@ -9,6 +9,58 @@
     "password": 555555,
     "records": [
         {
+            "user": "Nexo",
+            "link": "https://youtu.be/e2Osg9P5wn4?list=PLxCHv2YAUm1p-nONNkGKYzIJydtjOqmXX",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Cyclo",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "CoolVlad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Wolvyy",
+            "link": "",
+            "percent": 100,
+            "hz": 280
+        },
+        {
+            "user": "stickch",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Melody",
+            "link": "https://www.youtube.com/watch?v=yxR_Spys4CY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "daxylitz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

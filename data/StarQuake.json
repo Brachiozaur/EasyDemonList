@@ -1,30 +1,18 @@
 {
-    "id": 3447363,
-    "name": "Voyager II (P)",
-    "author": "Havok",
+    "id": 308891,
+    "name": "StarQuake (P)",
+    "author": "MasK463",
     "creators": [],
-    "verifier": "Havok",
-    "verification": "https://youtu.be/HmtxVOolwPc?si=FN6pTPn6S2kddX95",
+    "verifier": "MasK463",
+    "verification": "https://youtu.be/jH5NrMCcJpk?si=StBPcA7iQyai97Qd",
     "percentToQualify": "100",
-    "password": "Not Copyable",
+    "password": "check",
     "records": [
         {
-            "user": "CoolVlad",
+            "user": "Melody",
             "link": "",
             "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "SmileBullet",
-            "link": "",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "vova98",
-            "link": "",
-            "percent": 100,
-            "hz": 60
+            "hz": 144
         },
         {
             "user": "Wolvyy",
@@ -33,28 +21,10 @@
             "hz": 280
         },
         {
-            "user": "Mutant",
+            "user": "Redcat",
             "link": "",
             "percent": 100,
-            "hz": "- "
-        },
-        {
-            "user": "olmo",
-            "link": "",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Cyclo",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Get_Chris",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
+            "hz": 120
         },
         {
             "user": "stickch",
@@ -63,10 +33,40 @@
             "hz": "- "
         },
         {
-            "user": "KemFreerun",
+            "user": "Cyclo",
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "SmileBullet",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Razzley",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "CoolVlad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DoritoFan80",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

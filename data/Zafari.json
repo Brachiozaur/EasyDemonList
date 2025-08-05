@@ -9,6 +9,12 @@
     "password": 17314,
     "records": [
         {
+            "user": "Cyclo",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Big",
             "link": "",
             "percent": 100,

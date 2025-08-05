@@ -9,6 +9,10 @@
     "password": 111111,
     "records": [
         {
+            "user": "Cyclo",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

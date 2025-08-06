@@ -67,6 +67,30 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Whacka",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Arcadie",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

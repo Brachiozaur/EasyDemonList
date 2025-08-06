@@ -43,6 +43,24 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Whacka",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Nexo",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -9,6 +9,70 @@
     "password": "Free to Copy",
     "records": [
         {
+            "user": "Nexo",
+            "link": "https://youtu.be/NilaJ9SEVpQ",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Robaleg9",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Melody",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Redcat",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "omnin",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "TMG",
+            "link": "https://youtu.be/qM49xIMoV6c",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Jenny",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "lv3plane",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

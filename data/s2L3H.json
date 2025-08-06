@@ -133,6 +133,42 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Whacka",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TMG",
+            "link": "https://youtu.be/EZpQgnCEYZA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Geiser147",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

@@ -1,0 +1,114 @@
+{
+    "id": 86372586,
+    "name": "CLEAR",
+    "author": "Orue",
+    "creators": [],
+    "verifier": "Orue",
+    "verification": "https://youtu.be/TzdKk7ugzog?si=H5chG9pkkQlN1K-g",
+    "percentToQualify": "100",
+    "password": "idk check",
+    "records": [
+        {
+            "user": "tomm",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tetrade",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "holycannol",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "rommydash",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "goody",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "yzae",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ZircleZ",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "nukakulah",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "StellarGradient",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Yefan",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "SkyHigh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user" : "AceK58",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "AerialShard",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Chahnkeh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

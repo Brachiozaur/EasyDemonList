@@ -145,6 +145,24 @@
             "link": "https://youtu.be/GN7Cbo8toTc?feature=shared",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "AerialShard",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Chahnkeh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "RoboBear04",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

@@ -469,6 +469,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "TheoSi",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

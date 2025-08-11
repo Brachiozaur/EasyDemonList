@@ -9,6 +9,16 @@
     "password": 693145,
     "records": [
         {
+            "user": "1kb",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "DenyZr",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

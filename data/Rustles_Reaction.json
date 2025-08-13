@@ -223,6 +223,36 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Starfruit",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "QuadSecret",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "oxymane",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "The_AztraL",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Arcadie",
+            "link": "https://youtu.be/DSMr8wD_aY8",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -109,6 +109,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "RoboBear04",
+            "link": "https://youtu.be/t09lWufQ2xM?si=6CNsTZvNyleRpf6k",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

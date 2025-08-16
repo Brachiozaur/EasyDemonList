@@ -301,6 +301,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Etoile speed",
+            "link": "https://www.youtube.com/watch?v=6XOxENwdDU0",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

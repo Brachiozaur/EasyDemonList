@@ -523,6 +523,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Etoile speed",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

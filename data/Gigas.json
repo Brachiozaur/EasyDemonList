@@ -223,6 +223,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Chahnkeh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

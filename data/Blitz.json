@@ -175,6 +175,18 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "TheoSi",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "cupcake",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -193,6 +193,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "gtdm",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Jarzst",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

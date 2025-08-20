@@ -6,7 +6,7 @@
     "verifier": "Intensa",
     "verification": "https://youtu.be/GMqU5maRfXg?si=OMCv1fCITatQsYC4",
     "percentToQualify": "100",
-    "password": "007793",
+    "password": "Free to Copy",
     "records": [
         {
             "user": "l1ghtning",
@@ -575,6 +575,12 @@
         {
             "user": "Beli9002",
             "link": "https://youtu.be/L3FqnYRmOa8?si=sTOszgkuM-CfgZw6",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "carso",
+            "link": "",
             "percent": 100,
             "hz": "- "
         }

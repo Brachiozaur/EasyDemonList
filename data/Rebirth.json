@@ -475,6 +475,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "carso",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -61,6 +61,84 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Peregrine",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "bladey",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "yzae",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Arcadie",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "agentgiscool",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ydanx",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "swetrsi",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "zekek",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "SkyHigh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "QuadSecret",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "SmackinTheKraken",
+            "link": "https://cdn.discordapp.com/attachments/935751594836901899/1136859070410784788/Dubbayoo_Force_Field_100_Easy_Demon.mp4?ex=68a9da44&is=68a888c4&hm=54ca9ba04eeb3c832878c1e16e46d4705347e96a2e123ed4e98056856c8fdf07&",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SmackinTheKraken",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

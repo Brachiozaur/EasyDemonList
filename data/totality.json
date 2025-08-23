@@ -9,6 +9,46 @@
     "password": "Free to Copy",
     "records": [
         {
+            "user": "SmackinTheKraken",
+            "link": "https://cdn.discordapp.com/attachments/935751594836901899/1138644320346456164/gluewis_totality_100_Easy_Demon.mp4?ex=68a9c168&is=68a86fe8&hm=11ae9a8f89d4b6b129003e670a31db44db6468cebbd0fa17ee8fe9442af7cca6&",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ireane",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Big",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

@@ -55,6 +55,36 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "AerialShard",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "nukakulah",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "MeowMasterer",
+            "link": "",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Zorktron",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Mushromer",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -67,6 +67,54 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "MeowMasterer",
+            "link": "",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "jaynt",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Zorktron",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "jkrt2",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Ireane",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Abeginner",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

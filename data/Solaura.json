@@ -217,6 +217,66 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "FromZeroEnjoyer",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "holycannol",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "jaynt",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MeowMasterer",
+            "link": "",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "ydanx",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Sharko",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Ireane",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "QuadSecret",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Justinthepro1",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Uni",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

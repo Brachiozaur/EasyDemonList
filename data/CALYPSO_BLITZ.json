@@ -61,6 +61,36 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Beulraeki",
+            "link": "https://youtu.be/C5qShYDVyzE",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "QuadSecret",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "playittilitshot",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Ocide",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sharko",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

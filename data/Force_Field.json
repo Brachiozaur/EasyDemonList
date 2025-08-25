@@ -139,6 +139,90 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "TrueJumpy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "MeowMasterer",
+            "link": "",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Zorktron",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "nukakulah",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "playittilitshot",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "jkrt2",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Abeginner",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "holycannol",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Anomaly",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Ireane",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Dorelxhr",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "ungafo",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

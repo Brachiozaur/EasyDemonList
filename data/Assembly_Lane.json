@@ -237,12 +237,6 @@
             "hz": 120
         },
         {
-            "user": "CoriDawg",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
             "user": "Jarzst",
             "link": "",
             "percent": 100,
@@ -250,6 +244,12 @@
         },
         {
             "user": "bonezizdum",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "CoriOshawott",
             "link": "",
             "percent": 100,
             "hz": "- "

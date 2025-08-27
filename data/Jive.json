@@ -39,12 +39,6 @@
             "hz": "- "
         },
         {
-            "user": "sigmaexe",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
             "user": "StellarGradient",
             "link": "",
             "percent": 100,
@@ -127,6 +121,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Sheepyboy",
+            "link": "https://youtu.be/OlIi32syJ3Q?si=Fw2puqm0G14R4AbV",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

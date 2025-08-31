@@ -1,0 +1,120 @@
+{
+    "id": 70674346,
+    "name": "CRACK",
+    "author": "LIEB",
+    "creators": ["Lieb", "Gusearth", "GDSkele", "Mzero", "ItsHybrid", "8BitFudge", "Coliwog"],
+    "verifier": "LIEB",
+    "verification": "https://youtu.be/OPIqm62D4GI?si=nHoFr4i8swpm32Yv",
+    "percentToQualify": "100",
+    "password": "333333",
+    "records": [
+        {
+            "user": "ZircleZ",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "StellarGradient",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tomm",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "POKEMON GD",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "MrPoopyBurger",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Kuzdavo",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DaShahzad",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "nukakulah",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "SkyHigh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "shiver",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "carso",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "CoriOshawott",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SafeSpace",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "dashy6283",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "AceK58",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Stallia",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        }
+    ]
+}

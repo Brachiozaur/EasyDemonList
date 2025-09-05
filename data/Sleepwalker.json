@@ -295,6 +295,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "bonezizdum",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

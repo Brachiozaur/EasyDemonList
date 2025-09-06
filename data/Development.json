@@ -235,6 +235,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Sir_Manface",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "POKEMON GD",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

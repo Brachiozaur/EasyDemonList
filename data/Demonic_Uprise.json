@@ -81,7 +81,7 @@
             "hz": 360
         },
         {
-            "user": "bladey",
+            "user": "Bladey",
             "link": "",
             "percent": 100,
             "hz": 60
@@ -298,6 +298,12 @@
         },
         {
             "user": "krii",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "xyne",
             "link": "",
             "percent": 100,
             "hz": "- "

@@ -619,6 +619,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Bladey",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

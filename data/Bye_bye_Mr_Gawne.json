@@ -307,6 +307,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Stallia",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

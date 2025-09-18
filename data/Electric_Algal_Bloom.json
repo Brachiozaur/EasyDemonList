@@ -121,6 +121,12 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "wassas1",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

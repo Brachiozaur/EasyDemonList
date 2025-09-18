@@ -535,6 +535,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "red",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -211,6 +211,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "xyne",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -655,6 +655,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Aldia",
+            "link": "",
+            "percent": 100,
+            "hz": "- "    
         }
     ]
 }

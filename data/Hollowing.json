@@ -255,10 +255,16 @@
             "hz": 360
         },
         {
-            "user": "Aldia",
+            "user": "Music addict",
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Aldia",
+            "link": "",
+            "percent": 100,
+            "hz": "- "    
         }
     ]
 }

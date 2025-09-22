@@ -559,6 +559,18 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "MoulesFrites",
+            "link": "",
+            "percent": 100,
+            "hz": "- "    
+        },
+        {
+            "user": "Musix",
+            "link": "",
+            "percent": 100,
+            "hz": "- "    
         }
     ]
 }

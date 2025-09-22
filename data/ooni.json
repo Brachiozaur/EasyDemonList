@@ -343,6 +343,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "RoboBear04",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

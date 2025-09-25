@@ -570,7 +570,13 @@
             "user": "Musix",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
+        },
+        {
+            "user": "Écarlate",
+            "link": "",
+            "percent": 100,
+            "hz": "-"    
         }
     ]
 }

@@ -367,6 +367,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Écarlate",
+            "link": "",
+            "percent": 100,
+            "hz": "-"    
         }
     ]
 }

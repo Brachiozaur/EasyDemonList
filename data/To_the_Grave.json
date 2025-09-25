@@ -342,6 +342,12 @@
             "user": "MoulesFrites",
             "link": "",
             "percent": 100,
+            "hz": "-"
+        },
+        {
+            "user": "Écarlate",
+            "link": "",
+            "percent": 100,
             "hz": "-"    
         }
     ]

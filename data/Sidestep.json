@@ -612,7 +612,13 @@
             "user": "Écarlate",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
+        },
+        {
+            "user": "MoulesFrites",
+            "link": "",
+            "percent": 100,
+            "hz": "- "    
         }
     ]
 }

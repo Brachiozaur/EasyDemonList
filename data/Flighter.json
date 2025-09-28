@@ -4,7 +4,7 @@
     "author": "KuraiYonaka",
     "creators": ["KuraiYonaka, NetFlix"],
     "verifier": "KuraiYonaka",
-    "verification": "https://youtu.be/VvKumzRyF0A?si=NALppFR5NM89Ap4X",
+    "verification": "https://youtu.be/VvKumzRyF0A",
     "percentToQualify": "100",
     "password": "2371",
     "records": [
@@ -88,7 +88,7 @@
         },
         {
             "user": "Scary",
-            "link": "https://youtu.be/XSqO8PwwNyk?si=ddLXmyz8P-fmvuHg",
+            "link": "https://youtu.be/XSqO8PwwNyk",
             "percent": 100,
             "hz": "- "
         },
@@ -130,7 +130,7 @@
         },
         {
             "user": "goody",
-            "link": "https://youtu.be/-b0CvFA6xmc?si=5ExNUtkze_SOx6bG",
+            "link": "https://youtu.be/-b0CvFA6xmc",
             "percent": 100,
             "hz": "- "
         },
@@ -154,7 +154,7 @@
         },
         {
             "user": "Sheepyboy",
-            "link": "https://youtu.be/JbhnuebG1jo?si=eJ7QBLrCYEBM7R2Y",
+            "link": "https://youtu.be/JbhnuebG1jo",
             "percent": 100,
             "hz": "- "
         },

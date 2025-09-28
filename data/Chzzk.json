@@ -4,7 +4,7 @@
     "author": "SnowEye",
     "creators": [],
     "verifier": "SnowEye",
-    "verification": "https://youtu.be/4LtR9UGHUSg?si=ks9WmABOijEMGXLg",
+    "verification": "https://youtu.be/4LtR9UGHUSg",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
@@ -34,7 +34,7 @@
         },
         {
             "user": "Sheepyboy",
-            "link": "https://youtu.be/83HNZCDZwoI?si=b00nrsYGWgjzwosp",
+            "link": "https://youtu.be/83HNZCDZwoI",
             "percent": 100,
             "hz": "- "
         },
@@ -218,7 +218,8 @@
             "percent": 100,
             "hz": 144
         }
-    ]
+    ]
+
 }
 
 

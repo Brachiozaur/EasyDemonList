@@ -4,7 +4,7 @@
     "author": "RealZober",
     "creators": ["RealZober", "PotatoBaby"],
     "verifier": "RealZober",
-    "verification": "https://youtu.be/5K_Vfxnp-fk?si=_0N9cm4mMcDW56zM",
+    "verification": "https://youtu.be/5K_Vfxnp-fk",
     "percentToQualify": "100",
     "password": 2206,
     "records": [
@@ -106,7 +106,7 @@
         },
         {
             "user": "Sheepyboy",
-            "link": "https://youtu.be/YoI1bq4TRLs?si=3JeiE4p7PW4LJvFM",
+            "link": "https://youtu.be/YoI1bq4TRLs",
             "percent": 100,
             "hz": "- "
         },
@@ -142,7 +142,7 @@
         },
         {
             "user": "goody",
-            "link": "https://youtu.be/EFo7_y9PlWE?feature=shared",
+            "link": "https://youtu.be/EFo7_y9PlWE",
             "percent": 100,
             "hz": "- "
         },

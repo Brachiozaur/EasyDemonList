@@ -4,7 +4,7 @@
     "author": "StevenKsttle",
     "creators": [],
     "verifier": "mbed",
-    "verification": "https://youtu.be/NL8IHg_CW_k?si=qaRt8tMVMADghAMy",
+    "verification": "https://youtu.be/NL8IHg_CW_k",
     "percentToQualify": "100",
     "password": 7250,
     "records": [
@@ -184,7 +184,7 @@
         },
         {
             "user": "Sheepyboy",
-            "link": "https://youtu.be/QzupeBhgtu4?si=QbNnq0JhzliwM4Ku",
+            "link": "https://youtu.be/QzupeBhgtu4",
             "percent": 100,
             "hz": "- "
         },

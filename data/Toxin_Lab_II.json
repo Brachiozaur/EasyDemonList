@@ -306,7 +306,13 @@
             "user": "MoulesFrites",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
+        },
+        {
+            "user": "nukalukah",
+            "link": "",
+            "percent": 100,
+            "hz": "-"    
         }
     ]
 }

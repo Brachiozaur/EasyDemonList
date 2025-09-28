@@ -294,7 +294,13 @@
             "user": "Musix",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
+        },
+        {
+            "user": "wassas1",
+            "link": "",
+            "percent": 100,
+            "hz": "-"    
         }
     ]
 }

@@ -420,10 +420,17 @@
             "user": "MoulesFrites",
             "link": "",
             "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "xyne",
+            "link": "",
+            "percent": 100,
             "hz": "- "    
         }
     ]
 }
+
 
 
 

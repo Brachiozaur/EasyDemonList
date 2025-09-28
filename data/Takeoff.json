@@ -576,7 +576,13 @@
             "user": "Écarlate",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
+        },
+        {
+            "user": "Compooper",
+            "link": "",
+            "percent": 100,
+            "hz": "- "    
         }
     ]
 }

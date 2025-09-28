@@ -858,7 +858,13 @@
             "user": "Écarlate",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
+        },
+        {
+            "user": "Musix",
+            "link": "",
+            "percent": 100,
+            "hz": "- "    
         }
     ]
 }

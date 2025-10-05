@@ -2,7 +2,7 @@
     "id": 85928957,
     "name": "Constellation (oleki)",
     "author": "oleki",
-    "creators": ["oleki"],
+    "creators": [],
     "verifier": "oleki",
     "verification": "https://www.youtube.com/watch?v=kXxMYmDwufI",
     "percentToQualify": "100",
@@ -103,6 +103,30 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "AerialShard",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "TheoSi",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "RoboBear04",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "dashy6283",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

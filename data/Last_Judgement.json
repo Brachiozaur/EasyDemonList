@@ -249,7 +249,7 @@
             "hz": 60
         },
         {
-            "user": "gonkergd",
+            "user": "gonker",
             "link": "",
             "percent": 100,
             "hz": 144
@@ -325,6 +325,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Écarlate",
+            "link": "",
+            "percent": 100,
+            "hz": "-"
         }
     ]
 }

@@ -150,7 +150,13 @@
             "user": "Jarzst",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
+        },
+        {
+            "user": "krii",
+            "link": "",
+            "percent": 100,
+            "hz": "- "    
         }
     ]
 }

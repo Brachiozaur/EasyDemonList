@@ -438,6 +438,12 @@
             "user": "Cyber",
             "link": "",
             "percent": 100,
+            "hz": "-"
+        },
+        {
+            "user": "MoulesFrites",
+            "link": "",
+            "percent": 100,
             "hz": "- "    
         }
     ]

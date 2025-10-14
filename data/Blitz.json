@@ -252,7 +252,13 @@
             "user": "Jarzst",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
+        },
+        {
+            "user": "Music addict",
+            "link": "",
+            "percent": 100,
+            "hz": "- "    
         }
     ]
 }

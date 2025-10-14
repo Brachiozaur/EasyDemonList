@@ -91,7 +91,14 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "krii",
+            "link": "",
+            "percent": 100,
+            "hz": "- "    
         }
     ]
 
 }
+

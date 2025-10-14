@@ -234,6 +234,12 @@
             "user": "Musix",
             "link": "",
             "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "AerialShard",
+            "link": "",
+            "percent": 100,
             "hz": "- "    
         }
     ]

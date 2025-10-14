@@ -78,7 +78,13 @@
             "user": "AceK58",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
+        },
+        {
+            "user": "AerialShard",
+            "link": "",
+            "percent": 100,
+            "hz": "- "    
         }
     ]
 }

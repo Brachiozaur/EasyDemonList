@@ -882,6 +882,12 @@
             "user": "Cyber",
             "link": "",
             "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Instinct",
+            "link": "",
+            "percent": 100,
             "hz": "- "    
         }
     ]

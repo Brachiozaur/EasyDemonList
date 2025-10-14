@@ -642,7 +642,13 @@
             "user": "Xcay",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
+        },
+        {
+            "user": "Instinct",
+            "link": "",
+            "percent": 100,
+            "hz": "- "    
         }
     ]
 }

@@ -180,6 +180,12 @@
             "user": "l1ghtning",
             "link": "",
             "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "TheoSi",
+            "link": "",
+            "percent": 100,
             "hz": "- "    
         }
     ]

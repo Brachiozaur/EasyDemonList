@@ -168,6 +168,18 @@
             "user": "Music addict",
             "link": "",
             "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "ToxicAgent",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
             "hz": "- "    
         }
     ]

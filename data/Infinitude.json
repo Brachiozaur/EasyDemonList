@@ -493,6 +493,12 @@
             "link": "",
             "percent": 100,
             "hz": "-"    
+        },
+        {
+            "user": "Kiko7535",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

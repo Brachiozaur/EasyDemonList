@@ -31,11 +31,6 @@
     },
     {
         "role": "helper",
-        "name": "Redcat",
-        "link": "https://www.youtube.com/channel/UCvmBs4YmO944xT-UoqajcHw"
-    },
-    {
-        "role": "helper",
         "name": "bula",
         "link": "https://www.youtube.com/@xBula"
     },
@@ -48,6 +43,11 @@
         "role": "helper",
         "name": "Sheepyboy",
         "link": "https://www.youtube.com/@sheepyboy44"
+    },
+    {
+        "role": "helper",
+        "name": "tommgd",
+        "link": "https://www.youtube.com/channel/UCObExuzSHQ7Y6PK78fpos_Q"
     },
     {
         "role": "dev",

@@ -505,6 +505,24 @@
             "link": "",
             "percent": 100,
             "hz": "-"
+        },
+        {
+            "user": "TheVariety1",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "BitSonic",
+            "link": "",
+            "percent": 100,
+            "hz": "-"
+        },
+        {
+            "user": "wolven",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

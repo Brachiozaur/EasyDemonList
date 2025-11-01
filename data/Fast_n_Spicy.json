@@ -613,6 +613,24 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "TheVariety1",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Helvetica-dev",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wolven",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

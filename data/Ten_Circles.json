@@ -8,5 +8,107 @@
     "percentToQualify": "100",
     "password": "None",
     "records": [
-  ]
+        {
+            "user": "POKEMON GD",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wassas1",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ZircleZ",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "nukakulah",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DIUSED",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "CoriOshawott",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "chahnkeh",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheoSi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Jnellee72",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DaShahzard",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Cearulyze",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "RoboBear04",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "shiver",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tomm",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "dashy6283",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "AceK58",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

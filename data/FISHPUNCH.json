@@ -1,0 +1,108 @@
+{
+    "id": 98665122,
+    "name": "FISHPUNCH",
+    "author": "Vadi",
+    "creators": ["Vadi", "vitchrose"],
+    "verifier": "Vadi",
+    "verification": "https://youtu.be/71_sjQkwfNo?si=PehnDFzkJDgd4HWM",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "tomm",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "SkyHigh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "dashy6283",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "CoriOshawott",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "nukakulah",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Chahnkeh",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ZircleZ",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Big",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "POKEMON GD",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "AwesomeStyles",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Wide Shady",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Kruxxdd",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "ttrr",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SafeSpace",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "xyne",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        }
+    ]
+}

@@ -181,6 +181,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Appletun21",
+            "link": "",
+            "percent": 100,
+            "hz": "-"
         }
     ]
 }

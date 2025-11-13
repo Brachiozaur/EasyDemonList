@@ -1,0 +1,84 @@
+{
+    "id": 4586988,
+    "name": "Sentinel",
+    "author": "Angelism",
+    "creators": [],
+    "verifier": "Angelism",
+    "verification": "https://youtu.be/liGA8J45lRE?si=s7oqC42fkCF_BPuS",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "CoriOshawott",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "rose",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ZircleZ",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "POKEMON GD",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "nukakulah",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "DaShahzad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Cearulyze",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "wolven",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "RoboBear04",
+            "link": "",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        }
+    ]
+}

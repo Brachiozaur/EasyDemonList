@@ -223,6 +223,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "NikoR 227",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

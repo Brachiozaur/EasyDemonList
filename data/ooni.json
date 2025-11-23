@@ -63,7 +63,7 @@
             "hz": 120
         },
         {
-            "user": "Beulraeki",
+            "user": "Scolipede",
             "link": "https://youtu.be/jj1qMNewSCY",
             "percent": 100,
             "hz": "- "
@@ -358,6 +358,12 @@
         },
         {
             "user": "Cyber",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Boo",
             "link": "",
             "percent": 100,
             "hz": "- "

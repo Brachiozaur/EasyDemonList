@@ -15,7 +15,7 @@
             "hz": 120
         },
         {
-            "user": "rose",
+            "user": "bula",
             "link": "",
             "percent": 100,
             "hz": 360
@@ -107,6 +107,36 @@
         {
             "user": "SkyHigh",
             "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Wide Shady",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Music addict",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Music addict",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "goody",
+            "link": "https://youtu.be/PiHIpPoZYjA",
             "percent": 100,
             "hz": "- "
         }

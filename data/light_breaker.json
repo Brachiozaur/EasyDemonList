@@ -1,0 +1,66 @@
+{
+    "id": 58595056,
+    "name": "light breaker",
+    "author": "Xyound",
+    "creators": ["Xyound", "R3S1GNAT1ON", "Lerixon", "IPablinI"],
+    "verifier": "Xyound",
+    "verification": "https://youtu.be/3l8mFLqh2pI?si=Co7AqWKahX5cvQCo7MMW",
+    "percentToQualify": "100",
+    "password": "002019",
+    "records": [
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "POKEMON GD",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "wassas1",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "tomm",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "RoboBear04",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Cearulyze",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "ZircleZ",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Chahnkeh",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": 108803133,
+    "name": "evenfall",
+    "author": "spark",
+    "creators": [],
+    "verifier": "spark",
+    "verification": "https://youtu.be/qJKLuOUhxlQ?si=yHwJbXqJpI6a7ktB",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "shenanigans",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ZircleZ",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Boo",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CoriOshawott",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "POKEMON GD",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "RoboBear04",
+            "link": "https://youtu.be/F0lj2g44eBE?si=OmRNUs0l5DACsRCm&t=195"
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "DaShahzad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "wassas1",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "AceK58",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

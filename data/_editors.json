@@ -7,7 +7,7 @@
     {
         "role": "owner",
         "name": "Arcadie",
-        "link": "www.youtube.com/@GW-Arcadie"
+        "link": "https://www.youtube.com/@GW-Arcadie"
     },
     {
         "role": "owner",
@@ -50,9 +50,14 @@
         "link": "https://www.youtube.com/channel/UCObExuzSHQ7Y6PK78fpos_Q"
     },
     {
+        "role": "thread_helper",
+        "name": "CoriOshawott",
+        "link": "https://youtube.com/@corioshawott"
+    },
+    {
         "role": "dev",
         "name": "Arcadie",
-        "link": "www.youtube.com/@GW-Arcadie"
+        "link": "https://www.youtube.com/@GW-Arcadie"
     },
     {
         "role": "dev",

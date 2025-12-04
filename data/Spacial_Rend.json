@@ -277,6 +277,18 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "notjames",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "AgentDarius",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

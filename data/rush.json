@@ -199,6 +199,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "goody",
+            "link": "https://youtu.be/d-0OB-y8Sj0?si=nkuBpyrKmIMBkdng",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

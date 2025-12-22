@@ -423,7 +423,7 @@
             "hz": 240
         },
         {
-            "user": "Chahnkeh",
+            "user": "Chonkey",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -730,6 +730,12 @@
         },
         {
             "user": "TJB",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "V3X",
             "link": "",
             "percent": 100,
             "hz": "- "

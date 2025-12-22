@@ -393,7 +393,7 @@
             "hz": 120
         },
         {
-            "user": "Chahnkeh",
+            "user": "Chonkey",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -808,6 +808,12 @@
         },
         {
             "user": "LifelessComputer",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "MistyFang",
             "link": "",
             "percent": 100,
             "hz": "- "

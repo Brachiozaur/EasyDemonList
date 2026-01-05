@@ -1,0 +1,458 @@
+[
+    {
+        "name": "Big's Pack",
+        "levels": [
+            "Oblivious",
+            "Low_Orbit_Dream",
+            "DraiR",
+            "Infinitude",
+            "A_Final_Memorial"
+        ],
+        "colour": "#5bcaf2"
+    },
+    {
+        "name": "Diused's Pack",
+        "levels": [
+            "Inspirative_II",
+            "Last_Judgement",
+            "Metal_Magic",
+            "New_Age_Blizzard",
+            "Reconfigurate"
+        ],
+        "colour": "#2100ff"
+    },
+    {
+        "name": "Lightning's Pack",
+        "levels": [
+            "Electrical_Room",
+            "Infinitude",
+            "ZXCircleS",
+            "Hollowing",
+            "New_Age_Blizzard"
+        ],
+        "colour": "#e487fc"
+    },
+    {
+        "name": "Arcadie's Pack",
+        "levels": [
+            "Intensa_Emozione",
+            "Undr_Attac",
+            "CTRL_C",
+            "Rebirth",
+            "Cosmic_Dreamer_V2"
+        ],
+        "colour": "#71368a"
+    },
+    {
+        "name": "AwesomeStyles' Pack",
+        "levels": [
+            "Takeoff",
+            "ZXCircleS",
+            "aasb",
+            "washington_moshing",
+            "Huakai"
+        ],
+        "colour": "#f1d000"
+    },
+    {
+        "name": "rose's Pack",
+        "levels": [
+            "DARKNESS",
+            "SemiCircles",
+            "Dailen",
+            "Fast_n_Spicy",
+            "Red"
+        ],
+        "colour": "#b2fcfc"
+    },
+    {
+        "name": "Ace's Pack",
+        "levels": [
+            "Power_Surge",
+            "Electric_Algal_Bloom",
+            "CHEXTMIX",
+            "Astral_Prism",
+            "A_Final_Memorial"
+        ],
+        "colour": "#ffd900"
+    },
+    {
+        "name": "Sheepyboy's Pack",
+        "levels": [
+            "Space_Invaders",
+            "CHEXTMIX",
+            "Lost_To_Time",
+            "Lanthanium",
+            "Soesaeh"
+        ],
+        "colour": "#ff6100"
+    },
+    {
+        "name": "tomm's Pack",
+        "levels": [
+            "Flighter",
+            "Tungsten_Cube",
+            "Everlasting",
+            "Dailen",
+            "NADRR"
+        ],
+        "colour": "#000292"
+    },
+    {
+        "name": "Cori's Pack",
+        "levels": [
+            "totality",
+            "Cosmic_Dreamer_V2",
+            "Portrait",
+            "Lost_To_Time",
+            "Aerophobia"
+        ],
+        "colour": "#e67e22"
+    },
+    {
+        "name": "Chonkey's Pack",
+        "levels": [
+            "Metal_Genesis",
+            "Dark_Star_Core",
+            "Dimension_Hopper",
+            "NADRR",
+            "Resurgance"
+        ],
+        "colour": "#077023"
+    },
+    {
+        "name": "Wave Pack",
+        "levels": [
+            "Rebirth",
+            "ZXCircleS",
+            "SemiCircles",
+            "Hamduck"
+        ],
+        "colour": "#3498db"
+    },
+    {
+        "name": "XL Pack",
+        "levels": [
+            "Underworld",
+            "Amiru",
+            "Next_Stop",
+            "Jarrell",
+            "Bloudeleuste",
+            "Ice_Melt"
+        ],
+        "colour": "#2ecc71"
+    },
+    {
+        "name": "GDPS Pack",
+        "levels": [
+            "Infinitude",
+            "Low_Orbit_Dream",
+            "Audacious"
+        ],
+        "colour": "#5249f5"
+    },
+    {
+        "name": "Toxic Pack",
+        "levels": [
+            "toxic_sewage",
+            "Radioactive_Zone",
+            "Deadly_Impact"
+        ],
+        "colour": "#1f8b4c"
+    },
+    {
+        "name": "Controversial Pack",
+        "levels": [
+            "ZXCircleS",
+            "Electrodynamixer",
+            "MLXmas",
+            "Bloudeleuste",
+            "Sidestep"
+        ],
+        "colour": "#999581"
+    },
+    {
+        "name": "1.9 Pack",
+        "levels": [
+            "Crunchy_Apple",
+            "Wobbly_Teeth",
+            "electric_offline",
+            "Demonic_Uprise"
+        ],
+        "colour": "#52aa4b"
+    },
+    {
+        "name": "2.0 Pack I",
+        "levels": [
+            "Blender",
+            "Airtime",
+            "Star_Chaser"
+        ],
+        "colour": "#da49ac"
+    },
+    {
+        "name": "2.0 Pack II",
+        "levels": [
+            "Deadly_Impact",
+            "Metal_Genesis",
+            "New_Age_Blizzard"
+        ],
+        "colour": "#a017a5"
+    },
+    {
+        "name": "LOUD Pack",
+        "levels": [
+            "CARNIVAL",
+            "RAGE",
+            "CHEXTMIX",
+            "Starships",
+            "CRACK",
+            "GREGWORLD"
+        ],
+        "colour": "#d82626"
+    },
+    {
+        "name": "quiet pack",
+        "levels": [
+            "toxic_sewage",
+            "ne0n",
+            "electric_offline",
+            "aasb",
+            "washington_moshing",
+            "evenfall"
+        ],
+        "colour": "#27d9d9"
+    },
+    {
+        "name": "Space Pack",
+        "levels": [
+            "aasb",
+            "DARKNESS",
+            "Low_Orbit_Dream",
+            "Space_Nyaaa",
+            "Space_Invaders"
+        ],
+        "colour": "#2a4481"
+    },
+    {
+        "name": "Airplane Pack",
+        "levels": [
+            "Takeoff",
+            "Airtime",
+            "Aerophobia",
+            "Flighter"
+        ],
+        "colour": "#6495db"
+    },
+    {
+        "name": "GDDP Pack",
+        "levels": [
+            "ZXCircleS",
+            "Fast_n_Spicy",
+            "Bloudeleuste"
+        ],
+        "colour": "#09ff00"
+    },
+    {
+        "name": "Modern Pack",
+        "levels": [
+            "Propel",
+            "Blue",
+            "Dailen"
+        ],
+        "colour": "#1abc9c"
+    },
+    {
+        "name": "Electric Pack",
+        "levels": [
+            "Electric_Algal_Bloom",
+            "electric_offline",
+            "Electric_Fortress",
+            "Electrical_Room"
+        ],
+        "colour": "#ffc600"
+    },
+    {
+        "name": "Cat Pack",
+        "levels": [
+            "LYNX",
+            "Press_Meow_Finale",
+            "Space_Nyaaa"
+        ],
+        "colour": "#607d8b"
+    },
+    {
+        "name": "Halloween Pack",
+        "levels": [
+            "Twilight_Darkness",
+            "No_Time_To_Die",
+            "Twotaolloween"
+        ],
+        "colour": "#ed7a00"
+    },
+    {
+        "name": "C_X Pack",
+        "levels": [
+            "Metal_Genesis",
+            "Crunchy_Town_II",
+            "Sidewalk",
+            "Descend",
+            "DarkSpirit"
+        ],
+        "colour": "#6569b1"
+    },
+    {
+        "name": "Jayuff Pack",
+        "levels": [
+            "Supercalifragilistic",
+            "Taimiri",
+            "Huakai"
+        ],
+        "colour": "#ff7d7d"
+    },
+    {
+        "name": "Spark Pack",
+        "levels": [
+            "Oblivious",
+            "Fast_n_Spicy",
+            "evenfall"
+        ],
+        "colour": "#ffffff"
+    },
+    {
+        "name": "ItzMezzo Pack",
+        "levels": [
+            "Ample_Park",
+            "Resurgance",
+            "Subtle_Choice"
+        ],
+        "colour": "#7d7dff"
+    },
+    {
+        "name": "Zoroa Pack",
+        "levels": [
+            "Inspirative_II",
+            "rush",
+            "Violent_Silence"
+        ],
+        "colour": "#607d8b"
+    },
+        {
+        "name": "Promoted Pack I",
+        "levels": [
+            "remote_planet",
+            "Carpe_Lucem",
+            "Animus",
+            "Stop_Folowing_Me",
+            "Cyberize",
+            "tkspl",
+            "Break_The_Rules",
+            "CLEAR"
+        ],
+        "colour": "#9b59b6"
+    },
+    {
+        "name": "Promoted Pack II",
+        "levels": [
+            "Voyager_II",
+            "Fast_Processing",
+            "Ultramarine",
+            "Luminous_Genocide",
+            "Secret_Box",
+            "Destroid",
+            "The_Colossus_II",
+            "Chzzk"
+        ],
+        "colour": "#9b59b6"
+    },
+    {
+        "name": "Promoted Pack III",
+        "levels": [
+            "Veritas_Mentis",
+            "Alphar",
+            "Dreams",
+            "7PM",
+            "s2L3H",
+            "Crumbs",
+            "Lutetia"
+        ],
+        "colour": "#9b59b6"
+    },
+    {
+        "name": "Promoted Pack IV",
+        "levels": [
+            "Duster",
+            "WELL_RESTED",
+            "jarvis_demon_map",
+            "CALYPSO_BLITZ",
+            "Lucid",
+            "Pilot",
+            "Trek",
+            "Hyperion"
+        ],
+        "colour": "#9b59b6"
+    },
+    {
+        "name": "Top 1 Pack",
+        "levels": [
+            "Hollowing",
+            "toxic_sewage",
+            "Intensa_Emozione",
+            "2DaTop",
+            "Force_Field",
+            "CALYPSO_BLITZ",
+            "WELL_RESTED",
+            "Crumbs",
+            "DARKNESS",
+            "Break_The_Rules",
+            "Metal_Genesis",
+            "Cyberize",
+            "s2L3H",
+            "Animus"
+        ],
+        "colour": "#992d22"
+    },
+    {
+        "name": "Nope! Pack",
+        "levels": [
+            "Glitched_Dreams",
+            "the_challenge",
+            "Molrock_Volcano",
+            "Just_Processing",
+            "Lazurite",
+            "Rip_it",
+            "Rustles_Reaction",
+            "The_Legend_Of_nando",
+            "Rewired",
+            "BRPM8ZGKRJ",
+            "DubsteP",
+            "A_new_system"
+        ],
+        "colour": "#277ecd"
+    },
+    {
+        "name": "Fan Favorite Pack",
+        "levels": [
+            "Electric_Algal_Bloom",
+            "CTRL_C",
+            "Oblivious",
+            "CHEXTMIX",
+            "ZXCircleS",
+            "Ice_Melt"
+        ],
+        "colour": "#206694"
+    },
+    {
+        "name": "Awful Pack",
+        "levels": [
+            "Jarrell",
+            "Descend",
+            "PopCorn",
+            "Dark_Star_Core",
+            "Ultrashock",
+            "PaC",
+            "DarkSpirit"
+        ],
+        "colour": "#7b3900"
+    }
+]

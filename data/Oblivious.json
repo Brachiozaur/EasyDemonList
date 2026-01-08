@@ -487,6 +487,18 @@
             "link": "https://www.youtube.com/watch?v=v4ilUUL1Cis",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "LifelessComputer",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Bottomless",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

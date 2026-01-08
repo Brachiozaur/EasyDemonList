@@ -165,12 +165,6 @@
             "hz": "- "
         },
         {
-            "user": "Arcadie",
-            "link": "",
-            "percent": 100,
-            "hz": 120
-        },
-        {
             "user": "RoboBear04",
             "link": "",
             "percent": 100,
@@ -187,6 +181,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Bottomless",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

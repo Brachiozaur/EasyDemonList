@@ -1,6 +1,5 @@
 import { fetchLeaderboard } from '../content.js';
-import { localize } from '../util.js';
-
+import { localize, getFontColour } from '../util.js';
 import Spinner from '../components/Spinner.js';
 
 export default {

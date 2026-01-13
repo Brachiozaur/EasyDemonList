@@ -454,5 +454,15 @@
             "DarkSpirit"
         ],
         "colour": "#7b3900"
+    },
+    {
+        "name": "Nine Circles Pack",
+        "levels": [
+            "Neuf_Cercles",
+            "SemiCircles",
+            "ZXCircleS",
+            "HamDuck_Vortex",
+        ],
+        "colour": "#ff0000"
     }
 ]

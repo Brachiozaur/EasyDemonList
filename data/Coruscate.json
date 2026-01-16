@@ -111,7 +111,7 @@
             "hz": 240
         },
         {
-            "user": "JoacoPe",
+            "user": "JoacoWoop",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -299,6 +299,12 @@
         {
             "user": "xyne",
             "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "BlissBeeasy",
+            "link": "https://cdn.discordapp.com/attachments/935751594836901899/1459755853212025091/2026-01-10_22-34-54.mp4?ex=696baf54&is=696a5dd4&hm=984c666e52017b4cd952b4e48ab6c1f1084649e9a628a914f41e9e205ca8be70&",
             "percent": 100,
             "hz": "- "
         }

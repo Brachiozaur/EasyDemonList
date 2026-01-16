@@ -111,7 +111,7 @@
             "hz": "- "
         },
         {
-            "user": "JoacoPe",
+            "user": "JoacoWoop",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -391,6 +391,18 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Sharks",
+            "link": "https://www.youtube.com/watch?v=PRhIMgO3q6E",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Aurélien",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

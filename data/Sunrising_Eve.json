@@ -69,7 +69,7 @@
             "hz": 240
         },
         {
-            "user": "JoacoPe",
+            "user": "JoacoWoop",
             "link": "",
             "percent": 100,
             "hz": 60
@@ -133,6 +133,24 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Arcadie",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Aurélien",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

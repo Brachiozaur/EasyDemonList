@@ -135,7 +135,7 @@
             "hz": "- "
         },
         {
-            "user": "JoacoPe",
+            "user": "JoacoWoop",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -379,6 +379,12 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Pearl3scent",
+            "link": "https://youtu.be/7-BYfeHxFNo",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

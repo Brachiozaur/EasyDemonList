@@ -81,7 +81,7 @@
             "hz": "- "
         },
         {
-            "user": "JoacoPe",
+            "user": "JoacoWoop",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -361,6 +361,12 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Aurélien",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -9,7 +9,7 @@
     "password": "1202",
     "records": [
         {
-            "user": "JoacoPe",
+            "user": "JoacoWoop",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -265,6 +265,18 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Benzyben",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Bluemaube",
+            "link": "https://youtu.be/vgsmke0Gonc",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 

@@ -207,7 +207,7 @@
             "hz": 240
         },
         {
-            "user": "JoacoPe",
+            "user": "JoacoWoop",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -775,6 +775,24 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Sharks",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "FluffSnowball",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "CVison",
+            "link": "https://youtu.be/tqx-2s3Qh8Q",
+            "percent": 100,
+            "hz": "- "    
         }
     ]
 }

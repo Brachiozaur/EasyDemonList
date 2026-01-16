@@ -464,6 +464,16 @@
             "Hamduck"
         ],
         "colour": "#ff0000"
+    },
+    {
+        "name": "Banger Tunes Pack",
+        "levels": [
+            "The_Dragons_lair",
+            "Lost_To_Time",
+            "Soesaeh",
+            "A_Final_Memorial"
+        ],
+        "colour": "#e6b500"
     }
 
 ]

@@ -1,0 +1,84 @@
+{
+    "id": 115276878,
+    "name": "Chainsaw Y",
+    "author": "SupaCLUCK",
+    "creators": ["SupaCLUCK", "SmoLkeroS", "Xapia", "asteythesylv", "MineCat9000", "wdlucas", "AlvaroPaws", "DuskerHu"],
+    "verifier": "SupaCLUCK",
+    "verification": "https://youtu.be/ry8hr4E_4b4?si=83b0H4RrQjWt-T1Z",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "ZircleZ",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "POKEMON GD",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "AerialShard",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "wolven",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Shady",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "CS69",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "l1ghtning",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "DaShahzad",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "AceK58",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CoriOshawott",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Chonkey",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

@@ -368,7 +368,7 @@
     {
         "name": "Promoted Pack III",
         "levels": [
-            "Veritas_Mentis",
+            "toxic_sewage",
             "Alphar",
             "Dreams",
             "7PM",
@@ -383,7 +383,6 @@
         "levels": [
             "Duster",
             "WELL_RESTED",
-            "jarvis_demon_map",
             "CALYPSO_BLITZ",
             "Lucid",
             "Pilot",
@@ -395,6 +394,7 @@
     {
         "name": "Top 1 Pack",
         "levels": [
+            "Takeoff",
             "Hollowing",
             "toxic_sewage",
             "Intensa_Emozione",

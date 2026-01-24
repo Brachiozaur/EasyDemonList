@@ -427,6 +427,12 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "CtrlCube",
+            "link": "https://youtu.be/hFfh1owl8-M",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -235,6 +235,18 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Pizzabote6h",
+            "link": "https://youtu.be/jIzVSzd54vQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Locker15",
+            "link": "",
+            "percent": 100,
+            "hz": "-"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "id": 61159132,
-    "name": "Veritas Mentis (P)",
+    "name": "Veritas Mentis",
     "author": "NateRavenno",
     "creators": ["NateRavenno", "W0lf3"],
     "verifier": "NateRavenno",
@@ -58,6 +58,48 @@
         },
         {
             "user": "Jenny",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "POKEMON GD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AceK58",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Big",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "tomm",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SafeSpace",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SkyHigh",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Chonkey",
             "link": "",
             "percent": 100,
             "hz": 60

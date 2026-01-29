@@ -273,7 +273,7 @@
             "hz": "- "
         },
         {
-            "user": "Bluemaube",
+            "user": "Blue",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -283,6 +283,18 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Benzyben",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

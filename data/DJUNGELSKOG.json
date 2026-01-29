@@ -127,6 +127,30 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Benzyben",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "RoboBear04",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "LifelessComputer",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

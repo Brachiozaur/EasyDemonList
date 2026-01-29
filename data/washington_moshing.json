@@ -145,6 +145,24 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "RoboBear04",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Big",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

@@ -601,6 +601,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "LifelessComputer",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "serzooo",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

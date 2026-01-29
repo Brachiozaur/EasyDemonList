@@ -1089,7 +1089,7 @@
             "hz": "- "
         },
         {
-            "user": "Bluemaube",
+            "user": "Blue",
             "link": "https://youtu.be/DPSyLu7mIhc",
             "percent": 100,
             "hz": "- "
@@ -1285,6 +1285,48 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "jboney",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "papi",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Gusitooo",
+            "link": "https://youtu.be/-DyKYKh9_q8",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "kyomu",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Azurite",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Helvetica-dev",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "CS69",
+            "link": "https://files.catbox.moe/82149o.mp4",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

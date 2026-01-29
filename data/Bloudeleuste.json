@@ -603,7 +603,7 @@
             "hz": "- "
         },
         {
-            "user": "Bluemaube",
+            "user": "Blue",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -801,10 +801,34 @@
             "hz": "- "
         },
         {
-            "user": "dark_angel2012",
+            "user": "KSNfiliip",
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "JoKsE92",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "noebbdouze",
+            "link": "",
+            "percent": 100,
+            "hz": "-"
+        },
+        {
+            "user": "Trolo2405",
+            "link": "https://youtu.be/GceUoMjrOLk",
+            "percent": 100,
+            "hz": "-"
+        },
+        {
+            "user": "GKSFLAKES",
+            "link": "",
+            "percent": 100,
+            "hz": "-"
         }
     ]
 }

@@ -2,7 +2,7 @@
     "id": 115276878,
     "name": "Chainsaw Y",
     "author": "SupaCLUCK",
-    "creators": ["SupaCLUCK", "SmoLkeroS", "Xapia", "asteythesylv", "MineCat9000", "wdlucas", "AlvaroPaws", "DuskerHu"],
+    "creators": ["SupaCLUCK", "SmoLkeroS", "Xapia", "asteythesylv", "MineCat9000", "wdlucas", "AlvaroPaws", "DuskerHu", "zak24gd"],
     "verifier": "SupaCLUCK",
     "verification": "https://www.youtube.com/watch?v=We0jdjSHZgI",
     "percentToQualify": "100",
@@ -109,6 +109,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Arcadie",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

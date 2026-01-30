@@ -643,6 +643,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Ampuere",
+            "link": "",
+            "percent": 100,
+            "hz": "-"
         }
     ]
 }

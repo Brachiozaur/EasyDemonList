@@ -107,7 +107,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (FPS bypass and CBF allowed)
+                        Achieved the record without using hacks
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
@@ -119,7 +119,7 @@ export default {
                         The submission must feature the uncropped level menu screen, with download, likes, and progress bar being visible
                     </p>
                     <p>
-                        Users are free to submit video proof as well, which will be linked in their entry, but the moderation team reserves a right to deny attaching your video for any reason if they deem it inappropriate
+                        Users are free to submit video proof as well, which will be linked in their entry, but the moderation team reserves a right to deny attaching your video for any reason if they deem it necessary
                     </p>
                     <p>
                         Do not use secret routes or bug routes
@@ -128,7 +128,7 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we will not accept records for said level, unless it moves back to the top 150
+                        Once a level falls onto the Legacy List, its completion submissions will be accepted for following 24 hours, after which they will be rejected, unless the level moves back to the top 150
                     </p>
                 </div>
             </div>

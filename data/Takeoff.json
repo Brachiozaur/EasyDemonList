@@ -943,6 +943,90 @@
             "link": "",
             "percent": 100,
             "hz": "-"
+        },
+        {
+            "user": "J12810",
+            "link": "",
+            "percent": 100,
+            "hz": "-"
+        },
+        {
+            "user": "BitSonic",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "zeero",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Random",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "CtrlCube",
+            "link": "https://www.youtube.com/watch?v=HTZSAqAs-xo",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "grasshopper",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "corona",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Trolo2405",
+            "link": "",
+            "percent": 100,
+            "hz": "-"
+        },
+        {
+            "user": "Helvetica-dev",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "izhan",
+            "link": "https://youtu.be/S3czPrOFzJA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Random Geometry Dash Fan Guy",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Neptune",
+            "link": "https://www.youtube.com/watch?v=ZTilwxoRDks",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "JuanPapro",
+            "link": "https://youtu.be/XIR2NMXOVdg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "huggies",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -505,6 +505,12 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Random",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -733,6 +733,12 @@
             "link": "",
             "percent": 100,
             "hz": "-"
+        },
+        {
+            "user": "Kiji",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

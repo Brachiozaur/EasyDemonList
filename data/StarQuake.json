@@ -265,6 +265,48 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Kaspa969",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Excryst",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "TheoSi",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "ToxicAgent",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Zxrlz",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "KSNfiliip",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "0r1g4m1",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

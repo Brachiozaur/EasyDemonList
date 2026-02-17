@@ -169,6 +169,18 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "cilber",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Jenny",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

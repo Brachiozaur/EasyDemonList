@@ -151,6 +151,30 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "cilber",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Jenny",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Pearl3scent",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Souler",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

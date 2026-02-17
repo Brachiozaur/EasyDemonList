@@ -727,6 +727,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "cilber",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

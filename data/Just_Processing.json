@@ -121,6 +121,12 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Heater123",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

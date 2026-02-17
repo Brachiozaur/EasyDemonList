@@ -127,6 +127,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Zxrlz",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

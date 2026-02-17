@@ -397,6 +397,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "K3NNYYO",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

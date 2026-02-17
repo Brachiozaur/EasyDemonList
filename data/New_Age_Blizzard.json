@@ -589,6 +589,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Kaspa969",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

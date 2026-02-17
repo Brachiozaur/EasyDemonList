@@ -67,6 +67,36 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Jenny",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Heater123",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Sprankton",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Pearl3scent",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "lv3plane",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

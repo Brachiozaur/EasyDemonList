@@ -211,6 +211,30 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "CoolVlad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Heater123",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "daxylitz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

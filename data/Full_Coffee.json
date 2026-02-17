@@ -427,6 +427,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "CoolVlad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

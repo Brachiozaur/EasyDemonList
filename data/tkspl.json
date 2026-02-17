@@ -49,6 +49,24 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "CoolVlad",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "daxylitz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bagley",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

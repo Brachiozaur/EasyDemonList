@@ -565,6 +565,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Fawxu",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

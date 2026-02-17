@@ -799,6 +799,12 @@
             "link": "",
             "percent": 100,
             "hz": "-"
+        },
+        {
+            "user": "Blue",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

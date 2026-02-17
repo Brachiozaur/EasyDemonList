@@ -169,6 +169,18 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Heater123",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Pearl3scent",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

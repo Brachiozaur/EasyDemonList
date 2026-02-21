@@ -151,6 +151,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Benzyben",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

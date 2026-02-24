@@ -309,7 +309,7 @@
             "hz": "- "
         },
         {
-            "user": "POKEMON GD",
+            "user": "Breaker",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -325,6 +325,18 @@
             "link": "",
             "percent": 100,
             "hz": "-"
+        },
+        {
+            "user": "Jenny",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Megu",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -247,6 +247,72 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Jenny",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Nexo",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SkyHigh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Megu",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "cilber",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Cubangaming1",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CrisWiloh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "InfiniteSpark",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "ALERC",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "HexagonGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Shadowhisky",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

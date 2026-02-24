@@ -523,6 +523,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "lv3plane",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

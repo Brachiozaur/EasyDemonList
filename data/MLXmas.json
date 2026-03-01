@@ -697,6 +697,24 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "jahskii",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "AceK58",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "GeoLunatic",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

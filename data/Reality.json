@@ -127,6 +127,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "AerialShard",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Big",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

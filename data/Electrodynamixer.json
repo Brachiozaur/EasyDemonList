@@ -511,6 +511,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "AceK58",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "BillCipher74",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -1315,6 +1315,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "KillerSunix",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

@@ -355,6 +355,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "rommydash",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

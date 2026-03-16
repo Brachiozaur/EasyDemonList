@@ -9,14 +9,8 @@
     "password": "Free to Copy",
     "records": [
         {
-            "user": "Breaker",
-            "link": "",
-            "percent": 100,
-            "hz": 120
-        },
-        {
             "user": "Shady",
-            "link": "",
+            "link": "Breaker was here",
             "percent": 100,
             "hz": 240
         },

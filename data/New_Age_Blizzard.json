@@ -637,6 +637,12 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Tadel_",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

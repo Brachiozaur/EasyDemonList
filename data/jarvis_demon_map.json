@@ -217,7 +217,8 @@
             "link": "",
             "percent": 100,
             "hz": 240
-        },
+        },
+
         {
             "user": "SkyHigh",
             "link": "",
@@ -307,6 +308,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Nexo",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Megu",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

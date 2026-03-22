@@ -721,6 +721,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "HyperActive",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

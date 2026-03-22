@@ -997,6 +997,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "KILLER_121",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

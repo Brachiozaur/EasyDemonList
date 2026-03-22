@@ -421,6 +421,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Bushy",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

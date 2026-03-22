@@ -1141,6 +1141,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "carttii",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

@@ -747,7 +747,7 @@
             "hz": "- "
         },
         {
-            "user": "CS69",
+            "user": "AmeliaStarGD",
             "link": "https://www.youtube.com/watch?v=ugAq8v7Y3mM",
             "percent": 100,
             "hz": 360
@@ -1003,6 +1003,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "serzooo",
+            "link": "",
+            "percent": 100,
+            "hz": "-"
+        },
+        {
+            "user": "HyperActive",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

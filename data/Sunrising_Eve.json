@@ -249,7 +249,7 @@
             "hz": 120
         },
         {
-            "user": "CS69",
+            "user": "AmeliaStarGD",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -259,6 +259,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Miberzinho",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

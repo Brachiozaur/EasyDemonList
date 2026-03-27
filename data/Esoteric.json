@@ -175,6 +175,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Sir_Manface",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Sunsetto",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

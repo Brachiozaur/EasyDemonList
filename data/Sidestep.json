@@ -843,7 +843,7 @@
             "hz": "- "
         },
         {
-            "user": "CS69",
+            "user": "AmeliaStarGD",
             "link": "",
             "percent": 100,
             "hz": 360
@@ -1147,6 +1147,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "ripluck",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Sunsetto",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

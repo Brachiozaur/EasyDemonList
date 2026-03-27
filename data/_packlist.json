@@ -94,7 +94,7 @@
             "Tungsten_Cube",
             "Everlasting",
             "Dailen",
-            "NADRR"
+            "evenfall"
         ],
         "colour": "#000292"
     },
@@ -115,7 +115,7 @@
             "Metal_Genesis",
             "Dark_Star_Core",
             "Dimension_Hopper",
-            "NADRR",
+            "The_Red_Room",
             "Resurgance"
         ],
         "colour": "#077023"
@@ -152,15 +152,6 @@
         "colour": "#5249f5"
     },
     {
-        "name": "Toxic Pack",
-        "levels": [
-            "toxic_sewage",
-            "Radioactive_Zone",
-            "Deadly_Impact"
-        ],
-        "colour": "#1f8b4c"
-    },
-    {
         "name": "Controversial Pack",
         "levels": [
             "ZXCircleS",
@@ -186,7 +177,7 @@
         "levels": [
             "Blender",
             "Airtime",
-            "Star_Chaser"
+            "The_Dragons_lair"
         ],
         "colour": "#da49ac"
     },
@@ -214,7 +205,7 @@
     {
         "name": "quiet pack",
         "levels": [
-            "toxic_sewage",
+            "totality",
             "ne0n",
             "electric_offline",
             "aasb",
@@ -267,8 +258,7 @@
         "levels": [
             "Electric_Algal_Bloom",
             "electric_offline",
-            "Electric_Fortress",
-            "Electrical_Room"
+            "Electric_Fortress"
         ],
         "colour": "#ffc600"
     },
@@ -295,20 +285,11 @@
         "levels": [
             "Metal_Genesis",
             "Crunchy_Town_II",
-            "Sidewalk",
+            "Twilight_Darkness",
             "Descend",
             "DarkSpirit"
         ],
         "colour": "#6569b1"
-    },
-    {
-        "name": "Jayuff Pack",
-        "levels": [
-            "Supercalifragilistic",
-            "Taimiri",
-            "Huakai"
-        ],
-        "colour": "#ff7d7d"
     },
     {
         "name": "Spark Pack",
@@ -320,24 +301,6 @@
         "colour": "#ffffff"
     },
     {
-        "name": "ItzMezzo Pack",
-        "levels": [
-            "Ample_Park",
-            "Resurgance",
-            "Subtle_Choice"
-        ],
-        "colour": "#7d7dff"
-    },
-    {
-        "name": "Zoroa Pack",
-        "levels": [
-            "Inspirative_II",
-            "rush",
-            "Violent_Silence"
-        ],
-        "colour": "#607d8b"
-    },
-        {
         "name": "Promoted Pack I",
         "levels": [
             "remote_planet",
@@ -347,7 +310,8 @@
             "Cyberize",
             "tkspl",
             "Break_The_Rules",
-            "CLEAR"
+            "CLEAR",
+            "DeathFunk"
         ],
         "colour": "#9b59b6"
     },
@@ -374,7 +338,8 @@
             "7PM",
             "s2L3H",
             "Crumbs",
-            "Lutetia"
+            "Lutetia",
+            "2DaTop"
         ],
         "colour": "#9b59b6"
     },

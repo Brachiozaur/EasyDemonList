@@ -1,0 +1,57 @@
+
+    {
+        "name": "Toxic Pack",
+        "levels": [
+            "toxic_sewage",
+            "Radioactive_Zone",
+            "Deadly_Impact"
+        ],
+        "colour": "#1f8b4c"
+    },
+    {
+        "name": "Jayuff Pack",
+        "levels": [
+            "Supercalifragilistic",
+            "Taimiri",
+            "Huakai"
+        ],
+        "colour": "#ff7d7d"
+    },
+    {
+        "name": "ItzMezzo Pack",
+        "levels": [
+            "Ample_Park",
+            "Resurgance",
+            "Subtle_Choice"
+        ],
+        "colour": "#7d7dff"
+    },
+    {
+        "name": "Zoroa Pack",
+        "levels": [
+            "Inspirative_II",
+            "rush",
+            "Violent_Silence"
+        ],
+        "colour": "#607d8b"
+    },
+
+    @Mutant's Pack: Complete Taimiri, Takeoff and Supercalifragilistic. 
+
+    @POKEMON GD's Pack : Ice Melt, Oblivious, Soesaeh, Steel Butterfly and Low Orbit Dream (BONUS: Where Are My Unions)
+
+    RedCat's Pack uuh red, dailen, crunchy, sidewalk, blender
+
+    kuba's pack: well rested, darkness, godhead
+
+    Old Pack: season2 lv3 hell, to the grave, theory of ex v2
+
+    redux pack: mlxmas, the challenge, wobbly teeth
+
+    minesap pack: a new system, gigas shocked, wobbly teeth
+
+    life pack: full coffee, duster, red, new age blizzard, nemesis, glitched dreams
+
+    Current or Former Mod Pack: Complete Molrock Volcano, Deadly Impact
+
+    Short Pack: Complete Star Chaser, The Challenge, and MLXmas.

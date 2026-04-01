@@ -987,7 +987,7 @@
             "hz": "- "
         },
         {
-            "user": "milanbedpro",
+            "user": "zinkyt67",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1009,6 +1009,18 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Écarlate",
+            "link": "",
+            "percent": 100,
+            "hz": "-"
+        },
+        {
+            "user": "Gabut",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

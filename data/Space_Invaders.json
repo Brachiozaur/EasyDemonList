@@ -463,6 +463,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Steany",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

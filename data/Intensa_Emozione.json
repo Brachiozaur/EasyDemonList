@@ -1429,6 +1429,30 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "NMC",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Jaxkingcat",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "spookymantis",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "PossiblyWade",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

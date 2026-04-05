@@ -301,6 +301,18 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "spookymantis",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "BillCipher74",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

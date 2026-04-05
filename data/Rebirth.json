@@ -1033,6 +1033,30 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "fabiovalenzuela",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "VincentLaloBAN",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "spookymantis",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "PossiblyWade",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

@@ -927,10 +927,16 @@
             "hz": "- "
         },
         {
-            "user": "Hidbid",
+            "user": "cfn.evie",
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "spookymantis",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

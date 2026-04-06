@@ -1563,7 +1563,7 @@
             "hz": "- "
         },
         {
-            "user": "Hidbid",
+            "user": "cfn.evie",
             "link": "",
             "percent": 100,
             "hz": 60
@@ -1585,6 +1585,24 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "jaskin0808",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "st.f.a",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Homike",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

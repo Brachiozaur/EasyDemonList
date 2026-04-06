@@ -1047,7 +1047,7 @@
             "hz": 120
         },
         {
-            "user": "Hidbid",
+            "user": "cfn.evie",
             "link": "",
             "percent": 100,
             "hz": 60
@@ -1055,6 +1055,18 @@
         {
             "user": "dunno12",
             "link": "https://www.youtube.com/watch?v=GgzTeXmecZ4",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "jaskin0808",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Jaxkingcat",
+            "link": "",
             "percent": 100,
             "hz": "- "
         }

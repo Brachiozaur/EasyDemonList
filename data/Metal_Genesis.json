@@ -99,7 +99,7 @@
             "hz": 360
         },
         {
-            "user": "Hidbid",
+            "user": "cfn.evie",
             "link": "",
             "percent": 100,
             "hz": 60
@@ -937,6 +937,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "spookymantis",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

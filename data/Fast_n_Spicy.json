@@ -588,7 +588,7 @@
             "user": "Music addict",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -919,6 +919,18 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "PossiblyWade",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Zakrusta",
+            "link": "https://youtu.be/kEs84BUwd9A",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

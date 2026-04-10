@@ -384,7 +384,7 @@
             "user": "Compooper",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "tyujin",
@@ -396,7 +396,7 @@
             "user": "Instinct",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -577,6 +577,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "HaedelJG",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

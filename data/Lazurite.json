@@ -2,7 +2,10 @@
     "id": 42566186,
     "name": "Lazurite",
     "author": "Hann",
-    "creators": ["Hann", "Lioleo"],
+    "creators": [
+        "Hann",
+        "Lioleo"
+    ],
     "verifier": "Hann",
     "verification": "https://youtu.be/RiV5oY5S8SM",
     "percentToQualify": "100",

@@ -372,7 +372,7 @@
             "user": "Music addict",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "xyne",
@@ -457,6 +457,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "spookymantis",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

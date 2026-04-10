@@ -210,7 +210,7 @@
             "user": "MoulesFrites",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "nukakulah",
@@ -222,7 +222,7 @@
             "user": "Instinct",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Music addict",
@@ -334,6 +334,12 @@
         },
         {
             "user": "Poilo68",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
             "link": "",
             "percent": 100,
             "hz": "- "

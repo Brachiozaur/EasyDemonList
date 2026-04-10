@@ -2,7 +2,11 @@
     "id": 26125744,
     "name": "Universal Remote",
     "author": "Rustam",
-    "creators": ["Rustam", "Aurorus", "Galzo"],
+    "creators": [
+        "Rustam",
+        "Aurorus",
+        "Galzo"
+    ],
     "verifier": "Marko Pintarić",
     "verification": "https://youtu.be/3zdpgrjRSKI",
     "percentToQualify": "100",

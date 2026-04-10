@@ -2,7 +2,11 @@
     "id": 38674703,
     "name": "Underworld",
     "author": "hfcRed",
-    "creators": ["hfcRed", "SlimJim", "BM"],
+    "creators": [
+        "hfcRed",
+        "SlimJim",
+        "BM"
+    ],
     "verifier": "hfcRed",
     "verification": "https://youtu.be/l_d52x6f8hc",
     "percentToQualify": "100",
@@ -366,7 +370,7 @@
             "user": "MoulesFrites",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Beeshie",
@@ -562,6 +566,18 @@
         },
         {
             "user": "Clayyy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "TJB",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
             "link": "",
             "percent": 100,
             "hz": "- "

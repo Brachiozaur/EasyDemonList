@@ -558,7 +558,7 @@
             "user": "Gamer711",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "Soulbound",
@@ -576,7 +576,7 @@
             "user": "Xcay",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "Shady",
@@ -1002,7 +1002,7 @@
             "user": "CVison",
             "link": "https://youtu.be/tqx-2s3Qh8Q",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Miquel3366",
@@ -1057,6 +1057,24 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "RyanN4",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Zakrusta",
+            "link": "https://youtu.be/d92UcoXvXC4",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Shepp",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -2,7 +2,7 @@
     "id": 125075242,
     "name": "Space Invaders",
     "author": "Subwoofer",
-    "creators": ["Subwoofer"],
+    "creators": [],
     "verifier": "Subwoofer",
     "verification": "https://www.youtube.com/watch?v=SCUDKa8a_xw",
     "percentToQualify": "100",
@@ -186,7 +186,7 @@
             "user": "TheoSi",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Mazrio",
@@ -294,7 +294,7 @@
             "user": "CVison",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Arcadie",
@@ -466,6 +466,12 @@
         },
         {
             "user": "Steany",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
             "link": "",
             "percent": 100,
             "hz": "- "

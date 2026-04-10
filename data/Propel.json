@@ -2,7 +2,10 @@
     "id": 42516660,
     "name": "Propel",
     "author": "Hyper314",
-    "creators": ["Hyper314", "Shutter"],
+    "creators": [
+        "Hyper314",
+        "Shutter"
+    ],
     "verifier": "D a G",
     "verification": "https://youtu.be/2X9EMSnBd6I",
     "percentToQualify": "100",
@@ -433,6 +436,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Ninjawerewolf",
+            "link": "https://youtu.be/Q69HDVs4e1U",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

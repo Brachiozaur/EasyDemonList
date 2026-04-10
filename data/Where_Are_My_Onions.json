@@ -2,7 +2,11 @@
     "id": 69228313,
     "name": "Where Are My Onions",
     "author": "Bizaare",
-    "creators": ["Bizaare", "Oxli", "ToastLord"],
+    "creators": [
+        "Bizaare",
+        "Oxli",
+        "ToastLord"
+    ],
     "verifier": "YakobNugget",
     "verification": "https://youtu.be/_JPijh27TS8",
     "percentToQualify": "100",
@@ -192,7 +196,7 @@
             "user": "Instinct",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         }
     ]
 }

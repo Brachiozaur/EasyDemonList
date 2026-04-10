@@ -2,7 +2,10 @@
     "id": 11311830,
     "name": "The Dragons lair",
     "author": "Draykonic",
-    "creators": ["Draykonic", "BrightNinja"],
+    "creators": [
+        "Draykonic",
+        "BrightNinja"
+    ],
     "verifier": "Draykonic",
     "verification": "https://youtu.be/7es0geOQJuo",
     "percentToQualify": "100",
@@ -324,7 +327,7 @@
             "user": "MoulesFrites",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Josephone",
@@ -481,6 +484,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "HaedelJG",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

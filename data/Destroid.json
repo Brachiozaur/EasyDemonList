@@ -2,7 +2,10 @@
     "id": 55380394,
     "name": "Destroid (P)",
     "author": "TD Epic",
-    "creators": ["TD Epic", "Vizors"],
+    "creators": [
+        "TD Epic",
+        "Vizors"
+    ],
     "verifier": "TD Epic",
     "verification": "https://youtu.be/oGk6sqVuezY",
     "percentToQualify": "100",

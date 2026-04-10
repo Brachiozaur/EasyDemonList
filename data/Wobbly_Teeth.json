@@ -2,7 +2,10 @@
     "id": 6790485,
     "name": "Wobbly Teeth",
     "author": "Minesap",
-    "creators": ["Minesap, Findexi"],
+    "creators": [
+        "Minesap",
+        "Findexi"
+    ],
     "verifier": "Minesap",
     "verification": "https://youtu.be/I0ZSFSA54Aw",
     "percentToQualify": "100",
@@ -558,7 +561,7 @@
             "user": "Gamer711",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -823,6 +826,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "spookymantis",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "cfn.evie",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

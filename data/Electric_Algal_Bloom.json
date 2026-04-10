@@ -2,7 +2,10 @@
     "id": 110535166,
     "name": "Electric Algal Bloom",
     "author": "ivyteal",
-    "creators": ["ivyteal", "Loltad"],
+    "creators": [
+        "ivyteal",
+        "Loltad"
+    ],
     "verifier": "ivyteal",
     "verification": "https://youtu.be/CLXlnwjn1rM",
     "percentToQualify": "100",
@@ -174,7 +177,7 @@
             "user": "RoboBear04",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Music addict",
@@ -210,7 +213,7 @@
             "user": "MoulesFrites",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -412,6 +415,12 @@
         },
         {
             "user": "TJB",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
             "link": "",
             "percent": 100,
             "hz": "- "

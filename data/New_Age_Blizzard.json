@@ -438,13 +438,13 @@
             "user": "carso",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "MoulesFrites",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -474,7 +474,7 @@
             "user": "Écarlate",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "Maverix",
@@ -676,6 +676,24 @@
         },
         {
             "user": "Cricketeer",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Excryst",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "spookymantis",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "RyanN4",
             "link": "",
             "percent": 100,
             "hz": "- "

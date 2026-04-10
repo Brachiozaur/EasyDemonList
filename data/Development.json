@@ -258,7 +258,7 @@
             "user": "Music addict",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -337,6 +337,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "BillCipher74",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

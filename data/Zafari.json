@@ -212,7 +212,6 @@
             "percent": 100,
             "hz": "- "
         },
-
         {
             "user": "AerialShard",
             "link": "",
@@ -421,19 +420,19 @@
             "user": "xyne",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "tyujin",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "Compooper",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Music addict",
@@ -776,22 +775,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

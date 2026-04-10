@@ -150,7 +150,7 @@
             "user": "Sheepyboy",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "LifelessComputer",
@@ -229,6 +229,18 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Boo",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

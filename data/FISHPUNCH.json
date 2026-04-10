@@ -2,7 +2,10 @@
     "id": 98705273,
     "name": "FISHPUNCH",
     "author": "Vadi",
-    "creators": ["Vadi", "vitchrose"],
+    "creators": [
+        "Vadi",
+        "vitchrose"
+    ],
     "verifier": "Vadi",
     "verification": "https://youtu.be/71_sjQkwfNo?si=PehnDFzkJDgd4HWM",
     "percentToQualify": "100",

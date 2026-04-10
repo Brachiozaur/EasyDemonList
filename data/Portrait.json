@@ -349,6 +349,18 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "BillCipher74",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

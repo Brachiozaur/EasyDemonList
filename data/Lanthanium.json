@@ -2,7 +2,12 @@
     "id": 27990000,
     "name": "Lanthanium",
     "author": "Fury0313",
-    "creators": ["Fury0313", "FerdeFunky", "Schady", "KrampuX"],
+    "creators": [
+        "Fury0313",
+        "FerdeFunky",
+        "Schady",
+        "KrampuX"
+    ],
     "verifier": "Fury0313",
     "verification": "https://youtu.be/yCPQnd5t53g",
     "percentToQualify": "100",
@@ -330,7 +335,7 @@
             "user": "xyne",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Music addict",
@@ -433,6 +438,18 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "AstralU",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

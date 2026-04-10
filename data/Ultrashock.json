@@ -2,7 +2,10 @@
     "id": 71380702,
     "name": "Ultrashock",
     "author": "FurixGD",
-    "creators": ["FurixGD","DangerKat"],
+    "creators": [
+        "FurixGD",
+        "DangerKat"
+    ],
     "verifier": "FurixGD",
     "verification": "https://youtu.be/kBFPfT0nk0U",
     "percentToQualify": "100",
@@ -180,7 +183,7 @@
             "user": "xyne",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "grasshopper",
@@ -192,7 +195,7 @@
             "user": "Music addict",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "JoacoWoop",

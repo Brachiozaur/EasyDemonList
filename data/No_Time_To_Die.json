@@ -2,7 +2,16 @@
     "id": 85182933,
     "name": "No Time To Die",
     "author": "MrSpaghetti",
-    "creators": ["MrSpaghetti", "Met3o", "xVainaja", "arcanin", "Shodai1128", "Waltertheboss", "ChuchitoDomin", "J0eyOnGD"],
+    "creators": [
+        "MrSpaghetti",
+        "Met3o",
+        "xVainaja",
+        "arcanin",
+        "Shodai1128",
+        "Waltertheboss",
+        "ChuchitoDomin",
+        "J0eyOnGD"
+    ],
     "verifier": "ZunE",
     "verification": "https://youtu.be/GTNxbcvf1HU",
     "percentToQualify": "100",
@@ -378,7 +387,7 @@
             "user": "CVison",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "BillCipher74",
@@ -409,7 +418,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Ninjawerewolf",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
-
 }

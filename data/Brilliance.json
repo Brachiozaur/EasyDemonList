@@ -2,7 +2,10 @@
     "id": 32792392,
     "name": "Brilliance",
     "author": "RealZober",
-    "creators": ["RealZober", "PotatoBaby"],
+    "creators": [
+        "RealZober",
+        "PotatoBaby"
+    ],
     "verifier": "RealZober",
     "verification": "https://youtu.be/5K_Vfxnp-fk",
     "percentToQualify": "100",
@@ -198,7 +201,7 @@
             "user": "RoboBear04",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Music addict",

@@ -2,7 +2,12 @@
     "id": 27728679,
     "name": "Vibration",
     "author": "schady",
-    "creators": ["schady", "Fury0313", "FerdeFunky", "Nyucat"],
+    "creators": [
+        "schady",
+        "Fury0313",
+        "FerdeFunky",
+        "Nyucat"
+    ],
     "verifier": "Guillaum",
     "verification": "https://youtu.be/9YsfcW_WJEM",
     "percentToQualify": "100",

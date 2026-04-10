@@ -270,7 +270,7 @@
             "user": "Écarlate",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "grasshopper",
@@ -318,7 +318,7 @@
             "user": "CVison",
             "link": "https://youtu.be/P3bJGzBX1F0",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "BlissBeeasy",
@@ -358,6 +358,12 @@
         },
         {
             "user": "Miberzinho",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
             "link": "",
             "percent": 100,
             "hz": "- "

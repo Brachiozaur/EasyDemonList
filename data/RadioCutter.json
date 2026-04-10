@@ -2,7 +2,14 @@
     "id": 48948859,
     "name": "RadioCutter",
     "author": "Darwin",
-    "creators": ["Darwin", "Stamina", "QuacDuck", "Hyenaedon", "ItzMezzo", "Yakimaru"],
+    "creators": [
+        "Darwin",
+        "Stamina",
+        "QuacDuck",
+        "Hyenaedon",
+        "ItzMezzo",
+        "Yakimaru"
+    ],
     "verifier": "Darwin",
     "verification": "https://youtu.be/1L_hEuj64oQ",
     "percentToQualify": "100",
@@ -331,9 +338,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "spookymantis",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
-
 }
-
-

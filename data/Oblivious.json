@@ -426,7 +426,7 @@
             "user": "MoulesFrites",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -438,7 +438,7 @@
             "user": "Miphax",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Helvetica-dev",
@@ -646,6 +646,24 @@
         },
         {
             "user": "TJB",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "aless15",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "noidedx",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "sigmaexe",
             "link": "",
             "percent": 100,
             "hz": "- "

@@ -2,7 +2,10 @@
     "id": 48889314,
     "name": "the challenge",
     "author": "OSIRIS GD",
-    "creators": ["OSIRIS GD", "Riot"],
+    "creators": [
+        "OSIRIS GD",
+        "Riot"
+    ],
     "verifier": "OSIRIS GD",
     "verification": "hhttps://youtu.be/R-Ku0g3yal0",
     "percentToQualify": "100",

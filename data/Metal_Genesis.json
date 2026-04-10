@@ -582,13 +582,13 @@
             "user": "MoulesFrites",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Gamer711",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -943,6 +943,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "PossiblyWade",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

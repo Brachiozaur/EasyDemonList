@@ -2,7 +2,16 @@
     "id": 104773431,
     "name": "Press Meow Finale",
     "author": "ivyteal",
-    "creators": ["ivyteal", "rply", "Pre3m", "v1tOX", "wallywalrus", "MaxxoRMeN", "Tinraz", "Ionixy"],
+    "creators": [
+        "ivyteal",
+        "rply",
+        "Pre3m",
+        "v1tOX",
+        "wallywalrus",
+        "MaxxoRMeN",
+        "Tinraz",
+        "Ionixy"
+    ],
     "verifier": "v1tOX",
     "verification": "https://youtu.be/bGjl4HwBQLs",
     "percentToQualify": "100",
@@ -204,13 +213,13 @@
             "user": "Music addict",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Miphax",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "JoacoWoop",
@@ -234,7 +243,7 @@
             "user": "Disasterpiece58",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Maverix",
@@ -313,6 +322,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Boo",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

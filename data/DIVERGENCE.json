@@ -2,7 +2,16 @@
     "id": 44802631,
     "name": "DIVERGENCE",
     "author": "f3lixsram",
-    "creators": ["f3lixsram", "MagicXdash", "Yakimaru", "Neiluj", "Manomagician", "Zak", "Nottus", "Erdyuri"],
+    "creators": [
+        "f3lixsram",
+        "MagicXdash",
+        "Yakimaru",
+        "Neiluj",
+        "Manomagician",
+        "Zak",
+        "Nottus",
+        "Erdyuri"
+    ],
     "verifier": "f3lixsram",
     "verification": "https://youtu.be/nOHYWLe1d2c?si=rk9lORGfgoBg7MMW",
     "percentToQualify": "100",
@@ -226,6 +235,12 @@
         },
         {
             "user": "Benzyben",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Excryst",
             "link": "",
             "percent": 100,
             "hz": "- "

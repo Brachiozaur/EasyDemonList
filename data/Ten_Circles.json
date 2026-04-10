@@ -2,7 +2,10 @@
     "id": 94591693,
     "name": "Ten Circles",
     "author": "NormDanchik",
-    "creators": ["NormDanchik", "DeniPol"],
+    "creators": [
+        "NormDanchik",
+        "DeniPol"
+    ],
     "verifier": "NormDanchik",
     "verification": "https://youtu.be/8oYU9suyCtk?si=LPGix_USZZiR-krR",
     "percentToQualify": "100",

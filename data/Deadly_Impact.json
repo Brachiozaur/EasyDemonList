@@ -2,7 +2,10 @@
     "id": 17351478,
     "name": "Deadly Impact",
     "author": "Xaro",
-    "creators": ["Xaro", "FunnyGame"],
+    "creators": [
+        "Xaro",
+        "FunnyGame"
+    ],
     "verifier": "Xaro",
     "verification": "https://youtu.be/Q9qe7_eIYUw",
     "percentToQualify": "100",
@@ -486,7 +489,7 @@
             "user": "Music addict",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "AerialShard",

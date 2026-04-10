@@ -2,7 +2,10 @@
     "id": 13840627,
     "name": "Lucid (P)",
     "author": "Megaman9",
-    "creators": ["Megaman9", "Aspiral"],
+    "creators": [
+        "Megaman9",
+        "Aspiral"
+    ],
     "verifier": "Megaman9",
     "verification": "https://youtu.be/Zc1r7Epxu38",
     "percentToQualify": "100",

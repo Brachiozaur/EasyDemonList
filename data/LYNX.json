@@ -2,7 +2,10 @@
     "id": 110480253,
     "name": "LYNX",
     "author": "Chloe",
-    "creators": ["Chloe","meowLuna"],
+    "creators": [
+        "Chloe",
+        "meowLuna"
+    ],
     "verifier": "Chloe",
     "verification": "https://youtu.be/eGVUlK3sycE",
     "percentToQualify": "100",
@@ -289,6 +292,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "BillCipher74",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

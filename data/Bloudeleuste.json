@@ -2,7 +2,19 @@
     "id": 77428474,
     "name": "Bloudeleuste",
     "author": "MrSpaghetti",
-    "creators": ["MrSpaghetti", "Hydren", "weoweoteo", "Vermillion", "Michigun", "Evasium", "Crack", "ASonicMen", "Etzer", "Giron", "Ggb0y"],
+    "creators": [
+        "MrSpaghetti",
+        "Hydren",
+        "weoweoteo",
+        "Vermillion",
+        "Michigun",
+        "Evasium",
+        "Crack",
+        "ASonicMen",
+        "Etzer",
+        "Giron",
+        "Ggb0y"
+    ],
     "verifier": "MrSpaghetti",
     "verification": "https://youtu.be/vgP2RWNg34w",
     "percentToQualify": "100",
@@ -456,7 +468,7 @@
             "user": "Gamer711",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Music addict",
@@ -480,7 +492,7 @@
             "user": "Cyber",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Josephone",
@@ -618,7 +630,7 @@
             "user": "CVison",
             "link": "https://youtu.be/cYiNA3gRoyw",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "BlissBeeasy",
@@ -1067,6 +1079,48 @@
         {
             "user": "Jaxkingcat",
             "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "RyanN4",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "HaedelJG",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "EmVeeOne",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "FHD",
+            "link": "https://youtu.be/X4kOzRySCnM",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Zakrusta",
+            "link": "https://youtu.be/pN_NeXAWkPU",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "nlseb",
+            "link": "https://discord.com/channels/935718179748065303/935751594836901899/1492176264889372874",
             "percent": 100,
             "hz": "- "
         }

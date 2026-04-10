@@ -156,7 +156,7 @@
             "user": "krii",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -313,6 +313,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -2,7 +2,10 @@
     "id": 10150016,
     "name": "electric offline",
     "author": "Rabb2t",
-    "creators": ["Rabb2t", "speaRain"],
+    "creators": [
+        "Rabb2t",
+        "speaRain"
+    ],
     "verifier": "Rabb2t",
     "verification": "https://youtu.be/LsGEMokANwo",
     "percentToQualify": "100",
@@ -354,7 +357,7 @@
             "user": "DaShahzad",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -442,6 +445,12 @@
         },
         {
             "user": "Miberzinho",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Tadel_",
             "link": "",
             "percent": 100,
             "hz": "- "

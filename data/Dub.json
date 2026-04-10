@@ -2,7 +2,17 @@
     "id": 85392414,
     "name": "Dub",
     "author": "OilPanic",
-    "creators": ["OilPanic", "connot", "Xepheron", "GDanzk", "Darixen", "ELLVO", "Binary666", "Graded", "vonic"],
+    "creators": [
+        "OilPanic",
+        "connot",
+        "Xepheron",
+        "GDanzk",
+        "Darixen",
+        "ELLVO",
+        "Binary666",
+        "Graded",
+        "vonic"
+    ],
     "verifier": "OilPanic",
     "verification": "https://youtu.be/56ngXJbZGGA?si=PZOPj9EeCBAyrpUt",
     "percentToQualify": "100",
@@ -169,6 +179,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Excryst",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

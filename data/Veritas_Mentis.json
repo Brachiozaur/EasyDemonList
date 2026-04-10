@@ -2,7 +2,10 @@
     "id": 61159132,
     "name": "Veritas Mentis",
     "author": "NateRavenno",
-    "creators": ["NateRavenno", "W0lf3"],
+    "creators": [
+        "NateRavenno",
+        "W0lf3"
+    ],
     "verifier": "NateRavenno",
     "verification": "https://youtu.be/7IZ_JTeKrrY",
     "percentToQualify": "100",
@@ -67,7 +70,6 @@
             "link": "",
             "percent": 100,
             "hz": 60
-
         },
         {
             "user": "AceK58",
@@ -221,14 +223,9 @@
         },
         {
             "user": "huggies",
-            "link": "",
+            "link": "https://youtu.be/ukfbYcmja7g",
             "percent": 100,
             "hz": "- "
         }
     ]
-
 }
-
-
-
-

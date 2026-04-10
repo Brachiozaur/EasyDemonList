@@ -2,7 +2,10 @@
     "id": 54474315,
     "name": "Hildaae",
     "author": "reruchoupie",
-    "creators": ["reruchoupie", "DashTy"],
+    "creators": [
+        "reruchoupie",
+        "DashTy"
+    ],
     "verifier": "reruchoupie",
     "verification": "https://youtu.be/N3cR2s1usQ4",
     "percentToQualify": "100",
@@ -246,7 +249,7 @@
             "user": "Music addict",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cearulyze",
@@ -304,6 +307,12 @@
         },
         {
             "user": "BillCipher74",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
             "link": "",
             "percent": 100,
             "hz": "- "

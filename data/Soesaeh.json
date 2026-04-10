@@ -2,7 +2,13 @@
     "id": 75779429,
     "name": "Soesaeh",
     "author": "HadoX",
-    "creators": ["HadoX", "HaryantoGD", "KinoKuni", "Gadri", "Ishigiro"],
+    "creators": [
+        "HadoX",
+        "HaryantoGD",
+        "KinoKuni",
+        "Gadri",
+        "Ishigiro"
+    ],
     "verifier": "HadoX",
     "verification": "https://youtu.be/lvn52wfMlQA",
     "percentToQualify": "100",
@@ -198,7 +204,7 @@
             "user": "Music addict",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cearulyze",
@@ -247,9 +253,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Boo",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }
-
-
-

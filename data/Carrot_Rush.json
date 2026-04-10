@@ -2,7 +2,12 @@
     "id": 56513569,
     "name": "Carrot Rush",
     "author": "NirvanaBaby",
-    "creators": ["NirvanaBaby", "Tricks33", "Wod", "Sillow"],
+    "creators": [
+        "NirvanaBaby",
+        "Tricks33",
+        "Wod",
+        "Sillow"
+    ],
     "verifier": "NirvanaBaby",
     "verification": "https://youtu.be/xbxMCs_dsJc?si=TiY4NKYGtr8iMDYg",
     "percentToQualify": "100",
@@ -226,6 +231,12 @@
         },
         {
             "user": "Sir_Manface",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
             "link": "",
             "percent": 100,
             "hz": "- "

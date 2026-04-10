@@ -2,7 +2,17 @@
     "id": 64603974,
     "name": "Everlasting",
     "author": "akinawoo",
-    "creators": ["VitjaTB", "HugoLA", "akinawoo", "Bluzky", "Dominuus", "Moosh", "Deadlox", "HTigerzGD", "Endevvor"],
+    "creators": [
+        "VitjaTB",
+        "HugoLA",
+        "akinawoo",
+        "Bluzky",
+        "Dominuus",
+        "Moosh",
+        "Deadlox",
+        "HTigerzGD",
+        "Endevvor"
+    ],
     "verifier": "akinawoo",
     "verification": "https://youtu.be/KCOG-s77CPk",
     "percentToQualify": "100",
@@ -334,6 +344,12 @@
         },
         {
             "user": "Boo",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "noidedx",
             "link": "",
             "percent": 100,
             "hz": 120

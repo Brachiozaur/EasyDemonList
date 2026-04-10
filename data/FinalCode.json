@@ -2,7 +2,10 @@
     "id": 41038290,
     "name": "FinalCode",
     "author": "Flukester",
-    "creators": ["Flukester", "Rek3dge"],
+    "creators": [
+        "Flukester",
+        "Rek3dge"
+    ],
     "verifier": "Flukester",
     "verification": "https://youtu.be/3l6ghrU8PkM",
     "percentToQualify": "100",

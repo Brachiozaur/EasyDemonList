@@ -2,7 +2,11 @@
     "id": 74298124,
     "name": "Assembly Lane",
     "author": "VeltX",
-    "creators": ["VeltX", "ARZ", "Dasher22"],
+    "creators": [
+        "VeltX",
+        "ARZ",
+        "Dasher22"
+    ],
     "verifier": "VeltX",
     "verification": "https://youtu.be/zgQKIQpdwwE",
     "percentToQualify": "100",
@@ -400,6 +404,12 @@
         },
         {
             "user": "Tadel_",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
             "link": "",
             "percent": 100,
             "hz": "- "

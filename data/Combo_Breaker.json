@@ -2,7 +2,10 @@
     "id": 80071923,
     "name": "Combo Breaker (Rowanm)",
     "author": "Rowanm",
-    "creators": ["Rowanm", "sAziUr"],
+    "creators": [
+        "Rowanm",
+        "sAziUr"
+    ],
     "verifier": "Rowanm",
     "verification": "https://youtu.be/CT-ofxVfEaM",
     "percentToQualify": "100",
@@ -282,7 +285,7 @@
             "user": "MoulesFrites",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "DIUS3D",

@@ -2,7 +2,10 @@
     "id": 19845806,
     "name": "Alphar (P)",
     "author": "Codex",
-    "creators": ["Codex", "Findexi"],
+    "creators": [
+        "Codex",
+        "Findexi"
+    ],
     "verifier": "Codex",
     "verification": "https://youtu.be/Brp5NOikkWo",
     "percentToQualify": "100",

@@ -2,7 +2,10 @@
     "id": 94714114,
     "name": "Flighter",
     "author": "KuraiYonaka",
-    "creators": ["KuraiYonaka, NetFlix"],
+    "creators": [
+        "KuraiYonaka",
+        "NetFlix"
+    ],
     "verifier": "KuraiYonaka",
     "verification": "https://youtu.be/VvKumzRyF0A",
     "percentToQualify": "100",
@@ -330,7 +333,7 @@
             "user": "Écarlate",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "DaShahzad",
@@ -491,6 +494,18 @@
         {
             "user": "MFboy",
             "link": "https://youtu.be/auotMwPrh4s?t=370",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "RyanN4",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
             "percent": 100,
             "hz": "- "
         }

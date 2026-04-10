@@ -2,7 +2,18 @@
     "id": 60163092,
     "name": "DarkSpirit",
     "author": "CatronixGD",
-    "creators": ["ElMatoSWAG", "DarTrix24", "juandeman", "sandytac", "creatorrp", "alesitogd", "XiSARS", "DarkrozzGD", "SaTRiX95", "CatronixGD"],
+    "creators": [
+        "ElMatoSWAG",
+        "DarTrix24",
+        "juandeman",
+        "sandytac",
+        "creatorrp",
+        "alesitogd",
+        "XiSARS",
+        "DarkrozzGD",
+        "SaTRiX95",
+        "CatronixGD"
+    ],
     "verifier": "ElMatoSWAG",
     "verification": "https://youtu.be/oUj_vKyvQBU",
     "percentToQualify": "100",
@@ -180,7 +191,7 @@
             "user": "MoulesFrites",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",

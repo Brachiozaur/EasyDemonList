@@ -2,7 +2,10 @@
     "id": 76691413,
     "name": "MLXmas",
     "author": "qjivxn",
-    "creators": ["qjivxn", "Ggb0y"],
+    "creators": [
+        "qjivxn",
+        "Ggb0y"
+    ],
     "verifier": "qjivxn",
     "verification": "https://youtu.be/68Hi2zEJqGk",
     "percentToQualify": "100",
@@ -618,7 +621,7 @@
             "user": "Music addict",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Josephone",
@@ -757,6 +760,12 @@
             "link": "https://files.catbox.moe/0ok5oz.mp4",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "spookymantis",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

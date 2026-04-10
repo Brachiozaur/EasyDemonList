@@ -2,7 +2,11 @@
     "id": 79224367,
     "name": "Hollowing",
     "author": "ilTesseractli",
-    "creators": ["ilTesseractli", "pocke", "twigxcabaret"],
+    "creators": [
+        "ilTesseractli",
+        "pocke",
+        "twigxcabaret"
+    ],
     "verifier": "ilTesseractli",
     "verification": "https://youtu.be/4jjigA_H1n4",
     "percentToQualify": "100",
@@ -264,19 +268,19 @@
             "user": "Aldia",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Gamer711",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "MoulesFrites",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Beeshie",
@@ -300,7 +304,7 @@
             "user": "goody",
             "link": "https://youtu.be/3QAUWX_5lpo",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Écarlate",
@@ -318,19 +322,19 @@
             "user": "tyujin",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "GooberDash",
             "link": "https://www.youtube.com/live/ihJ0aw83V-A&t=3034",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "Xcay",
             "link": "https://youtu.be/Sho1sec1m4o",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "Excryst",
@@ -348,7 +352,7 @@
             "user": "Augusteldx",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Jnellee72",
@@ -781,6 +785,24 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "some guy the corn lord",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "PossiblyWade",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

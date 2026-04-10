@@ -636,7 +636,7 @@
             "user": "Aldia",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "MoulesFrites",
@@ -654,13 +654,13 @@
             "user": "Gamer711",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "Disasterpiece58",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Speedbreaker",
@@ -672,7 +672,7 @@
             "user": "Xcay",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "DaShahzad",
@@ -684,7 +684,7 @@
             "user": "Miphax",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -1453,6 +1453,48 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "pato0642",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "RyanN4",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "serzooo",
+            "link": "",
+            "percent": 100,
+            "hz": "-"
+        },
+        {
+            "user": "HaedelJG",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Zakrusta",
+            "link": "https://youtu.be/t_qFrlAr0H4",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "cfn.evie",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "4bca",
+            "link": "https://www.youtube.com/watch?v=Ur1ZqWWJwHw",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

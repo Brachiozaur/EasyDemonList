@@ -606,7 +606,7 @@
             "user": "Musix",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -702,7 +702,7 @@
             "user": "Disasterpiece58",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Aurélien",
@@ -792,7 +792,7 @@
             "user": "CVison",
             "link": "https://youtu.be/tqx-2s3Qh8Q",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Locker15",
@@ -1039,6 +1039,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "RyanN4",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

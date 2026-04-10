@@ -2,7 +2,11 @@
     "id": 117025461,
     "name": "washington moshing",
     "author": "Lax04",
-    "creators": ["Lax04", "bunch", "EmmyTheCat"],
+    "creators": [
+        "Lax04",
+        "bunch",
+        "EmmyTheCat"
+    ],
     "verifier": "Lax04",
     "verification": "https://youtu.be/DEp3Ev_fGA4?si=NrtZujhS8yofiZww",
     "percentToQualify": "100",
@@ -229,6 +233,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Boo",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

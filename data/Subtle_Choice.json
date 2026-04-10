@@ -2,7 +2,12 @@
     "id": 51079052,
     "name": "Subtle Choice",
     "author": "ItzMezzo",
-    "creators": ["ItzMezzo", "ViralDL", "YLLIEE", "Leyzer"],
+    "creators": [
+        "ItzMezzo",
+        "ViralDL",
+        "YLLIEE",
+        "Leyzer"
+    ],
     "verifier": "ItzMezzo",
     "verification": "https://youtu.be/HFBy8XDmeT0",
     "percentToQualify": "100",
@@ -240,7 +245,7 @@
             "user": "RoboBear04",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "grasshopper",
@@ -297,7 +302,4 @@
             "hz": "- "
         }
     ]
-
 }
-
-

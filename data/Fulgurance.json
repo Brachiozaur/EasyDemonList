@@ -2,7 +2,12 @@
     "id": 36752799,
     "name": "Fulgurance",
     "author": "f3lixsram",
-    "creators": ["f3lixsram", "Zak", "Optex", "CreatorSruj"],
+    "creators": [
+        "f3lixsram",
+        "Zak",
+        "Optex",
+        "CreatorSruj"
+    ],
     "verifier": "f3lixsram",
     "verification": "https://youtu.be/GFFjHhdBku0",
     "percentToQualify": "100",

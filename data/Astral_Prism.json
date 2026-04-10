@@ -2,7 +2,19 @@
     "id": 85624519,
     "name": "Astral Prism",
     "author": "Szilu",
-    "creators": ["Szilu", "Nemsy", "kreno", "oleki", "Shatt3rium", "vonic", "Lunaire", "Interefent", "64x", "MortleX", "Met3o"],
+    "creators": [
+        "Szilu",
+        "Nemsy",
+        "kreno",
+        "oleki",
+        "Shatt3rium",
+        "vonic",
+        "Lunaire",
+        "Interefent",
+        "64x",
+        "MortleX",
+        "Met3o"
+    ],
     "verifier": "Szilu",
     "verification": "https://youtu.be/JGQekTMqOW0?si=0ranPDvbFg5YGLL_",
     "percentToQualify": "100",
@@ -168,7 +180,7 @@
             "user": "TheoSi",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -313,6 +325,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

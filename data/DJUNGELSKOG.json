@@ -2,7 +2,18 @@
     "id": 109514882,
     "name": "DJUNGELSKOG",
     "author": "Xeinth",
-    "creators": ["Xeinth", "Valeud", "solarion", "Great", "Starsign", "J2ko", "Zamos", "Rulls", "Ryoui", "Brighty"],
+    "creators": [
+        "Xeinth",
+        "Valeud",
+        "solarion",
+        "Great",
+        "Starsign",
+        "J2ko",
+        "Zamos",
+        "Rulls",
+        "Ryoui",
+        "Brighty"
+    ],
     "verifier": "Xeinth",
     "verification": "https://youtu.be/9LSG7TR0d2E?si=s5xuORYWDKlidWqP",
     "percentToQualify": "100",
@@ -232,6 +243,12 @@
         },
         {
             "user": "SkyHigh",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
             "link": "",
             "percent": 100,
             "hz": "- "

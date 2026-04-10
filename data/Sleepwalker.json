@@ -324,7 +324,7 @@
             "user": "xyne",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Josephone",
@@ -439,6 +439,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

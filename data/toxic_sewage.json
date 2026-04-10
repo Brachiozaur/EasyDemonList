@@ -2,13 +2,16 @@
     "id": 62140642,
     "name": "toxic sewage (P)",
     "author": "Jbeast15",
-    "creators": ["Jbeast15, Superopi"],
+    "creators": [
+        "Jbeast15",
+        "Superopi"
+    ],
     "verifier": "Jbeast15",
     "verification": "https://youtu.be/TJQSp-YD-v0",
     "percentToQualify": "100",
     "password": "123999",
     "records": [
-         {
+        {
             "user": "kuba",
             "link": "",
             "percent": 100,
@@ -654,7 +657,7 @@
             "user": "Aldia",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "MoulesFrites",
@@ -672,13 +675,13 @@
             "user": "Gamer711",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Michigan16",
             "link": "https://youtu.be/5S3BrSVXp2I",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Speedbreaker",
@@ -690,7 +693,7 @@
             "user": "Xcay",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "wolven",

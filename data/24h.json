@@ -2,7 +2,10 @@
     "id": 80659665,
     "name": "Twenty four Hours",
     "author": "TopMaksim",
-    "creators": ["TopMaksim", "Dekay13"],
+    "creators": [
+        "TopMaksim",
+        "Dekay13"
+    ],
     "verifier": "TopMaksim",
     "verification": "https://youtu.be/a9BWV67JC9Y",
     "percentToQualify": "100",

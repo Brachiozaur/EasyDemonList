@@ -630,13 +630,13 @@
             "user": "Disasterpiece58",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "tyujin",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "Xcay",
@@ -648,7 +648,7 @@
             "user": "Instinct",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -672,7 +672,7 @@
             "user": "CVison",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "wolven",
@@ -1162,7 +1162,7 @@
         },
         {
             "user": "huggies",
-            "link": "",
+            "link": "https://youtu.be/EzFZHEqdDk8",
             "percent": 100,
             "hz": "- "
         },
@@ -1201,6 +1201,42 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "HaedelJG",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "noidedx",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Bushy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "dunno12",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Zakrusta",
+            "link": "https://youtu.be/TNTuWNeL8Vk",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

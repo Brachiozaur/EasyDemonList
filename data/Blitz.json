@@ -252,7 +252,7 @@
             "user": "Music addict",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -358,6 +358,18 @@
         },
         {
             "user": "ripluck",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "cfn.evie",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "sigmaexe",
             "link": "",
             "percent": 100,
             "hz": "- "

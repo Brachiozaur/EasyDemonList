@@ -2,7 +2,12 @@
     "id": 81992249,
     "name": "Godhead",
     "author": "8uua",
-    "creators": ["8uua", "Mangosteen", "Storyking1559", "unne"],
+    "creators": [
+        "8uua",
+        "Mangosteen",
+        "Storyking1559",
+        "unne"
+    ],
     "verifier": "8uua",
     "verification": "https://youtu.be/zRviOnKvg8s",
     "percentToQualify": "100",
@@ -394,6 +399,18 @@
         },
         {
             "user": "Benzyben",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "noidedx",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "sigmaexe",
             "link": "",
             "percent": 100,
             "hz": "- "

@@ -2,7 +2,29 @@
     "id": 61913580,
     "name": "A m i r u",
     "author": "IZann",
-    "creators": ["IZann", "NekoSt", "AstralNeo", "FurixGD", "SaTRiX95", "ZelfTix", "JeshuLucero", "Lerixon", "DarTrix24", "Kivixi", "Amadei", "DFGames", "PraxedisGD", "Lorena27", "Enboy", "oc3andark", "DarkrozzGD", "Jeikins", "Stevstyles", "Serinox", "MakrZ"],
+    "creators": [
+        "IZann",
+        "NekoSt",
+        "AstralNeo",
+        "FurixGD",
+        "SaTRiX95",
+        "ZelfTix",
+        "JeshuLucero",
+        "Lerixon",
+        "DarTrix24",
+        "Kivixi",
+        "Amadei",
+        "DFGames",
+        "PraxedisGD",
+        "Lorena27",
+        "Enboy",
+        "oc3andark",
+        "DarkrozzGD",
+        "Jeikins",
+        "Stevstyles",
+        "Serinox",
+        "MakrZ"
+    ],
     "verifier": "IZann",
     "verification": "https://youtu.be/YFTE6Yt9NwM",
     "percentToQualify": "100",
@@ -346,6 +368,12 @@
         },
         {
             "user": "BillCipher74",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
             "link": "",
             "percent": 100,
             "hz": "- "

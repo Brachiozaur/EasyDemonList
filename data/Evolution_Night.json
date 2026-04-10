@@ -2,7 +2,10 @@
     "id": 9657564,
     "name": "Evolution Night",
     "author": "Dorami",
-    "creators": ["Dorami", "Lynar"],
+    "creators": [
+        "Dorami",
+        "Lynar"
+    ],
     "verifier": "Dorami",
     "verification": "https://youtu.be/MzBiozHSH8Y?si=8TxvS2vDKsPcqHkA",
     "percentToQualify": "100",
@@ -214,6 +217,12 @@
         },
         {
             "user": "rommydash",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "sigmaexe",
             "link": "",
             "percent": 100,
             "hz": "- "

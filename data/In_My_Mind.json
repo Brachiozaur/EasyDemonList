@@ -2,7 +2,10 @@
     "id": 76016356,
     "name": "In My Mind",
     "author": "Rawin",
-    "creators": ["Rawin", "100foxes"],
+    "creators": [
+        "Rawin",
+        "100foxes"
+    ],
     "verifier": "Rawin",
     "verification": "https://youtu.be/eMRd_Cv0yW4",
     "percentToQualify": "100",
@@ -318,13 +321,13 @@
             "user": "Jarzst",
             "link": "",
             "percent": 100,
-            "hz": "-"    
+            "hz": "-"
         },
         {
             "user": "krii",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -421,6 +424,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Tadel_",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

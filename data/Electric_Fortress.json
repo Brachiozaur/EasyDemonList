@@ -2,7 +2,18 @@
     "id": 57679990,
     "name": "Electric Fortress",
     "author": "chona026",
-    "creators": ["chona026", "Morce", "AxolotlCamellia", "GMD Max", "TempledoX", "whataofficiel", "StarDust231", "MRMinadron", "Mortlex", "TinyXD"],
+    "creators": [
+        "chona026",
+        "Morce",
+        "AxolotlCamellia",
+        "GMD Max",
+        "TempledoX",
+        "whataofficiel",
+        "StarDust231",
+        "MRMinadron",
+        "Mortlex",
+        "TinyXD"
+    ],
     "verifier": "chona026",
     "verification": "https://youtu.be/P5X4RO7h05I?si=enkP4b2WrN3g-3rH",
     "percentToQualify": "100",
@@ -114,7 +125,7 @@
             "user": "TheoSi",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "RoboBear04",
@@ -253,6 +264,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

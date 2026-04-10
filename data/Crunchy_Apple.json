@@ -522,7 +522,7 @@
             "user": "MjNinja",
             "link": "",
             "percent": 100,
-            "hz": 60    
+            "hz": 60
         },
         {
             "user": "MoulesFrites",
@@ -534,7 +534,7 @@
             "user": "Gamer711",
             "link": "",
             "percent": 100,
-            "hz": "- "    
+            "hz": "- "
         },
         {
             "user": "Cyber",
@@ -937,6 +937,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "noidedx",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "some guy the corn lord",
+            "link": "https://discord.com/channels/935718179748065303/935751594836901899/1491833048122003638",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

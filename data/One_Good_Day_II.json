@@ -172,7 +172,7 @@
         },
         {
             "user": "FFFGGG23",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=QSTZXsNqgkc",
             "percent": 100,
             "hz": "- "
         },
@@ -209,6 +209,12 @@
         {
             "user": "sigmaexe",
             "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "huggies",
+            "link": "https://youtu.be/yqAdDJ20vG4",
             "percent": 100,
             "hz": "- "
         }

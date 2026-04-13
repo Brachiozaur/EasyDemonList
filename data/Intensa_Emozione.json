@@ -1495,6 +1495,30 @@
             "link": "https://www.youtube.com/watch?v=Ur1ZqWWJwHw",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "FifthGD",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "RyanN4",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Homike",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "I6RXT",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -175,6 +175,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Boo",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "ThayLoser",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -829,6 +829,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "some guy the corn lord",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

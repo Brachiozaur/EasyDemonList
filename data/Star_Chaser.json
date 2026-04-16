@@ -141,7 +141,7 @@
             "hz": 60
         },
         {
-            "user": "olipanics",
+            "user": "oilpanics",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -679,12 +679,6 @@
             "link": "",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "Oil Panic",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
         },
         {
             "user": "shiver",

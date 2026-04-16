@@ -1087,6 +1087,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Lanital",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

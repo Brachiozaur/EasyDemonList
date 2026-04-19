@@ -100,7 +100,7 @@
         },
         {
             "user": "Zakrusta",
-            "link": "",
+            "link": "https://youtu.be/XwbjsKiVe7I",
             "percent": 100,
             "hz": "- "
         },
@@ -115,6 +115,30 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "TheoSi",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Excryst",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "LifelessComputer",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "AerialShard",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

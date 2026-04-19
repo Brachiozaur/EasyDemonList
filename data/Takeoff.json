@@ -1642,7 +1642,7 @@
         },
         {
             "user": "NeuralG",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=bWY6aGtULkE",
             "percent": 100,
             "hz": "- "
         },
@@ -1699,6 +1699,48 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Inefficient writing",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Qalg",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Colemcooper",
+            "link": "https://youtu.be/OQI8xNF7g08",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "fabiovalenzuela",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "ninix",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "PhantomPulsar",
+            "link": "https://youtu.be/HHo9KUye_z4",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "JaYqlow",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

@@ -835,6 +835,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "JaYqlow",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

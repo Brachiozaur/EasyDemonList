@@ -147,7 +147,7 @@
             "hz": 60
         },
         {
-            "user": "RyanN4",
+            "user": "RyanN4K",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -157,6 +157,18 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "MrPoopyBurger",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

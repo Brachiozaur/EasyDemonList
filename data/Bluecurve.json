@@ -157,6 +157,24 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Zakrusta",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "grego",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Benzyben",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

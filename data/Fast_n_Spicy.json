@@ -933,7 +933,7 @@
             "hz": "- "
         },
         {
-            "user": "RyanN4",
+            "user": "RyanN4K",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -949,6 +949,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Gabut",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

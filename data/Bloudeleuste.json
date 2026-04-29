@@ -1083,7 +1083,7 @@
             "hz": "- "
         },
         {
-            "user": "RyanN4",
+            "user": "RyanN4K",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1137,7 +1137,7 @@
             "hz": 60
         },
         {
-            "user": "benwigglegd",
+            "user": "Ben_Wiegel",
             "link": "https://medal.tv/games/geometry-dash/clips/lWIMADIzDOCbsOTQj",
             "percent": 100,
             "hz": "- "
@@ -1171,6 +1171,24 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Kiko7535",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Luzna",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "MathBty",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

@@ -1005,7 +1005,7 @@
             "hz": 120
         },
         {
-            "user": "RyanN4",
+            "user": "RyanN4K",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1049,6 +1049,24 @@
         {
             "user": "PhantomPulsar",
             "link": "https://youtu.be/6-cp9r8BEpo",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "BillCipher74",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "noidedx",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "grego",
+            "link": "",
             "percent": 100,
             "hz": "- "
         }

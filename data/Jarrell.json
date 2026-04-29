@@ -657,7 +657,7 @@
             "hz": "- "
         },
         {
-            "user": "RyanN4",
+            "user": "RyanN4K",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -673,6 +673,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "BillCipher74",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

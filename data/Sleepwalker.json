@@ -451,6 +451,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Local",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "noidedx",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

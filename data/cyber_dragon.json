@@ -1,0 +1,96 @@
+{
+    "id": 58462371,
+    "name": "cyber dragon",
+    "author": "kt345",
+    "creators": [],
+    "verifier": "kt345",
+    "verification": "https://youtu.be/vNv8QUDc0zs?si=gxVaBZLrt2kKTKTJ",
+    "percentToQualify": "100",
+    "password": 002803,
+    "records": [
+        {
+            "user": "CoriOshawott",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "tomm",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Cearulyze",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "sigmaexe",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "shiver",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "nukakulah",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "BillCipher74",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "DaShahzad",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Zakrusta",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "SkyHigh",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LifelessComputer",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "wolven",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "ZircleZ",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

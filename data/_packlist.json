@@ -363,6 +363,7 @@
     {
         "name": "Top 1 Pack",
         "levels": [
+            "Rebirth",
             "Takeoff",
             "Hollowing",
             "toxic_sewage",
@@ -377,8 +378,7 @@
             "Metal_Genesis",
             "Cyberize",
             "s2L3H",
-            "Animus",
-            "Rebirth"
+            "Animus"
         ],
         "colour": "#992d22"
     },

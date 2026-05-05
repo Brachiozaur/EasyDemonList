@@ -991,6 +991,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "grego",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

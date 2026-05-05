@@ -82,7 +82,7 @@
         },
         {
             "user": "Zakrusta",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=3z-bd5BBNEQ&feature=youtu.be",
             "percent": 100,
             "hz": 144
         },
@@ -109,6 +109,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Boo",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

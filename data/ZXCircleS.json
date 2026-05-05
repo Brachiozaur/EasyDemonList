@@ -1843,6 +1843,18 @@
             "link": "https://www.youtube.com/watch?v=yl-4gi-hZew",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "simis, the blue chickmuck",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "scud0x",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

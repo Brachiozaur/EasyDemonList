@@ -448,6 +448,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Pingoup",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

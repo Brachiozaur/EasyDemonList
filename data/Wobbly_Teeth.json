@@ -892,6 +892,18 @@
             "link": "https://youtu.be/wCYVcbQj1cA",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "EmVeeOne",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Toad",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

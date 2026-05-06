@@ -601,6 +601,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Zetyr",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

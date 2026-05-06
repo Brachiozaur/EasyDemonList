@@ -1779,7 +1779,7 @@
             "hz": "- "
         },
         {
-            "user": "Ben_Wiegel",
+            "user": "benwigglegd",
             "link": "https://medal.tv/games/geometry-dash/clips/mxeFiJQp7axyoO6fz",
             "percent": 100,
             "hz": "- "
@@ -1855,6 +1855,18 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "wRocket",
+            "link": "https://www.youtube.com/watch?v=MfTVAcx4FG8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MrBread360",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

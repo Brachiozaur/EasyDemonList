@@ -1303,6 +1303,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "DefToasty",
+            "link": "https://youtu.be/Hh4NXM8qj4s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ITSL3OMC",
+            "link": "https://youtu.be/zs44WW9AaHI",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

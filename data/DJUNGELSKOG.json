@@ -282,6 +282,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "RyanN4K",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

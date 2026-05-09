@@ -1201,6 +1201,18 @@
             "link": "https://youtu.be/5L-Rifesyhw",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "DefToasty",
+            "link": "https://www.youtube.com/watch?v=6o7QuBg-R_w",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ITSL3OMC",
+            "link": "https://youtu.be/JEuKJU5bX7U",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

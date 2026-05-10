@@ -67,7 +67,7 @@
         },
         {
             "user": "Zakrusta",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=j3w1h6BSd5M",
             "percent": 100,
             "hz": 360
         },
@@ -78,13 +78,19 @@
             "hz": 60
         },
         {
-            "user": "Cvison",
+            "user": "CVison",
             "link": "",
             "percent": 100,
             "hz": 120
         },
         {
             "user": "AwesomeStyles",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Zxrlz",
             "link": "",
             "percent": 100,
             "hz": 144

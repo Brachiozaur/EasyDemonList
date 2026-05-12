@@ -160,7 +160,7 @@
         },
         {
             "user": "FFFGGG23",
-            "link": "https://www.youtube.com/watch?v=6yYHIcA61c",
+            "link": "https://www.youtube.com/watch?v=6yYHIcA61ck",
             "percent": 100,
             "hz": "- "
         },
@@ -172,6 +172,12 @@
         },
         {
             "user": "Veerve",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "WKGames",
             "link": "",
             "percent": 100,
             "hz": "- "

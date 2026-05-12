@@ -493,6 +493,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Geolunatic",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

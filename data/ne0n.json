@@ -487,6 +487,12 @@
             "link": "https://www.youtube.com/watch?v=QDzm_ZycKzg",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Geolunatic",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -363,6 +363,7 @@
     {
         "name": "Top 1 Pack",
         "levels": [
+            "CTRL_C",
             "Rebirth",
             "Takeoff",
             "Hollowing",

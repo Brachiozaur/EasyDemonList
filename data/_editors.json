@@ -15,29 +15,14 @@
         "link": "https://www.youtube.com/@dius3d"
     },
     {
+        "role": "owner",
+        "name": "AceK58",
+        "link": "https://www.tiktok.com/@ace_k58?_t=ZN-8y4K25jzJri&_r=1"
+    },
+    {
         "role": "helper",
         "name": "Big",
         "link": "https://www.youtube.com/@bird_obsession"
-    },
-    {
-        "role": "helper",
-        "name": "l1ghtning",
-        "link": "https://www.youtube.com/@l1ghtning791"
-    },
-    {
-        "role": "helper",
-        "name": "AwesomeStyles",
-        "link": "https://www.youtube.com/@awesomestyles"
-    },
-    {
-        "role": "helper",
-        "name": "rose",
-        "link": "https://www.youtube.com/@xbula"
-    },
-    {
-        "role": "helper",
-        "name": "AceK58",
-        "link": "https://www.tiktok.com/@ace_k58?_t=ZN-8y4K25jzJri&_r=1"
     },
     {
         "role": "helper",
@@ -51,17 +36,27 @@
     },
     {
         "role": "helper",
-        "name": "Chonkey",
-        "link": "https://www.youtube.com/channel/UCQXSIW6mfLX2jnP5b5bbNNA"
-    },
-    {
-        "role": "thread_helper",
         "name": "CoriOshawott",
         "link": "https://youtube.com/@corioshawott"
+    },
+    {
+        "role": "thread helper",
+        "name": "AwesomeStyles",
+        "link": "https://www.youtube.com/@awesomestyles"
+    },
+    {
+        "role": "sheet helper",
+        "name": "rose",
+        "link": "https://www.youtube.com/@xbula"
     },
     {
         "role": "dev",
         "name": "Arcadie",
         "link": "https://www.youtube.com/@GW-Arcadie"
+    },
+    {
+        "role": "dev",
+        "name": "Chonkey",
+        "link": "https://www.youtube.com/channel/UCQXSIW6mfLX2jnP5b5bbNNA"
     }
 ]

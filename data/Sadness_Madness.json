@@ -103,6 +103,18 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "JoacoWoop",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "RoboBear04",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

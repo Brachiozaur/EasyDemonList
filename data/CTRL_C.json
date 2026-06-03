@@ -1233,12 +1233,6 @@
             "hz": "- "
         },
         {
-            "user": "explo_",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
             "user": "snoopdoggie",
             "link": "",
             "percent": 100,
@@ -1261,6 +1255,30 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "neverbrokeagain",
+            "link": "https://youtu.be/UH_a--3v1I4",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "AndreLac",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "CyberCrystal",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Just Rob",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

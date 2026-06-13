@@ -81,7 +81,7 @@
             "hz": 144
         },
         {
-            "user": "Starlight",
+            "user": "Starlighty",
             "link": "",
             "percent": 100,
             "hz": 144
@@ -262,6 +262,18 @@
         },
         {
             "user": "Just Rob",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "HAGRYN",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Willow",
             "link": "",
             "percent": 100,
             "hz": "- "

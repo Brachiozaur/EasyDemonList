@@ -55,3 +55,16 @@
     Current or Former Mod Pack: Complete Molrock Volcano, Deadly Impact
 
     Short Pack: Complete Star Chaser, The Challenge, and MLXmas.
+
+    ,
+    {
+        "name": "Lightning's Pack",
+        "levels": [
+            "Electrical_Room",
+            "Infinitude",
+            "ZXCircleS",
+            "Hollowing",
+            "New_Age_Blizzard"
+        ],
+        "colour": "#e487fc"
+    }

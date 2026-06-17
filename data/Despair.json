@@ -2,7 +2,11 @@
     "id": 64357931,
     "name": "Despair",
     "author": "Sloudy",
-    "creators": [],
+    "creators": [
+        "Sloudy",
+        "assing",
+        "neility"
+    ],
     "verifier": "Sloudy",
     "verification": "https://youtu.be/nNhH-6brdYM?si=qZHIXxTepH0nD4zZ",
     "percentToQualify": "100",

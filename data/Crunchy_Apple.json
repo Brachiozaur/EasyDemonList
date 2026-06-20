@@ -375,7 +375,7 @@
             "hz": "- "
         },
         {
-            "user": "Dwibble",
+            "user": "DeDe",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1069,6 +1069,24 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "sheldon lee cooper you dog",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "kaiwav",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "flingus",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

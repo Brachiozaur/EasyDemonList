@@ -196,12 +196,6 @@
             "hz": 120
         },
         {
-            "user": "Breaker",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
             "user": "Big",
             "link": "",
             "percent": 100,
@@ -380,6 +374,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Tadel_",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

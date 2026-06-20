@@ -195,7 +195,7 @@
             "hz": "- "
         },
         {
-            "user": "Dwibble",
+            "user": "DeDe",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -259,12 +259,6 @@
             "link": "",
             "percent": 100,
             "hz": 60
-        },
-        {
-            "user": "Breaker",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
         },
         {
             "user": "Etoile speed",
@@ -520,6 +514,24 @@
         },
         {
             "user": "AgentDarius",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "HamiltonRody",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "AndreLac",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "makak",
             "link": "",
             "percent": 100,
             "hz": "- "

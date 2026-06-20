@@ -309,12 +309,6 @@
             "hz": "- "
         },
         {
-            "user": "Breaker",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
             "user": "Beeshie",
             "link": "",
             "percent": 100,
@@ -487,6 +481,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Excryst",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

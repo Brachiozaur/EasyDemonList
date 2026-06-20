@@ -57,12 +57,6 @@
             "hz": 360
         },
         {
-            "user": "Breaker",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
             "user": "carso",
             "link": "",
             "percent": 100,
@@ -370,6 +364,12 @@
         },
         {
             "user": "Willow",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "HamiltonRody",
             "link": "",
             "percent": 100,
             "hz": "- "

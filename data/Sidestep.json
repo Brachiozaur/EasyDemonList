@@ -249,12 +249,6 @@
             "hz": "- "
         },
         {
-            "user": "Breaker",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
             "user": "WKGames",
             "link": "",
             "percent": 100,
@@ -321,7 +315,7 @@
             "hz": "- "
         },
         {
-            "user": "Dwibble",
+            "user": "DeDe",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1017,7 +1011,7 @@
             "hz": "- "
         },
         {
-            "user": "vilebile17",
+            "user": "darman172",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1427,6 +1421,24 @@
         {
             "user": "Blablosblos",
             "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "makak",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "scud0x",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "CitruZ",
+            "link": "https://youtu.be/khPGvM_h1_k",
             "percent": 100,
             "hz": "- "
         }

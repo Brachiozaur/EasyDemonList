@@ -285,12 +285,6 @@
             "hz": "- "
         },
         {
-            "user": "Breaker",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
             "user": "Shiraraxi",
             "link": "",
             "percent": 100,
@@ -1006,6 +1000,12 @@
         },
         {
             "user": "Willow",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "NathanDJF",
             "link": "",
             "percent": 100,
             "hz": "- "

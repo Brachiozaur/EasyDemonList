@@ -267,12 +267,6 @@
             "hz": "- "
         },
         {
-            "user": "Breaker",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
             "user": "CoriOshawott",
             "link": "",
             "percent": 100,
@@ -442,6 +436,18 @@
         },
         {
             "user": "Willow",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "TIMTIMESHOW",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Samuel",
             "link": "",
             "percent": 100,
             "hz": "- "

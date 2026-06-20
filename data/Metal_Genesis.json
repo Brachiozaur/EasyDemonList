@@ -435,19 +435,13 @@
             "hz": "- "
         },
         {
-            "user": "Dwibble",
+            "user": "DeDe",
             "link": "",
             "percent": 100,
             "hz": "- "
         },
         {
             "user": "AceK58",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
-            "user": "Breaker",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1101,7 +1095,7 @@
             "hz": "- "
         },
         {
-            "user": "CyberCrystal",
+            "user": "Cy6er Cysta1",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1123,6 +1117,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "200silence",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "flingus",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

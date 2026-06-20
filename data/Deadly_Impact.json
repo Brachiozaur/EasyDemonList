@@ -475,12 +475,6 @@
             "hz": 60
         },
         {
-            "user": "Breaker",
-            "link": "",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
             "user": "Cyber",
             "link": "",
             "percent": 100,
@@ -644,6 +638,12 @@
         },
         {
             "user": "Willow",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "makak",
             "link": "",
             "percent": 100,
             "hz": "- "

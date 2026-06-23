@@ -1405,6 +1405,12 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Yizzay07",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -1243,6 +1243,30 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "scud0x",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kermit Fachero",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Cy6er Cysta1",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "grego",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

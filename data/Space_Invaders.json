@@ -565,6 +565,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "pad",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

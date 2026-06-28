@@ -184,6 +184,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "makak",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

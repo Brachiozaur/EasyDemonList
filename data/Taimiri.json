@@ -571,6 +571,30 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "cattoGMD",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "JozLess",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Swagerator",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Gizmo",
+            "link": "https://www.youtube.com/live/VfilkAWqpIg?t=489",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

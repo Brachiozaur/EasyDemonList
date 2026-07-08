@@ -787,6 +787,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "spookymantis",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Zoru",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

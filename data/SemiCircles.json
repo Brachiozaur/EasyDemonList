@@ -1267,6 +1267,18 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Lsuuwu",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Luzna",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

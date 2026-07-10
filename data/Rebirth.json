@@ -1327,6 +1327,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "ITSL3OMC",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

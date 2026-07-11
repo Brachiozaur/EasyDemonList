@@ -1525,6 +1525,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "zDriplet",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

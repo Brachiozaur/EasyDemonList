@@ -208,6 +208,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "mMirason",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

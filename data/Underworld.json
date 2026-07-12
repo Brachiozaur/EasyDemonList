@@ -719,6 +719,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "tetrade",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

@@ -547,6 +547,24 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Neutralise",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "tetrade",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "JozLess",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

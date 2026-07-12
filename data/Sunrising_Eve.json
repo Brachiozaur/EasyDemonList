@@ -427,6 +427,24 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "tetrade",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Neutralise",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Swagerator",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

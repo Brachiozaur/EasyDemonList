@@ -547,6 +547,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "1kitten",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -775,6 +775,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Neutralise",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

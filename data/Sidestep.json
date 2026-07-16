@@ -1537,6 +1537,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "ReblexRickster",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

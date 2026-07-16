@@ -353,6 +353,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "cattoGMD",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

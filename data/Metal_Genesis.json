@@ -1213,6 +1213,24 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "YoumanJY",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Applljuice",
+            "link": "https://youtu.be/gXtj5v_vaos",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Gabut",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -634,6 +634,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Swagerator",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

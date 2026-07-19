@@ -634,6 +634,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Luvke",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

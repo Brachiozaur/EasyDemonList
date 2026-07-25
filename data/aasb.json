@@ -643,6 +643,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "makak",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

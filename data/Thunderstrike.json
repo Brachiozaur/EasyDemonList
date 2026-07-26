@@ -223,6 +223,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "AmeliaStarGD",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

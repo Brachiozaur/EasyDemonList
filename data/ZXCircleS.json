@@ -2245,6 +2245,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "aamplify",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

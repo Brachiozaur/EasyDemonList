@@ -313,6 +313,12 @@
             "link": "https://www.youtube.com/watch?v=Oc2b-lCL_BM",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Botbennett",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

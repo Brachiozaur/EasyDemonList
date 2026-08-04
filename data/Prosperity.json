@@ -469,6 +469,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "MFboy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

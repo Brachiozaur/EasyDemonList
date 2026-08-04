@@ -277,6 +277,12 @@
             "link": "https://www.youtube.com/watch?v=mzGqmPdbeLs",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Applljuice",
+            "link": "https://www.youtube.com/watch?v=Z4pjyCJtAO0",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

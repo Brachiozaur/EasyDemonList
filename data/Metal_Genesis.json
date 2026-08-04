@@ -1339,6 +1339,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "AwesomeStyles",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

@@ -1507,6 +1507,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "quirk",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -2269,6 +2269,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Vanitas",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

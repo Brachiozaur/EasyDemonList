@@ -189,7 +189,7 @@
             "hz": 60
         },
         {
-            "user": "SkyHigh",
+            "user": "Servall",
             "link": "",
             "percent": 100,
             "hz": 60
@@ -352,6 +352,12 @@
         },
         {
             "user": "IlGiammo",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Poff.",
             "link": "",
             "percent": 100,
             "hz": 120

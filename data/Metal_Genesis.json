@@ -171,7 +171,7 @@
             "hz": 60
         },
         {
-            "user": "SkyHigh",
+            "user": "Servall",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1335,7 +1335,7 @@
             "hz": 120
         },
         {
-            "user": "Dav",
+            "user": "Arya",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -1345,6 +1345,30 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Tulsa",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Tooty56a2",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "JimmyDreemurr",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "JayC",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

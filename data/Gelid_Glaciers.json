@@ -33,7 +33,7 @@
             "hz": 360
         },
         {
-            "user": "SkyHigh",
+            "user": "Servall",
             "link": "",
             "percent": 100,
             "hz": 360
@@ -193,6 +193,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Applljuice",
+            "link": "https://youtu.be/YhB1vf-o0MM",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

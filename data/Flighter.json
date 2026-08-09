@@ -234,7 +234,7 @@
             "hz": 360
         },
         {
-            "user": "SkyHigh",
+            "user": "Servall",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -652,6 +652,12 @@
             "link": "https://www.youtube.com/watch?v=lro_pt1yHIo",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Tooty56a2",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

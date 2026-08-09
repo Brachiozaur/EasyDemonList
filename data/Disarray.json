@@ -117,7 +117,7 @@
             "hz": "- "
         },
         {
-            "user": "SkyHigh",
+            "user": "Servall",
             "link": "",
             "percent": 100,
             "hz": 360
@@ -305,6 +305,12 @@
         {
             "user": "Pixelnite X",
             "link": "https://www.youtube.com/watch?v=pP9B2lKZEps",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "grasshopper",
+            "link": "",
             "percent": 100,
             "hz": "- "
         }

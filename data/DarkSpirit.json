@@ -510,6 +510,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "TOMAXRS24",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "TIMTIMESHOW",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

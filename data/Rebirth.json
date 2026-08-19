@@ -1435,6 +1435,24 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "KaizerYoru",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "andrewww",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Electroproton",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

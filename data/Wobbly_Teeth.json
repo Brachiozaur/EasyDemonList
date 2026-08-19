@@ -1108,6 +1108,24 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "nyxcorn",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "andrewww",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Electroproton",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

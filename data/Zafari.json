@@ -1063,6 +1063,30 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "trescatorze",
+            "link": "https://discord.com/channels/935718179748065303/935751594836901899/1537459246684438528",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "andrewww",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Electroproton",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "I6RXT",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

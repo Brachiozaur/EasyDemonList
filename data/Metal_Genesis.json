@@ -1375,6 +1375,42 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Ninjawerewolf",
+            "link": "https://youtu.be/1nBWU2YYJCE",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Wormy",
+            "link": "https://youtube.com/watch?v=jN0X17HUv9g",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "KaizerYoru",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Electroproton",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "VoxifyGD",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Marinko",
+            "link": "https://youtu.be/Dplc_9fnzio",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

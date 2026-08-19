@@ -1099,6 +1099,24 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Wormy",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "andrewww",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Electroproton",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

@@ -400,6 +400,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Applljuice",
+            "link": "https://www.youtube.com/watch?v=yEl0_74gCgo",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

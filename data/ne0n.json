@@ -613,6 +613,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "KaizerYoru",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

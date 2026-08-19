@@ -1073,6 +1073,18 @@
             "link": "https://discord.com/channels/935718179748065303/935751594836901899/1534969449050931200",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Wormy",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Electroproton",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

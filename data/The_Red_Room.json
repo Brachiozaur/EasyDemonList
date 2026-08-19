@@ -325,6 +325,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Josso",
+            "link": "https://youtu.be/LGAp3ZKWkuk",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

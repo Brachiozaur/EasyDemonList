@@ -403,6 +403,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "TOMAXRS24",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "andrewww",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

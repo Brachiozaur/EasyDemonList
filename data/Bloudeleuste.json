@@ -1579,6 +1579,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "GDWafflez",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

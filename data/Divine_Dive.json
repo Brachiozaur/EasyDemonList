@@ -123,7 +123,7 @@
             "hz": 360
         },
         {
-            "user": "JoacoWoop",
+            "user": "Joaco",
             "link": "",
             "percent": 100,
             "hz": 360
@@ -201,7 +201,7 @@
             "hz": "- "
         },
         {
-            "user": "Tadel_",
+            "user": "Tadel772",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -289,6 +289,30 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "domkas1212",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "TuanIzHere",
+            "link": "https://youtu.be/hhH2Q4qbSkA",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "IlGiammo",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "KayZee",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

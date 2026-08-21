@@ -111,7 +111,7 @@
             "hz": 360
         },
         {
-            "user": "JoacoWoop",
+            "user": "Joaco",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -229,6 +229,24 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "KayZee",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "looms",
+            "link": "https://medal.tv/games/geometry-dash/clips/nmpAQVwvRvulXxku1",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "TIMTIMESHOW",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

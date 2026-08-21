@@ -92,7 +92,7 @@
             "hz": 120
         },
         {
-            "user": "JoacoWoop",
+            "user": "Joaco",
             "link": "",
             "percent": 100,
             "hz": 360
@@ -312,6 +312,30 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "MFboy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Pacasa02",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "KayZee",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Lukas",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

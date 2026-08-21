@@ -105,7 +105,7 @@
             "hz": 60
         },
         {
-            "user": "JoacoWoop",
+            "user": "Joaco",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -225,12 +225,6 @@
             "hz": "- "
         },
         {
-            "user": "IlGiammo",
-            "link": "",
-            "percent": 100,
-            "hz": 120
-        },
-        {
             "user": "MFboy",
             "link": "",
             "percent": 100,
@@ -244,6 +238,18 @@
         },
         {
             "user": "Lukas",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "KayZee",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "XxLeitoxX56",
             "link": "",
             "percent": 100,
             "hz": 120

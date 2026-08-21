@@ -135,7 +135,7 @@
             "hz": "- "
         },
         {
-            "user": "JoacoWoop",
+            "user": "Joaco",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -615,7 +615,7 @@
             "hz": "- "
         },
         {
-            "user": "Tadel_",
+            "user": "Tadel772",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -727,6 +727,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Red Leaf",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "KayZee",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

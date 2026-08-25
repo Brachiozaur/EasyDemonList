@@ -499,6 +499,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "enator2007",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

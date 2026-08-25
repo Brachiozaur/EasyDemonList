@@ -562,7 +562,7 @@
             "hz": "- "
         },
         {
-            "user": "newtestacc",
+            "user": "zdriplet",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -608,6 +608,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Tooty56a2",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Applljuice",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

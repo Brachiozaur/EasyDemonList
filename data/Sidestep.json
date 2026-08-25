@@ -1527,7 +1527,7 @@
             "hz": "- "
         },
         {
-            "user": "newtestacc",
+            "user": "zdriplet",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -1665,10 +1665,16 @@
             "hz": 120
         },
         {
-            "user": "Looms",
+            "user": "looms",
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Memochel1",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

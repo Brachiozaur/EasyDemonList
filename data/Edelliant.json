@@ -691,6 +691,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Pingoup",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "TOMAXRS24",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

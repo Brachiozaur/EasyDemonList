@@ -694,6 +694,24 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "TheGuyWhoDoesThings",
+            "link": "https://youtu.be/VaqvJq2TWoU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "OOFLER",
+            "link": "https://youtu.be/tqMJ1OKxksg",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Applljuice",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

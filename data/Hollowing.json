@@ -1103,6 +1103,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "looms",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

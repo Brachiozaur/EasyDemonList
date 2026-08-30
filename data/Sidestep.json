@@ -1569,7 +1569,7 @@
             "hz": 120
         },
         {
-            "user": "Pulidordeplasma",
+            "user": "pantufla7772",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -1675,6 +1675,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Bluesky",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "31starlime",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

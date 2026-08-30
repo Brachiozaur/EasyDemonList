@@ -775,6 +775,36 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Glitch GD",
+            "link": "https://www.youtube.com/watch?v=RClvg4pltaA",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "TheGuyWhoDoesThings",
+            "link": "https://youtu.be/le_pgbYiro4",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Sir_Manface",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "grasshopper",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "domkas1212",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

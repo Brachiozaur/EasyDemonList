@@ -437,6 +437,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Lukas",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

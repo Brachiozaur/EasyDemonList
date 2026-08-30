@@ -451,6 +451,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Lukas",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

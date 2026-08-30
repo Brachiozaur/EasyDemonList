@@ -871,6 +871,30 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "VincentLaloBAN",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "DeDe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Ptiramissu",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Gsus",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

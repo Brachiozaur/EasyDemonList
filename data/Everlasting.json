@@ -395,6 +395,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "IlGiammo",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Benzyben",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

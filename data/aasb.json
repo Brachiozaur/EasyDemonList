@@ -703,6 +703,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "MasterAqua",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -388,6 +388,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "DeDe",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

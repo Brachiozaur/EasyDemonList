@@ -1483,6 +1483,18 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Gsus",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Ptiramissu",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

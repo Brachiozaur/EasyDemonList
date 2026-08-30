@@ -571,6 +571,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "EricZorua",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

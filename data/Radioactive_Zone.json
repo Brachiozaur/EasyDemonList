@@ -739,6 +739,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "domkas1212",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "MFboy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

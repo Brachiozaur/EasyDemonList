@@ -363,7 +363,7 @@
             "hz": 360
         },
         {
-            "user": "Greeny",
+            "user": "greenorb",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -397,6 +397,24 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "domkas1212",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "grasshopper",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MFboy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

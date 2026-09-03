@@ -747,7 +747,7 @@
             "hz": 120
         },
         {
-            "user": "Greeny",
+            "user": "greenorb",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -805,6 +805,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Yizzay07",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

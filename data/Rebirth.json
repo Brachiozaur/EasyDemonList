@@ -1371,7 +1371,7 @@
             "hz": 120
         },
         {
-            "user": "Greeny",
+            "user": "greenorb",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1504,6 +1504,18 @@
         },
         {
             "user": "EricZorua",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Woof",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "MasterAqua",
             "link": "",
             "percent": 100,
             "hz": "- "

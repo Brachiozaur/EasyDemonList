@@ -559,6 +559,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "greenorb",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "IlGiammo",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

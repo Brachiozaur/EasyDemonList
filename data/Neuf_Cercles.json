@@ -907,6 +907,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "FBITB",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "f1shers",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -303,7 +303,7 @@
             "hz": "- "
         },
         {
-            "user": "grasshopper",
+            "user": "grasshopperhz",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -346,6 +346,12 @@
         },
         {
             "user": "krii",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "IlGiammo",
             "link": "",
             "percent": 100,
             "hz": "- "

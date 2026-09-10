@@ -546,6 +546,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "TJB",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "SoggyPretzel",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

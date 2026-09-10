@@ -1131,7 +1131,31 @@
             "hz": "- "
         },
         {
-            "user": "grasshopper",
+            "user": "grasshopperhz",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Wormy",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SmileBullet",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Wutoki",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Tadel772",
             "link": "",
             "percent": 100,
             "hz": "- "

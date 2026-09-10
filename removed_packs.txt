@@ -68,3 +68,23 @@
         ],
         "colour": "#e487fc"
     }
+    {
+        "name": "Diused's Pack",
+        "levels": [
+            "Inspirative_II",
+            "Last_Judgement",
+            "Metal_Magic",
+            "New_Age_Blizzard",
+            "Reconfigurate"
+        ],
+        "colour": "#2100ff"
+    },
+    {
+        "name": "Halloween Pack",
+        "levels": [
+            "Twilight_Darkness",
+            "No_Time_To_Die",
+            "Twotaolloween"
+        ],
+        "colour": "#ed7a00"
+    },

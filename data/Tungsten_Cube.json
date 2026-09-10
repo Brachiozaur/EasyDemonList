@@ -477,10 +477,16 @@
             "hz": "- "
         },
         {
-            "user": "grasshopper",
+            "user": "grasshopperhz",
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "SoggyPretzel",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

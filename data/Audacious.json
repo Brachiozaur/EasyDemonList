@@ -576,7 +576,7 @@
             "hz": 120
         },
         {
-            "user": "grasshopper",
+            "user": "grasshopperhz",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -586,6 +586,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "domkas1212",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

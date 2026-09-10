@@ -195,7 +195,7 @@
             "hz": 360
         },
         {
-            "user": "grasshopper",
+            "user": "grasshopperhz",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -383,6 +383,12 @@
         {
             "user": "domkas1212",
             "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Ninjawerewolf",
+            "link": "https://youtu.be/wTDLIAicgco",
             "percent": 100,
             "hz": "- "
         }

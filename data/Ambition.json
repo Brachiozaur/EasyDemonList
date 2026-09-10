@@ -219,7 +219,7 @@
             "hz": 240
         },
         {
-            "user": "grasshopper",
+            "user": "grasshopperhz",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -349,6 +349,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "SmileBullet",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

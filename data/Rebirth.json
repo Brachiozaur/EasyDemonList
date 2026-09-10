@@ -1353,7 +1353,7 @@
             "hz": 120
         },
         {
-            "user": "grasshopper",
+            "user": "grasshopperhz",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -1516,6 +1516,24 @@
         },
         {
             "user": "MasterAqua",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "TheGuyWhoDoesThings",
+            "link": "https://youtu.be/QteMHyVl-OY",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Wutoki",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Gsus",
             "link": "",
             "percent": 100,
             "hz": "- "

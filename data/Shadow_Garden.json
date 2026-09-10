@@ -38,7 +38,7 @@
             "hz": 144
         },
         {
-            "user": "grasshopper",
+            "user": "grasshopperhz",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -159,6 +159,24 @@
         },
         {
             "user": "ZircleZ",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Joaco",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "LifelessComputer",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "I6RXT",
             "link": "",
             "percent": 100,
             "hz": "- "

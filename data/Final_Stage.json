@@ -21,7 +21,7 @@
             "hz": 360
         },
         {
-            "user": "grasshopper",
+            "user": "grasshopperhz",
             "link": "",
             "percent": 100,
             "hz": 360
@@ -253,6 +253,18 @@
             "link": "https://youtu.be/eHypSneb-gw",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "SmileBullet",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "MFboy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

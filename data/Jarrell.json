@@ -819,7 +819,7 @@
             "hz": 120
         },
         {
-            "user": "grasshopper",
+            "user": "grasshopperhz",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -877,6 +877,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Random",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Wutoki",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

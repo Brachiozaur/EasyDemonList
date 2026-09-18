@@ -1717,6 +1717,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": ".late",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

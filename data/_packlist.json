@@ -1,5 +1,15 @@
 [
     {
+        "name": "Top 5 Pack",
+        "levels": [
+            "Metal_Genesis",
+            "Rebirth",
+            "Crunchy_Apple",
+            "Wobbly_Teeth",
+            "Oblivious"
+        ],
+        "colour": "#ffffff"
+    },
         "name": "Big's Pack",
         "levels": [
             "Oblivious",

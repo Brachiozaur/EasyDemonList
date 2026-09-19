@@ -40,15 +40,43 @@
         "colour": "#ffffff"
     },
     {
-        "name": "Big's Pack",
+        "name": "Fan Favorite Pack",
         "levels": [
+            "Electric_Algal_Bloom",
+            "Lost_To_Time",
+            "CTRL_C",
             "Oblivious",
-            "Low_Orbit_Dream",
-            "DraiR",
-            "Infinitude",
+            "CHEXTMIX",
+            "ZXCircleS",
+            "Divine_Dive",
             "A_Final_Memorial"
         ],
-        "colour": "#5bcaf2"
+        "colour": "#206694"
+    },
+    {
+        "name": "Awful Pack",
+        "levels": [
+            "Jarrell",
+            "Descend",
+            "PopCorn",
+            "PaC",
+            "DarkSpirit"
+        ],
+        "colour": "#7b3900"
+    },
+    {
+        "name": "Banger Tunes Pack",
+        "levels": [
+            "The_Dragons_lair",
+            "Lost_To_Time",
+            "Soesaeh",
+            "A_Final_Memorial",
+            "Everlasting",
+            "SemiCircles",
+            "CTRL_C",
+            "Phoenix"
+        ],
+        "colour": "#e6b500"
     },
     {
         "name": "Arcadie's Pack",
@@ -62,28 +90,6 @@
         "colour": "#71368a"
     },
     {
-        "name": "AwesomeStyles' Pack",
-        "levels": [
-            "CARNIVAL",
-            "ZXCircleS",
-            "aasb",
-            "washington_moshing",
-            "Neuf_Cercles"
-        ],
-        "colour": "#f1d000"
-    },
-    {
-        "name": "rose's Pack",
-        "levels": [
-            "DARKNESS",
-            "SemiCircles",
-            "Dailen",
-            "Fast_n_Spicy",
-            "Red"
-        ],
-        "colour": "#b2fcfc"
-    },
-    {
         "name": "Ace's Pack",
         "levels": [
             "Power_Surge",
@@ -93,6 +99,17 @@
             "A_Final_Memorial"
         ],
         "colour": "#ffd900"
+    },
+    {
+        "name": "Big's Pack",
+        "levels": [
+            "Oblivious",
+            "Low_Orbit_Dream",
+            "DraiR",
+            "Infinitude",
+            "A_Final_Memorial"
+        ],
+        "colour": "#5bcaf2"
     },
     {
         "name": "sheeb's Pack",
@@ -126,6 +143,28 @@
             "Aerophobia"
         ],
         "colour": "#e67e22"
+    },
+    {
+        "name": "AwesomeStyles' Pack",
+        "levels": [
+            "CARNIVAL",
+            "ZXCircleS",
+            "aasb",
+            "washington_moshing",
+            "Neuf_Cercles"
+        ],
+        "colour": "#f1d000"
+    },
+    {
+        "name": "reo's Pack",
+        "levels": [
+            "DARKNESS",
+            "SemiCircles",
+            "Dailen",
+            "Fast_n_Spicy",
+            "Red"
+        ],
+        "colour": "#b2fcfc"
     },
     {
         "name": "Chonkey's Pack",
@@ -414,31 +453,6 @@
         "colour": "#277ecd"
     },
     {
-        "name": "Fan Favorite Pack",
-        "levels": [
-            "Electric_Algal_Bloom",
-            "Lost_To_Time",
-            "CTRL_C",
-            "Oblivious",
-            "CHEXTMIX",
-            "ZXCircleS",
-            "Divine_Dive",
-            "A_Final_Memorial"
-        ],
-        "colour": "#206694"
-    },
-    {
-        "name": "Awful Pack",
-        "levels": [
-            "Jarrell",
-            "Descend",
-            "PopCorn",
-            "PaC",
-            "DarkSpirit"
-        ],
-        "colour": "#7b3900"
-    },
-    {
         "name": "Nine Circles Pack",
         "levels": [
             "Neuf_Cercles",
@@ -447,20 +461,6 @@
             "Hamduck"
         ],
         "colour": "#ff0000"
-    },
-    {
-        "name": "Banger Tunes Pack",
-        "levels": [
-            "The_Dragons_lair",
-            "Lost_To_Time",
-            "Soesaeh",
-            "A_Final_Memorial",
-            "Everlasting",
-            "SemiCircles",
-            "CTRL_C",
-            "Phoenix"
-        ],
-        "colour": "#e6b500"
     }
 
 ]

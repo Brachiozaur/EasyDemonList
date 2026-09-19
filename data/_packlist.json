@@ -178,6 +178,86 @@
         "colour": "#077023"
     },
     {
+        "name": "Top 1 Pack",
+        "levels": [
+            "CTRL_C",
+            "Rebirth",
+            "Takeoff",
+            "Hollowing",
+            "toxic_sewage",
+            "Intensa_Emozione",
+            "2DaTop",
+            "Force_Field",
+            "CALYPSO_BLITZ",
+            "WELL_RESTED",
+            "Crumbs",
+            "DARKNESS",
+            "Break_The_Rules",
+            "Metal_Genesis",
+            "Cyberize",
+            "s2L3H",
+            "Animus"
+        ],
+        "colour": "#992d22"
+    },
+    {
+        "name": "Controversial Pack",
+        "levels": [
+            "ZXCircleS",
+            "Electrodynamixer",
+            "MLXmas",
+            "Bloudeleuste",
+            "Sidestep",
+            "Ample_Park"
+        ],
+        "colour": "#999581"
+    },
+    {
+        "name": "Insane Dual Pack",
+        "levels": [
+            "Oblivious",
+            "electric_offline",
+            "Sentinel",
+            "Fast_n_Spicy",
+            "Organon"
+        ],
+        "colour": "#ffffff"
+    },
+    {
+        "name": "Impossible Beginning Pack",
+        "levels": [
+            "Hollowing",
+            "Ample_Park",
+            "Times_Of_Revolution",
+            "Descendance",
+            "Zafari"
+        ],
+        "colour": "#ffffff"
+    },
+    {
+        "name": "Impossible Ending Pack",
+        "levels": [
+            "Dark_Star_Core",
+            "Everlasting",
+            "Melting_Point",
+            "RuSH",
+            "Ghost_Vandalf"
+        ],
+        "colour": "#ffffff"
+    },
+    {
+        "name": "What Were They Cooking??? Pack",
+        "levels": [
+            "Full_Coffee",
+            "Last_Judgement",
+            "Hootenanny",
+            "RAGE",
+            "Universal_Remote",
+            "RuSH"
+        ],
+        "colour": "#ffffff"
+    },
+    {
         "name": "Wave Pack",
         "levels": [
             "Rebirth",
@@ -207,18 +287,6 @@
             "Audacious"
         ],
         "colour": "#5249f5"
-    },
-    {
-        "name": "Controversial Pack",
-        "levels": [
-            "ZXCircleS",
-            "Electrodynamixer",
-            "MLXmas",
-            "Bloudeleuste",
-            "Sidestep",
-            "Ample_Park"
-        ],
-        "colour": "#999581"
     },
     {
         "name": "1.9 Pack",
@@ -410,29 +478,6 @@
             "NeXender_Game"
         ],
         "colour": "#9b59b6"
-    },
-    {
-        "name": "Top 1 Pack",
-        "levels": [
-            "CTRL_C",
-            "Rebirth",
-            "Takeoff",
-            "Hollowing",
-            "toxic_sewage",
-            "Intensa_Emozione",
-            "2DaTop",
-            "Force_Field",
-            "CALYPSO_BLITZ",
-            "WELL_RESTED",
-            "Crumbs",
-            "DARKNESS",
-            "Break_The_Rules",
-            "Metal_Genesis",
-            "Cyberize",
-            "s2L3H",
-            "Animus"
-        ],
-        "colour": "#992d22"
     },
     {
         "name": "Nope! Pack",

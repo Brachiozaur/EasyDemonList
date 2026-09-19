@@ -11,6 +11,35 @@
         "colour": "#ffffff"
     },
     {
+        "name": "EDL Alphabet",
+        "levels": [
+            "Ample_Park",
+            "Bloudeleuste",
+            "Crunchy_Apple",
+            "DarkSpirit",
+            "Electric_Algal_Bloom",
+            "Flighter",
+            "GREGWORLD",
+            "Hollowing",
+            "Inspirative_II",
+            "Jarrell",
+            "Lost_To_Time",
+            "Metal_Genesis",
+            "Neuf_Cercles",
+            "Oblivious",
+            "PopCorn",
+            "Rebirth",
+            "Sidestep",
+            "totality",
+            "Universal_Remote",
+            "Wild_West",
+            "XVIII",
+            "ZXCircleS",
+            "0_Gs_Given"
+        ],
+        "colour": "#ffffff"
+    },
+    {
         "name": "Big's Pack",
         "levels": [
             "Oblivious",

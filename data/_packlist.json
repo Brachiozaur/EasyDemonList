@@ -228,7 +228,7 @@
         "levels": [
             "Hollowing",
             "Ample_Park",
-            "Times_Of_Revolution",
+            "Times_of_Revolution",
             "Descendance",
             "Zafari"
         ],
@@ -240,7 +240,7 @@
             "Dark_Star_Core",
             "Everlasting",
             "Melting_Point",
-            "RuSH",
+            "rush",
             "Ghost_Vandalf"
         ],
         "colour": "#ffffff"
@@ -253,7 +253,7 @@
             "Hootenanny",
             "RAGE",
             "Universal_Remote",
-            "RuSH"
+            "rush"
         ],
         "colour": "#ffffff"
     },

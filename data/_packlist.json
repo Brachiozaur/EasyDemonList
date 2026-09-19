@@ -260,10 +260,12 @@
     {
         "name": "1.9 Pack",
         "levels": [
-            "Crunchy_Apple",
-            "Wobbly_Teeth",
-            "electric_offline",
-            "Demonic_Uprise"
+            "Bye_bye_Mr_Gawne",
+            "Lost_To_Time",
+            "Demonic_Uprise",
+            "Audacious",
+            "Sentinel",
+            "Liberation"
         ],
         "colour": "#52aa4b"
     },
@@ -304,14 +306,13 @@
         "colour": "#27d9d9"
     },
     {
-        "name": "XL Pack",
+        "name": "XXL Pack",
         "levels": [
-            "Underworld",
-            "Amiru",
-            "Next_Stop",
-            "Jarrell",
+            "Space_Invaders",
             "Bloudeleuste",
-            "jannah"
+            "Lost_To_Time",
+            "Dimension_Hopper",
+            "A_Final_Memorial"
         ],
         "colour": "#2ecc71"
     },
@@ -350,57 +351,34 @@
         "levels": [
             "Electric_Algal_Bloom",
             "electric_offline",
-            "Electric_Fortress"
+            "Electric_Fortress",
+            "Electrodynamixer"
         ],
         "colour": "#ffc600"
     },
     {
-        "name": "GDDP Pack",
-        "levels": [
-            "ZXCircleS",
-            "Fast_n_Spicy",
-            "Bloudeleuste",
-            "Neuf_Cercles"
-        ],
-        "colour": "#09ff00"
-    },
-    {
         "name": "Modern Pack",
         "levels": [
-            "Propel",
             "Blue",
-            "Dailen"
+            "Supercalifragilistic",
+            "Propel",
+            "Dailen",
+            "Disarray"
         ],
         "colour": "#1abc9c"
     },
     {
-        "name": "GDPS Pack",
-        "levels": [
-            "Infinitude",
-            "Low_Orbit_Dream",
-            "Audacious"
-        ],
-        "colour": "#5249f5"
-    },
-    {
-        "name": "Cat Pack",
+        "name": "Animal Pack",
         "levels": [
             "LYNX",
             "Press_Meow_Finale",
-            "Space_Nyaaa"
+            "Space_Nyaaa",
+            "Zafari",
+            "Steel_Butterfly",
+            "Phoenix",
+            "Taimiri"
         ],
         "colour": "#607d8b"
-    },
-    {
-        "name": "C_X Pack",
-        "levels": [
-            "Metal_Genesis",
-            "Crunchy_Town_II",
-            "Twilight_Darkness",
-            "Descend",
-            "DarkSpirit"
-        ],
-        "colour": "#6569b1"
     },
     {
         "name": "Spark Pack",
@@ -423,8 +401,7 @@
             "tkspl",
             "Break_The_Rules",
             "CLEAR",
-            "DeathFunk",
-            "CRACK"
+            "DeathFunk"
         ],
         "colour": "#9b59b6"
     },
@@ -453,8 +430,7 @@
             "s2L3H",
             "Crumbs",
             "Lutetia",
-            "2DaTop",
-            "Intensa_Emozione"
+            "2DaTop"
         ],
         "colour": "#9b59b6"
     },
@@ -470,6 +446,21 @@
             "Hyperion",
             "Ice_Melt",
             "NeXender_Game"
+        ],
+        "colour": "#9b59b6"
+    },
+    {
+        "name": "Promoted Pack V",
+        "levels": [
+            "Shadow_Garden",
+            "Big_Belly",
+            "CTRL_C",
+            "No_Time_To_Die",
+            "Solaura",
+            "Force_Field",
+            "Fresh_Odyssey",
+            "CRACK",
+            "Intensa_Emozione"
         ],
         "colour": "#9b59b6"
     }

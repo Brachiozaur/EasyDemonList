@@ -37,7 +37,7 @@
             "ZXCircleS",
             "0_Gs_Given"
         ],
-        "colour": "#ffffff"
+        "colour": "#000000"
     },
     {
         "name": "Fan Favorite Pack",
@@ -221,7 +221,7 @@
             "Fast_n_Spicy",
             "Organon"
         ],
-        "colour": "#ffffff"
+        "colour": "#ffbb00"
     },
     {
         "name": "Impossible Beginning Pack",
@@ -232,7 +232,7 @@
             "Descendance",
             "Zafari"
         ],
-        "colour": "#ffffff"
+        "colour": "#3498db"
     },
     {
         "name": "Impossible Ending Pack",
@@ -243,7 +243,7 @@
             "rush",
             "Ghost_Vandalf"
         ],
-        "colour": "#ffffff"
+        "colour": "#ff1f1f"
     },
     {
         "name": "What Were They Cooking??? Pack",
@@ -255,7 +255,7 @@
             "Universal_Remote",
             "rush"
         ],
-        "colour": "#ffffff"
+        "colour": "#ffcf00"
     },
     {
         "name": "1.9 Pack",

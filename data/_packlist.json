@@ -268,22 +268,16 @@
         "colour": "#52aa4b"
     },
     {
-        "name": "2.0 Pack I",
+        "name": "2.0 Pack",
         "levels": [
             "Blender",
             "Airtime",
-            "The_Dragons_lair"
-        ],
-        "colour": "#da49ac"
-    },
-    {
-        "name": "2.0 Pack II",
-        "levels": [
+            "The_Dragons_lair",
             "Deadly_Impact",
             "Metal_Genesis",
             "New_Age_Blizzard"
         ],
-        "colour": "#a017a5"
+        "colour": "#da49ac"
     },
     {
         "name": "LOUD Pack",
@@ -343,22 +337,11 @@
         "colour": "#6495db"
     },
     {
-        "name": "Wave Pack",
-        "levels": [
-            "Rebirth",
-            "ZXCircleS",
-            "SemiCircles",
-            "Hamduck"
-        ],
-        "colour": "#3498db"
-    },
-    {
         "name": "Nine Circles Pack",
         "levels": [
             "Neuf_Cercles",
             "SemiCircles",
-            "ZXCircleS",
-            "Hamduck"
+            "ZXCircleS"
         ],
         "colour": "#ff0000"
     },
@@ -489,24 +472,6 @@
             "NeXender_Game"
         ],
         "colour": "#9b59b6"
-    },
-    {
-        "name": "Nope! Pack",
-        "levels": [
-            "Glitched_Dreams",
-            "the_challenge",
-            "Molrock_Volcano",
-            "Just_Processing",
-            "Lazurite",
-            "Rip_it",
-            "Rustles_Reaction",
-            "The_Legend_Of_nando",
-            "Rewired",
-            "BRPM8ZGKRJ",
-            "DubsteP",
-            "A_new_system"
-        ],
-        "colour": "#277ecd"
     }
 
 ]

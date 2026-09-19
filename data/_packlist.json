@@ -258,37 +258,6 @@
         "colour": "#ffffff"
     },
     {
-        "name": "Wave Pack",
-        "levels": [
-            "Rebirth",
-            "ZXCircleS",
-            "SemiCircles",
-            "Hamduck"
-        ],
-        "colour": "#3498db"
-    },
-    {
-        "name": "XL Pack",
-        "levels": [
-            "Underworld",
-            "Amiru",
-            "Next_Stop",
-            "Jarrell",
-            "Bloudeleuste",
-            "jannah"
-        ],
-        "colour": "#2ecc71"
-    },
-    {
-        "name": "GDPS Pack",
-        "levels": [
-            "Infinitude",
-            "Low_Orbit_Dream",
-            "Audacious"
-        ],
-        "colour": "#5249f5"
-    },
-    {
         "name": "1.9 Pack",
         "levels": [
             "Crunchy_Apple",
@@ -341,6 +310,18 @@
         "colour": "#27d9d9"
     },
     {
+        "name": "XL Pack",
+        "levels": [
+            "Underworld",
+            "Amiru",
+            "Next_Stop",
+            "Jarrell",
+            "Bloudeleuste",
+            "jannah"
+        ],
+        "colour": "#2ecc71"
+    },
+    {
         "name": "Space Pack",
         "levels": [
             "aasb",
@@ -362,6 +343,35 @@
         "colour": "#6495db"
     },
     {
+        "name": "Wave Pack",
+        "levels": [
+            "Rebirth",
+            "ZXCircleS",
+            "SemiCircles",
+            "Hamduck"
+        ],
+        "colour": "#3498db"
+    },
+    {
+        "name": "Nine Circles Pack",
+        "levels": [
+            "Neuf_Cercles",
+            "SemiCircles",
+            "ZXCircleS",
+            "Hamduck"
+        ],
+        "colour": "#ff0000"
+    },
+    {
+        "name": "Electric Pack",
+        "levels": [
+            "Electric_Algal_Bloom",
+            "electric_offline",
+            "Electric_Fortress"
+        ],
+        "colour": "#ffc600"
+    },
+    {
         "name": "GDDP Pack",
         "levels": [
             "ZXCircleS",
@@ -381,13 +391,13 @@
         "colour": "#1abc9c"
     },
     {
-        "name": "Electric Pack",
+        "name": "GDPS Pack",
         "levels": [
-            "Electric_Algal_Bloom",
-            "electric_offline",
-            "Electric_Fortress"
+            "Infinitude",
+            "Low_Orbit_Dream",
+            "Audacious"
         ],
-        "colour": "#ffc600"
+        "colour": "#5249f5"
     },
     {
         "name": "Cat Pack",
@@ -414,6 +424,7 @@
         "levels": [
             "Oblivious",
             "Fast_n_Spicy",
+            "ooni",
             "evenfall"
         ],
         "colour": "#ffffff"
@@ -496,16 +507,6 @@
             "A_new_system"
         ],
         "colour": "#277ecd"
-    },
-    {
-        "name": "Nine Circles Pack",
-        "levels": [
-            "Neuf_Cercles",
-            "SemiCircles",
-            "ZXCircleS",
-            "Hamduck"
-        ],
-        "colour": "#ff0000"
     }
 
 ]

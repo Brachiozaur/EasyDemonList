@@ -2557,6 +2557,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "zZurich",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

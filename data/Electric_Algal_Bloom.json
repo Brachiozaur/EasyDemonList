@@ -706,6 +706,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "S0meRand0m",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

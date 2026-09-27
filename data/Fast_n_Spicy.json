@@ -1191,7 +1191,7 @@
             "hz": "- "
         },
         {
-            "user": "aryx09",
+            "user": "aryx",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1201,6 +1201,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Kyuux",
+            "link": "https://youtu.be/YtBweWxjieA",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "coolkid14",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

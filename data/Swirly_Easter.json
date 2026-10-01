@@ -493,6 +493,12 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Smikkelbear22",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -619,6 +619,36 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "oman",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Jimrox12",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Personhuman566",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Gsus",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "superuniform",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

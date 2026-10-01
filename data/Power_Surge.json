@@ -409,6 +409,12 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "superuniform",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

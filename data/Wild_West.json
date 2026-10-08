@@ -763,6 +763,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "TIMTIMESHOW",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Frankjtg",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

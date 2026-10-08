@@ -166,6 +166,24 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "TIMTIMESHOW",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Joaco",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Excryst",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -887,6 +887,30 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Liverlan",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "S0meRand0m",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Yoshi",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "superuniform",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

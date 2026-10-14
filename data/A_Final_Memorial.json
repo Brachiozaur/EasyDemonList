@@ -507,10 +507,16 @@
             "hz": "- "
         },
         {
-            "user": "grasshopperhz",
+            "user": "oman",
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Ptiramissu",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

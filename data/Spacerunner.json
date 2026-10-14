@@ -85,7 +85,7 @@
         },
         {
             "user": "Applljuice",
-            "link": "",
+            "link": "https://youtu.be/TiHjOqL4s7Y",
             "percent": 100,
             "hz": 60
         },
@@ -184,6 +184,24 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "domkas1212",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "tomm",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Botbennett",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

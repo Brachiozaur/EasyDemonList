@@ -1108,7 +1108,7 @@
         },
         {
             "user": "Applljuice",
-            "link": "",
+            "link": "https://youtu.be/vaHEt5OTMhc",
             "percent": 100,
             "hz": 120
         },
@@ -1249,6 +1249,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "purplebro",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -370,7 +370,7 @@
         },
         {
             "user": "Applljuice",
-            "link": "",
+            "link": "https://youtu.be/KGyuxLsIq6Y",
             "percent": 100,
             "hz": 360
         },
@@ -463,6 +463,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "TIMTIMESHOW",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

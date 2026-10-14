@@ -1198,7 +1198,7 @@
         },
         {
             "user": "Applljuice",
-            "link": "",
+            "link": "https://youtu.be/ia372rIRXns",
             "percent": 100,
             "hz": 120
         },
@@ -1375,6 +1375,30 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "PossiblyWade",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "FBITB",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Euleloco",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Skyehi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -571,6 +571,12 @@
             "link": "https://youtu.be/ClyUwgoQFiM",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Yoshi",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

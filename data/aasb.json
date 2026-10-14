@@ -700,7 +700,7 @@
         },
         {
             "user": "Applljuice",
-            "link": "",
+            "link": "https://youtu.be/V6xMOunPRF0",
             "percent": 100,
             "hz": 360
         },
@@ -760,6 +760,12 @@
         },
         {
             "user": "superuniform",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Yoshi",
             "link": "",
             "percent": 100,
             "hz": "- "

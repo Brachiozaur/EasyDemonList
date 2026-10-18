@@ -417,7 +417,7 @@
             "hz": "- "
         },
         {
-            "user": "krii",
+            "user": "Bdeaf",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1099,6 +1099,18 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Skyehi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "pad",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

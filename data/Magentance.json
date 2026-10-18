@@ -450,7 +450,7 @@
             "hz": 60
         },
         {
-            "user": "krii",
+            "user": "Bdeaf",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -538,6 +538,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Botbennett",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

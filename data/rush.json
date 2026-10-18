@@ -135,7 +135,7 @@
             "hz": 60
         },
         {
-            "user": "krii",
+            "user": "Bdeaf",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -385,6 +385,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "GeoLunatic",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

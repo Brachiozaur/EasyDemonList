@@ -1295,6 +1295,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Skyehi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "pad",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

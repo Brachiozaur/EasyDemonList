@@ -213,7 +213,7 @@
             "hz": 144
         },
         {
-            "user": "krii",
+            "user": "Bdeaf",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -317,6 +317,12 @@
         {
             "user": "FFFGGG23",
             "link": "https://www.youtube.com/watch?v=NBFdAz2y_dg",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "greenorb",
+            "link": "",
             "percent": 100,
             "hz": "- "
         }

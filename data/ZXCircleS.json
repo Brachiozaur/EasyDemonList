@@ -1821,7 +1821,7 @@
             "hz": 120
         },
         {
-            "user": "grego",
+            "user": "insinuary",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -2674,6 +2674,12 @@
         },
         {
             "user": "pad",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Terriccan",
             "link": "",
             "percent": 100,
             "hz": "- "

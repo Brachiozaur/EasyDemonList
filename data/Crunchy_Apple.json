@@ -1017,7 +1017,7 @@
             "hz": "- "
         },
         {
-            "user": "grego",
+            "user": "insinuary",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1411,6 +1411,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Botbennett",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Liverlan",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

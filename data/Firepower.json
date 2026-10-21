@@ -328,6 +328,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "setye0122",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

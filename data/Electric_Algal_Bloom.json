@@ -760,6 +760,18 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Botbennett",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "insinuary",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

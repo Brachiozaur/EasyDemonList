@@ -987,7 +987,7 @@
             "hz": 360
         },
         {
-            "user": "grego",
+            "user": "insinuary",
             "link": "",
             "percent": 100,
             "hz": 360
@@ -1729,6 +1729,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Random Geometry Dash Fan Guy",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

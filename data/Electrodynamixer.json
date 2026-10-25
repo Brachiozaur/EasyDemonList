@@ -712,6 +712,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Luna",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -459,7 +459,7 @@
             "hz": "- "
         },
         {
-            "user": "imigachu",
+            "user": "probnotinks",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -535,6 +535,24 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Botbennett",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Cricketeer",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "SmokiGun",
+            "link": "https://youtu.be/unbIAjNPMuk",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

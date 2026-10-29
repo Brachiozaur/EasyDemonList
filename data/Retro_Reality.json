@@ -277,6 +277,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "oman",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "superuniform",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

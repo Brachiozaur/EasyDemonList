@@ -1099,6 +1099,24 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Liverlan",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Mr. Stickman",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "gameboyuh",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

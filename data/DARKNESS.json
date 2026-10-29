@@ -799,6 +799,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Mr. Stickman",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -661,6 +661,12 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Liverlan",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

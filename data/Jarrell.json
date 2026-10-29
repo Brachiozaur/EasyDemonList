@@ -931,6 +931,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "oman",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

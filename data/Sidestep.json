@@ -1837,6 +1837,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Jamington",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

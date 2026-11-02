@@ -731,6 +731,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "IlGiammo",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

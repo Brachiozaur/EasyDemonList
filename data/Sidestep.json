@@ -1843,6 +1843,12 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Cricketeer",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

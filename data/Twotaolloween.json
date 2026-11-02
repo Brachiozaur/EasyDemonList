@@ -474,6 +474,12 @@
             "link": "https://youtu.be/2PF5ybifmCg",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "huggies",
+            "link": "https://www.youtube.com/watch?v=UgXlfxTlx9o",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

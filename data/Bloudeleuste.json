@@ -1897,6 +1897,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "MadDuck1",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

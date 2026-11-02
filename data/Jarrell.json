@@ -937,6 +937,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Maple",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

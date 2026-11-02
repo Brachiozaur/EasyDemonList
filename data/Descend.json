@@ -649,6 +649,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Cricketeer",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

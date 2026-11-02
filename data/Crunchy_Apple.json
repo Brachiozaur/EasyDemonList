@@ -1459,6 +1459,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "ProGamerYTGD2",
+            "link": "https://www.youtube.com/watch?v=crodtj10siQ",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

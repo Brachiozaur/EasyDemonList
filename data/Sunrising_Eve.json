@@ -673,6 +673,12 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "DefToasty",
+            "link": "https://www.youtube.com/watch?v=FIyJ31FGeqM",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

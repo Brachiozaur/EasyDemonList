@@ -484,6 +484,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "kryo",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

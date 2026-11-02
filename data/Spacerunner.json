@@ -232,6 +232,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "MjNinja",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

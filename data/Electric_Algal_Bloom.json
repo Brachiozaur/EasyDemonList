@@ -7,7 +7,7 @@
         "Loltad"
     ],
     "verifier": "ivyteal",
-    "verification": "https://youtu.be/CLXlnwjn1rM",
+    "verification": "https://youtu.be/mUF3AedsuoU",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
@@ -800,6 +800,24 @@
         {
             "user": "DefToasty",
             "link": "https://www.youtube.com/watch?v=SXdwc07u9t8",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "POTATOES",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "gdflame__",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "MjNinja",
+            "link": "",
             "percent": 100,
             "hz": "- "
         }

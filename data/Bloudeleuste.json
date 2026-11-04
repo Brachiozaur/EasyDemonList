@@ -1915,6 +1915,12 @@
             "link": "",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Default",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

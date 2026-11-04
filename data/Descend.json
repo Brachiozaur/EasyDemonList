@@ -3,8 +3,8 @@
     "name": "Descend",
     "author": "Cirtrax",
     "creators": [],
-    "verifier": "Alpha Records",
-    "verification": "https://www.youtube.com/watch?v=cC_iVWtghh4",
+    "verifier": "Amoeba",
+    "verification": "https://www.youtube.com/watch?v=NsAipKlETFg",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
@@ -652,6 +652,12 @@
         },
         {
             "user": "Cricketeer",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Excryst",
             "link": "",
             "percent": 100,
             "hz": "- "

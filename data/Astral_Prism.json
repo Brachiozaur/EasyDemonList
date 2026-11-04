@@ -12,11 +12,11 @@
         "Lunaire",
         "Interefent",
         "64x",
-        "MortleX",
+        "iMortleX",
         "Met3o"
     ],
     "verifier": "Szilu",
-    "verification": "https://youtu.be/JGQekTMqOW0?si=0ranPDvbFg5YGLL_",
+    "verification": "https://youtu.be/0c64bzUoKyg",
     "percentToQualify": "100",
     "password": "555222",
     "records": [
@@ -529,6 +529,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "RubberDuck",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

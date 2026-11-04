@@ -8,7 +8,7 @@
         "BM"
     ],
     "verifier": "hfcRed",
-    "verification": "https://youtu.be/l_d52x6f8hc",
+    "verification": "https://youtu.be/dr4GMNUTSzE",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
@@ -993,6 +993,12 @@
         {
             "user": "DefToasty",
             "link": "https://www.youtube.com/watch?v=j2NqfUyDhoE",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "MjNinja",
+            "link": "",
             "percent": 100,
             "hz": "- "
         }

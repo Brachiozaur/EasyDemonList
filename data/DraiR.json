@@ -1015,6 +1015,18 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "f1regek",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "MjNinja",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

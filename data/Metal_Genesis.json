@@ -1795,6 +1795,30 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Quix",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Xeafex",
+            "link": "https://streamable.com/4zcx54",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Solstice",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "ventrxyy",
+            "link": "https://medal.tv/games/geometry-dash/clips/nRhzYkIuHqVoGeHoF",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

@@ -10,18 +10,18 @@
         "AlexS2003",
         "Exo",
         "MobiGFX",
-        "Blazer",
+        "Blazer2",
         "Djdvd17",
         "xCaptain",
         "Suxar1x",
         "SerpentGeometry",
         "Dyron",
-        "Damianos Kabanos",
+        "DamianosKabanos",
         "Mantevian",
         "Texic",
         "FlyArcZ",
         "AkApple",
-        "Chona026"
+        "chona026"
     ],
     "verifier": "Milos482",
     "verification": "https://www.youtube.com/watch?v=8R7o3KbLmfA",
@@ -684,6 +684,12 @@
         },
         {
             "user": "gdflame__",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "f1regek",
             "link": "",
             "percent": 100,
             "hz": "- "

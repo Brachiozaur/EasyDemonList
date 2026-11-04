@@ -8,7 +8,7 @@
         "EmmyTheCat"
     ],
     "verifier": "Lax04",
-    "verification": "https://youtu.be/DEp3Ev_fGA4?si=NrtZujhS8yofiZww",
+    "verification": "https://youtu.be/E4x3PwXE2vs",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
@@ -377,6 +377,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Applljuice",
+            "link": "https://youtu.be/ouI1zYuKpZM",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

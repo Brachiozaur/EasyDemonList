@@ -2737,6 +2737,18 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Default",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "RubberDuck",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

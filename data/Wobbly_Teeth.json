@@ -7,7 +7,7 @@
         "Findexi"
     ],
     "verifier": "Minesap",
-    "verification": "https://youtu.be/I0ZSFSA54Aw",
+    "verification": "https://youtu.be/Yxiv0sBlBF0",
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
@@ -1318,6 +1318,12 @@
             "link": "https://www.youtube.com/watch?v=-Ez4jCttpqY",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Lsuuwu",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

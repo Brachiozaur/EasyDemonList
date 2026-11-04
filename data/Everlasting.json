@@ -14,7 +14,7 @@
         "Endevvor"
     ],
     "verifier": "akinawoo",
-    "verification": "https://youtu.be/KCOG-s77CPk",
+    "verification": "https://youtu.be/XK29FqeQun0",
     "percentToQualify": "100",
     "password": 101620,
     "records": [
@@ -479,6 +479,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Botbennett",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

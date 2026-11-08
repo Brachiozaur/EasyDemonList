@@ -12,7 +12,7 @@
         "Lunaire",
         "Interefent",
         "64x",
-        "iMortleX",
+        "iMortlex",
         "Met3o"
     ],
     "verifier": "Szilu",
@@ -535,6 +535,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "kryo",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

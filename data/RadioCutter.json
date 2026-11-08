@@ -5,7 +5,7 @@
     "creators": [
         "Darwin",
         "Stamina",
-        "QuacDuck",
+        "QuacDuc",
         "Hyenaedon",
         "ItzMezzo",
         "Yakimaru"
@@ -491,6 +491,12 @@
         },
         {
             "user": "Venom",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Zxrlz",
             "link": "",
             "percent": 100,
             "hz": "- "

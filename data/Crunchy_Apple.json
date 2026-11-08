@@ -1455,7 +1455,7 @@
             "hz": 144
         },
         {
-            "user": "Maple",
+            "user": "MapleX",
             "link": "",
             "percent": 100,
             "hz": 360
@@ -1475,6 +1475,18 @@
         {
             "user": "Solstice",
             "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Beetron",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "FFFGGG23",
+            "link": "https://youtu.be/8c5cu2NWrOo",
             "percent": 100,
             "hz": "- "
         }

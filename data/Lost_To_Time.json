@@ -488,6 +488,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "VeryCoolioDude",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

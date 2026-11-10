@@ -127,14 +127,14 @@ export default {
                                 class="director"
                                 :aria-pressed="searchQuery.trim() === '‼️'"
                                 @click="search('‼️')"
-                            >📚 Desperate for Opinions</button>
+                            >‼️ Controversial</button>
 
                             <button
                                 type="button"
                                 class="director"
                                 :aria-pressed="searchQuery.trim() === '🙂'"
                                 @click="search('🙂')"
-                            >👻 Banished. Just Banished.</button>
+                            >🙂 GREGWORLD</button>
                         </div>
                         <h3>Submission Requirements</h3>
                         <p>

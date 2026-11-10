@@ -199,14 +199,15 @@
         "colour": "#992d22"
     },
     {
-        "name": "Controversial Pack",
+        "name": "Bossfight Pack",
         "levels": [
-            "ZXCircleS",
-            "Electrodynamixer",
-            "MLXmas",
-            "Bloudeleuste",
-            "Sidestep",
-            "Ample_Park"
+            "Space_Invaders",
+            "Dark_Star_Core",
+            "aasb",
+            "PaC",
+            "Wild_West",
+            "Twilight_Darkness",
+            "Undr_Attac"
         ],
         "colour": "#999581"
     },

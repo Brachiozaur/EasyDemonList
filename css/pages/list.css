@@ -131,7 +131,7 @@
 :is(.page-list, .pack-list) .level-container .level .records a:hover {
     text-decoration: underline;
     text-decoration-thickness: calc(14%);
-    color: #f984ff;
+    color: #af84ff;
 }
 
 /* information box */
@@ -174,7 +174,7 @@
 :is(.page-list, .pack-list) .meta .editors li a:hover {
     text-decoration: underline;
     text-decoration-thickness: calc(14%);
-    color: #f984ff;
+    color: #af84ff;
 }
 
 .tag {

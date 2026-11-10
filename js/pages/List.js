@@ -127,7 +127,7 @@ export default {
                                 class="director"
                                 :aria-pressed="searchQuery.trim() === '‼️'"
                                 @click="search('‼️')"
-                            >‼️ Controversial</button>
+                            >‼️ Controversial Placement</button>
 
                             <button
                                 type="button"

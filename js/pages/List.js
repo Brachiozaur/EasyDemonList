@@ -125,15 +125,15 @@ export default {
                             <button
                                 type="button"
                                 class="director"
-                                :aria-pressed="searchQuery.trim() === '📚'"
-                                @click="search('📚')"
+                                :aria-pressed="searchQuery.trim() === '‼️'"
+                                @click="search('‼️')"
                             >📚 Desperate for Opinions</button>
 
                             <button
                                 type="button"
                                 class="director"
-                                :aria-pressed="searchQuery.trim() === '👻'"
-                                @click="search('👻')"
+                                :aria-pressed="searchQuery.trim() === '🙂'"
+                                @click="search('🙂')"
                             >👻 Banished. Just Banished.</button>
                         </div>
                         <h3>Submission Requirements</h3>

@@ -182,7 +182,7 @@ export default {
             const randomNumber = Math.floor(Math.random() * 200) + 1;
             return randomNumber === 1
                 ? 'Welcome to <span class="gradient-text">your mind</span>...'
-                : 'Welcome to the <span class="gradient-text">Medium Demon List</span>!';
+                : 'Welcome to the <span class="gradient-text">Easy Demon List</span>!';
         },
         nextPage() {
             if (this.currentPage < this.totalPages) this.currentPage++;

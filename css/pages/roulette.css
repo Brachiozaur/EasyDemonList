@@ -147,7 +147,7 @@
     .page-roulette .sidebar {
         margin-block: 1rem;
         padding: 2rem 1.5rem;
-        /* only scrolls if window is too short (Chonkey is short too) */
+        /* only scrolls if the window is too short for the options */
         overflow-y: auto;
         min-height: 0;
     }

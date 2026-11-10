@@ -35,10 +35,8 @@
     <div class="root" :class="{ dark: store.dark, shitty: store.shitty }">
         <header class="surface">
             <router-link class="logo" to="/">
-                <template v-else>
-                    <h2 class="logo__title">EDL</h2>
-                    <p class="logo__version">v2.0</p>
-                </template>
+                <h2 class="logo__title">EDL</h2>
+                <p class="logo__version">v2.0</p>
             </router-link>
             <nav class="nav">
                 <router-link class="nav__tab" to="/list">

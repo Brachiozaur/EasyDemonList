@@ -1,0 +1,244 @@
+import { store } from "../main.js";
+import { fetchEditors, fetchChangelog, fetchWeeklyDemon } from "../content.js";
+import { roleIcon, embed, getYoutubeIdFromUrl } from "../util.js";
+
+import Spinner from "../components/Spinner.js";
+
+/** Escapes before V-HTML injection */
+function escapeHtml(text) {
+    return text
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;");
+}
+
+export default {
+    components: { Spinner },
+    template: `
+        <main v-if="loading">
+            <Spinner></Spinner>
+        </main>
+        <main v-else class="page-home">
+            <div class="home-container">
+                <div class="text-container">
+                    <h1 v-html="welcomeText"></h1>
+                    <hr class="divider">
+                    <p>
+                    The Official Demonlist that has the hardest 150 easy demons ranked based on difficulty! Keep in mind the list is an approximation based on players' opinions and is <strong>not objective</strong>.
+                    </p>
+                </div>
+                <div class="changelog-container">
+                    <template v-if="changelog && changelog.length">
+                        <h2>Changelog <hr class="divider"></h2>
+                        <div class="changelog-content">
+                            <ol class="changelog">
+                                <li v-for="(entry, i) in paginatedChangelog" :key="currentPage + '-' + i">
+                                    <p class="type-label-md" v-html="formatEntryText(entry.date, entry.text)"></p>
+                                </li>
+                            </ol>
+                        </div>
+                       <div class="pagination">
+                            <button class="btn" aria-label="First page" @click="firstPage" :disabled="currentPage === 1"><span class="type-label-lg">&lt;&lt;</span></button>
+                            <button class="btn" @click="prevPage" :disabled="currentPage === 1"><span class="type-label-lg">Previous</span></button>
+                            <button v-for="page in pageNumbers" :key="page" class="btn" @click="goToPage(page)" :class="{ active: currentPage === page }"><span class="type-label-lg">{{ page }}</span></button>
+                            <input v-if="totalPages > 5" class="btn" type="number" aria-label="Go to page" v-model.number="inputPage" @keyup.enter="goToInputPage" min="1" :max="totalPages" placeholder="..." />
+                            <button class="btn" @click="nextPage" :disabled="currentPage === totalPages"><span class="type-label-lg">Next</span></button>
+                            <button class="btn" aria-label="Last page" @click="lastPage" :disabled="currentPage === totalPages"><span class="type-label-lg">&gt;&gt;</span></button>
+                        </div>
+                    </template>
+                    <p v-else-if="errors.includes('Failed to load changelog.')" class="error">Failed to load changelog.</p>
+                </div>
+            </div>
+            <div class="side-container">
+                <div class="weekly-container" v-if="weekly">
+                    <div class="meta weekly-demon">
+                        <h2>Weekly Demon <hr class="divider"></h2>
+                        <iframe
+                            v-if="weeklyVideo"
+                            class="weekly-demon__video"
+                            :src="weeklyVideo"
+                            :title="'Video of ' + weekly.name"
+                            loading="lazy"
+                            allowfullscreen
+                        ></iframe>
+                        <div class="weekly-demon__info">
+                            <button
+                                v-if="weekly.id"
+                                type="button"
+                                :title="'Copy ID (' + weekly.id + ')'"
+                                class="weekly-demon__name"
+                                @click="copyLevelId"
+                            ><span class="type-label-lg">{{ weekly.name }}</span></button>
+                            <p class="type-label-md" aria-live="polite">{{ copyMessage || 'by ' + weekly.author }}</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="meta-container">
+                    <div class="meta">
+                        <div class="errors" v-show="errors.length > 0">
+                            <p class="error" v-for="error of errors" :key="error">{{ error }}</p>
+                        </div>
+                        <template v-if="editors && editors.length">
+                            <div class="staff">
+                                <h2>Staff <hr class="divider"></h2>
+                                <ol class="editors">
+                                    <li v-for="editor in editors" :key="editor.name">
+                                        <img :src="roleIcon(editor.role, store.dark)" :alt="editor.role" :title="editor.role">
+                                        <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>
+                                        <p v-else>{{ editor.name }}</p>
+                                    </li>
+                                </ol>
+                            </div>
+                        </template>
+                        <div class="og">
+                            <p class="type-label-md">List Template by <a href="https://tsl.pages.dev/" target="_blank">The Shitty List</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    `,
+    data: () => ({
+        editors: [],
+        changelog: [],
+        weekly: null,
+        copyMessage: '',
+        copyTimer: null,
+        loading: true,
+        errors: [],
+        store,
+        currentPage: 1,
+        itemsPerPage: 10,
+        welcomeText: '',
+        inputPage: '',
+    }),
+    computed: {
+        /* YouTube URL <iframe> */
+        weeklyVideo() {
+            if (!this.weekly || !getYoutubeIdFromUrl(this.weekly.video)) return '';
+            return embed(this.weekly.video);
+        },
+        paginatedChangelog() {
+            const start = (this.currentPage - 1) * this.itemsPerPage;
+            const end = start + this.itemsPerPage;
+            return this.changelog.slice(start, end);
+        },
+        totalPages() {
+            return Math.ceil(this.changelog.length / this.itemsPerPage);
+        },
+        pageNumbers() {
+            const pages = [];
+            if (this.totalPages <= 5) {
+                for (let i = 1; i <= this.totalPages; i++) {
+                    pages.push(i);
+                }
+            } else if (this.currentPage <= 3) {
+                pages.push(1, 2, 3, 4, 5);
+            } else if (this.currentPage >= this.totalPages - 2) {
+                pages.push(
+                    this.totalPages - 4,
+                    this.totalPages - 3,
+                    this.totalPages - 2,
+                    this.totalPages - 1,
+                    this.totalPages
+                );
+            } else {
+                pages.push(
+                    this.currentPage - 2,
+                    this.currentPage - 1,
+                    this.currentPage,
+                    this.currentPage + 1,
+                    this.currentPage + 2
+                );
+            }
+            return pages;
+        },
+    },
+    async mounted() {
+        this.welcomeText = this.getRandomText();
+
+        const [editors, changelog, weekly] = await Promise.all([
+            fetchEditors(),
+            fetchChangelog(),
+            fetchWeeklyDemon(),
+        ]);
+
+        this.editors = editors ?? [];
+        this.changelog = changelog ?? [];
+        // Null, no box will show
+        this.weekly = weekly;
+
+        if (!editors) {
+            this.errors.push("Failed to load staff.");
+        }
+        if (!changelog) {
+            this.errors.push("Failed to load changelog.");
+        }
+
+        this.loading = false;
+    },
+    methods: {
+        getRandomText() {
+            const randomNumber = Math.floor(Math.random() * 200) + 1;
+            return randomNumber === 1
+                ? 'Welcome to <span class="gradient-text">your mind</span>...'
+                : 'Welcome to the <span class="gradient-text">Medium Demon List</span>!';
+        },
+        nextPage() {
+            if (this.currentPage < this.totalPages) this.currentPage++;
+        },
+        prevPage() {
+            if (this.currentPage > 1) this.currentPage--;
+        },
+        goToPage(page) {
+            if (page >= 1 && page <= this.totalPages) this.currentPage = page;
+        },
+        goToInputPage() {
+            const page = parseInt(this.inputPage, 10);
+            if (!isNaN(page)) {
+                if (page > this.totalPages) this.goToPage(this.totalPages);
+                else if (page < 1) this.goToPage(1);
+                else this.goToPage(page);
+            }
+            this.inputPage = '';
+        },
+        firstPage() {
+            this.currentPage = 1;
+        },
+        lastPage() {
+            this.currentPage = this.totalPages;
+        },
+        roleIcon,
+        formatEntryText(date, text) {
+            // **bold** markers in the changelog JSON become <strong>
+            const formattedText = escapeHtml(text).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+            return `${date} - ${formattedText}`;
+        },
+        async copyLevelId() {
+            const id = String(this.weekly.id);
+            let copied = false;
+
+            try {
+                await navigator.clipboard.writeText(id);
+                copied = true;
+            } catch {
+                const box = document.createElement('textarea');
+                box.value = id;
+                box.style.position = 'fixed';
+                box.style.opacity = '0';
+                document.body.appendChild(box);
+                box.select();
+                try {
+                    copied = document.execCommand('copy');
+                } catch {
+                    copied = false;
+                }
+                box.remove();
+            }
+
+            this.copyMessage = copied ? 'ID copied!' : "Couldn't copy the ID";
+            clearTimeout(this.copyTimer);
+            this.copyTimer = setTimeout(() => (this.copyMessage = ''), 1000);
+        },
+    },
+};

@@ -1,83 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=1024" />
-        <meta property="og:title" content = "Easy Demon List"/>
-        <meta property="og:description" content = "A website for the Easy Demon List project, meant to rank the hardest demons of such difficulty in Geometry Dash"/>
-        <meta property="og:url" content = "https://easydemonlist.pages.dev"/>
-        <meta property="og:image" content = "https://easydemonlist.pages.dev/20250702_161319.png"/>
-        <meta name="google-site-verification" content="lqGDtQUebn_5yO5lnBNWPHNGSSxtq4oX4wU2YK4usDc" />
-        <title>Easy Demon List</title>
 
-        <!-- Replace your server icon by uploading an image file named "list_icon.png"-->
-        <link rel="icon" href="/list_icon.png?v=2" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-        <link
-            href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@500;700&display=swap"
-            rel="stylesheet"
-        />
-        <link rel="stylesheet" type="text/css" href="/css/reset.css" />
-        <link rel="stylesheet" type="text/css" href="/css/typography.css" />
-        <link rel="stylesheet" type="text/css" href="/css/main.css" />
-        <link rel="stylesheet" type="text/css" href="/css/pages/list.css" />
-        <link
-            rel="stylesheet"
-            type="text/css"
-            href="/css/pages/leaderboard.css"
-        />
-        <link rel="stylesheet" type="text/css" href="/css/pages/listpacks.css" />
-        <link rel="stylesheet" type="text/css" href="/css/pages/roulette.css" />
-        <link rel="stylesheet" type="text/css" href="/css/components/nav.css" />
-        <link rel="stylesheet" type="text/css" href="/css/components/btn.css" />
-        <link
-            rel="stylesheet"
-            type="text/css"
-            href="/css/components/tabs.css"
-        />
-        <script src="https://unpkg.com/vue@3.2.31/dist/vue.global.js"></script>
-        <script src="https://unpkg.com/vue-router@4.0.14/dist/vue-router.global.prod.js"></script>
-        <script type="module" src="/js/main.js"></script>
-    </head>
-    <body id="app">
-        <header :class="{ dark: store.dark }">
-            <div class="logo">
-                <h1 style="display:none;">Easy Demon List</h1>
-                <h2>EDL</h2>
-                <p>v1.2.0</p>
-            </div>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta property="og:title" content = "Easy Demon List"/>
+    <meta property="og:description" content = "A website for the Easy Demon List project, meant to rank the hardest demons of such difficulty in Geometry Dash"/>
+    <meta property="og:url" content = "https://easydemonlist.pages.dev"/>
+    <meta property="og:image" content = "https://easydemonlist.pages.dev/20250702_161319.png"/>
+    <meta name="google-site-verification" content="lqGDtQUebn_5yO5lnBNWPHNGSSxtq4oX4wU2YK4usDc" />
+    <title>Easy Demon List</title>
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@500;700&display=swap" />
+    <link rel="stylesheet" type="text/css" href="/css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/css/typography.css" />
+    <link rel="stylesheet" type="text/css" href="/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="/css/pages/home.css" />
+    <link rel="stylesheet" type="text/css" href="/css/pages/list.css" />
+    <link rel="stylesheet" type="text/css" href="/css/pages/leaderboard.css" />
+    <link rel="stylesheet" type="text/css" href="/css/pages/listpacks.css" />
+    <link rel="stylesheet" type="text/css" href="/css/pages/roulette.css" />
+    <link rel="stylesheet" type="text/css" href="/css/components/nav.css" />
+    <link rel="stylesheet" type="text/css" href="/css/components/btn.css" />
+    <link rel="stylesheet" type="text/css" href="/css/components/search.css" />
+    <link rel="stylesheet" type="text/css" href="/css/components/tabs.css" />
+    <script src="https://unpkg.com/vue@3.2.31/dist/vue.global.js"></script>
+    <script src="https://unpkg.com/vue-router@4.0.14/dist/vue-router.global.prod.js"></script>
+    <script type="module" src="/js/main.js"></script>
+</head>
+
+<body id="app">
+    <div class="root" :class="{ dark: store.dark, shitty: store.shitty }">
+        <header class="surface">
+            <router-link class="logo" to="/">
+                <template v-else>
+                    <h2 class="logo__title">EDL</h2>
+                    <p class="logo__version">v2.0</p>
+                </template>
+            </router-link>
             <nav class="nav">
-                <router-link class="nav__tab" to="/">
+                <router-link class="nav__tab" to="/list">
                     <span class="type-label-lg">List</span>
                 </router-link>
                 <router-link class="nav__tab" to="/leaderboard">
                     <span class="type-label-lg">Leaderboard</span>
                 </router-link>
                 <router-link class="nav__tab" to="/listpacks">
-                  <span class="type-label-lg">Packs</span>
+                    <span class="type-label-lg">Packs</span>
                 </router-link>
                 <router-link class="nav__tab" to="/roulette">
                     <span class="type-label-lg">Roulette</span>
                 </router-link>
+
                 <div class="nav__actions">
-                    <button
-                        class="nav__icon"
-                        @click.prevent="store.toggleDark()"
-                    >
-                        <img
-                            :src="store.dark ? '/assets/light.svg' : '/assets/dark.svg'"
-                            alt=""
-                        />
+                    <button type="button" class="nav__icon" aria-label="Toggle dark mode"
+                        @click.prevent="store.toggleDark()">
+                        <img :src="store.dark ? '/assets/light.svg' : '/assets/dark.svg'" alt="" />
                     </button>
-                    <!-- Replace the '#' with your discord server's invite-->
-                    <a class="nav__icon" href="https://discord.gg/XGN69bmuQh">
+                    <a class="nav__icon" href="https://discord.gg/CwjaCCZvsX" aria-label="Discord">
                         <img src="/assets/discord.svg" alt="Discord Logo" />
                     </a>
-                    <!-- List record submission form, add a link to replace the '#' when putting a link to your list submission form-->
                 </div>
             </nav>
         </header>
-        <router-view :class="{ dark: store.dark }"></router-view>
-    </body>
+        <router-view></router-view>
+    </div>
+</body>
+
 </html>

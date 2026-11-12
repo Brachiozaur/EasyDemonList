@@ -397,6 +397,18 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Applljuice",
+            "link": "https://youtu.be/Ox9vx0-XcQ0",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Maverix",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

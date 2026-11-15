@@ -2,7 +2,17 @@
     "id": 124069819,
     "name": "XVIII",
     "author": "AliceVee",
-    "creators": [],
+    "creators": [
+        "Tfor1",
+        "DuckNgl",
+        "VooBu",
+        "Debihan",
+        "Glubfuberz",
+        "FroxyPlay",
+        "TheBlackHell",
+        "MiraCatsy",
+        "Dyltan77"
+    ],
     "verifier": "AliceVee",
     "verification": "https://youtu.be/ifGeRolg-yE?si=l0whGYNCi6JAGeNC",
     "percentToQualify": "100",
@@ -307,6 +317,24 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "huggies",
+            "link": "https://youtu.be/76cjcBOvR_Q",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "I6RXT",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Zxrlz",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

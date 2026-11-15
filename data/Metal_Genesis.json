@@ -1809,7 +1809,7 @@
             "hz": 120
         },
         {
-            "user": "Solstice",
+            "user": "SolsticeFR",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1834,6 +1834,18 @@
         },
         {
             "user": "Beulraeki",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "QueJy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Nalides",
             "link": "",
             "percent": 100,
             "hz": "- "

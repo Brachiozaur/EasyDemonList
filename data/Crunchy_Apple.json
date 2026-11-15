@@ -1473,7 +1473,7 @@
             "hz": "- "
         },
         {
-            "user": "Solstice",
+            "user": "SolsticeFR",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1495,6 +1495,30 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Beulraeki",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Nalides",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Beli9002",
+            "link": "https://youtu.be/2CVb4ram-ns?t=459",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "QueJy",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

@@ -1137,7 +1137,7 @@
             "hz": 120
         },
         {
-            "user": "Solstice",
+            "user": "SolsticeFR",
             "link": "",
             "percent": 100,
             "hz": "- "
@@ -1159,6 +1159,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Beulraeki",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

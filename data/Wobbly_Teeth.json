@@ -1330,6 +1330,18 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Beulraeki",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
+        },
+        {
+            "user": "Euleloco",
+            "link": "",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }

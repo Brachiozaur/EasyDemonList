@@ -1171,6 +1171,12 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "MapleX",
+            "link": "",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
